@@ -311,3 +311,22 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+.salary-slider {
+  display: block;
+  width: 100%;
+  margin-bottom: var(--spacing-8);
+}
+
+.salary-view {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.salary-view-main {
+  font-size: 20px;
+}
+
+.salary-view-month {
+  font-size: 12px;
+}

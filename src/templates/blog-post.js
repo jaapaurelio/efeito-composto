@@ -1,13 +1,24 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import rehypeReact from "rehype-react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Salary from "../../content/blog/comprar-carro/salary"
+import Car from "../../content/blog/comprar-carro/car"
+import Interest from "../../content/blog/comprar-carro/interest"
+
+import "rc-slider/assets/index.css"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+
+  const renderAst = new rehypeReact({
+    createElement: React.createElement,
+    components: { salary: Salary, car: Car, interest: Interest },
+  }).Compiler
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -24,10 +35,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
+        <div>{renderAst(post.htmlAst)}</div>
         <hr></hr>
       </article>
       <nav className="blog-post-nav">
@@ -76,7 +84,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       excerpt(pruneLength: 160)
-      html
+      htmlAst
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
