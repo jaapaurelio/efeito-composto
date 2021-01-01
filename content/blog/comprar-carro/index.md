@@ -1,7 +1,7 @@
 ---
 title: Comprar carro é mais caro do que pensas
 date: "2021-01-01T12:00:00.000Z"
-description: O problema é simples, as pessoas compram carros acima das suas possibilidades e vivem com a corda ao pescoço para os pagar.
+description: O problema é simples, as pessoas compram carros acima das suas possibilidades.
 tags: ["carro", "custo de oportunidade"]
 ---
 
@@ -9,7 +9,7 @@ tags: ["carro", "custo de oportunidade"]
 
 O carro é uma das razões principais pela qual as pessoas não têm uma vida financeira mais estável.
 
-O problema é simples, as pessoas compram carros acima das suas possibilidades e vivem com a corda ao pescoço para os pagar.
+O problema é simples, as pessoas compram carros acima das suas possibilidades.
 
 Ainda para mais, os carros têm um custo de oportunidade gigantesco, especialmente os novos e pagos a crédito.
 
