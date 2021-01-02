@@ -7,16 +7,20 @@ function fc(value) {
   return currencyFormatter.format(value, { code: "EUR" })
 }
 
-export default function Salary({ selector, percentage, permonth }) {
+export default function Salary({
+  selector,
+  percentage,
+  permonth,
+  edit = false,
+}) {
+  const editClass = edit ? "edit-text" : ""
+
   return (
     <myContext.Consumer>
       {context => (
         <React.Fragment>
           {selector && (
             <React.Fragment>
-              <p>
-                Qual o salário líquido anual? <br />
-              </p>
               <div className="salary-view">
                 <div className="salary-view-main">
                   {fc(context.salary)} / ano
@@ -40,14 +44,14 @@ export default function Salary({ selector, percentage, permonth }) {
           )}
 
           {!selector && !percentage && !permonth && (
-            <span>{fc(context.salary)}</span>
+            <span className={editClass}>{fc(context.salary)}</span>
           )}
 
           {!selector && percentage && (
             <span>{fc(context.salary * percentage)}</span>
           )}
           {!selector && permonth && (
-            <span>{fc(context.salary / permonth)}</span>
+            <span className={editClass}>{fc(context.salary / permonth)}</span>
           )}
         </React.Fragment>
       )}

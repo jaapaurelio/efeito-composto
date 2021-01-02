@@ -330,3 +330,14 @@ a:focus {
 .salary-view-month {
   font-size: 12px;
 }
+
+
+.edit-text {
+  background: #e3ffee;
+  border-bottom: 1px dotted;
+  cursor: pointer;
+}
+
+.edit-text:hover {
+  background: #84ffb4;
+}

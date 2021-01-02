@@ -40,42 +40,37 @@ export default function Car({
   total,
   difference,
   differenceinterest,
+  edit = false,
 }) {
+  const editClass = edit ? "edit-text" : ""
+
   return (
     <myContext.Consumer>
       {context => (
         <React.Fragment>
           {selector && (
             <React.Fragment>
-              <p>Qual o valor do carro?</p>
               <div className="salary-view">
                 <div className="salary-view-main">{fc(context.carValue)}</div>
               </div>
 
               <div className="salary-slider">
                 <Slider
-                  min={1000}
-                  max={60000}
+                  min={context.carPriceRange.min}
+                  max={context.carPriceRange.max}
                   step={200}
                   value={context.carValue}
                   onChange={value => context.changeCarValue(value)}
                 />
               </div>
-
-              {/*<div className="">
-                Pago com empretimo?{" "}
-                <input
-                  type="checkbox"
-                  checked={context.carCredit}
-                  onChange={e => context.changeCarCredit(e.target.checked)}
-                ></input>
-          </div>*/}
             </React.Fragment>
           )}
 
           {!selector && (
             <React.Fragment>
-              {value && fc(context.carValue)}
+              {value && (
+                <span className={editClass}>{fc(context.carValue)}</span>
+              )}
 
               {payment &&
                 fc(
