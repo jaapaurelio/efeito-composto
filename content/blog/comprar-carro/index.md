@@ -17,7 +17,7 @@ Ainda para mais, os carros têm um custo de oportunidade gigantesco, especialmen
 
 O valor do carro não deve ultrapassar 30% do salário líquido anual.
 
-Recebendo <salary edit="true" perMonth="14"></salary> por mês, <salary edit="true"></salary> por ano, o valor de compra do carro deve andar à volta de <salary percentage="0.30"></salary>, isto é 30% do salário anual. Se for menor, melhor.
+Recebendo <salary edit="true" perMonth="14"></salary> por mês, <salary year="true" edit="true"></salary> por ano, o valor de compra do carro deve andar à volta de <salary percentage="0.30"></salary>, isto é 30% do salário anual. Se for menor, melhor.
 
 > Salário líquido anual de <salary year="true"></salary>\
 > Carro de <salary percentage="0.30"></salary>
