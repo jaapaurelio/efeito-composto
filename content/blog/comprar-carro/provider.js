@@ -14,6 +14,8 @@ const Provider = props => {
     min: defaultSalary * minRange,
     max: defaultSalary * maxRange,
   })
+  const [editingSalary, setEditingSalary] = useState(false)
+  const [editingCarValue, setEditingCarValue] = useState(false)
 
   return (
     <myContext.Provider
@@ -22,6 +24,8 @@ const Provider = props => {
         carValue,
         carCredit,
         carPriceRange,
+        editingSalary,
+        editingCarValue,
         changeCarCredit: newCarCredit => setCarCredit(newCarCredit),
         changeSalary: newSalary => {
           setSalary(newSalary)
@@ -31,6 +35,12 @@ const Provider = props => {
           })
         },
         changeCarValue: newValue => setCarValue(newValue),
+        changeEditingSalary: newValue => {
+          setEditingSalary(newValue)
+        },
+        changeEditingCarValue: newValue => {
+          setEditingCarValue(newValue)
+        },
       }}
     >
       {props.children}

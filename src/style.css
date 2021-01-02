@@ -223,10 +223,6 @@ table {
   border-spacing: 0.25rem;
 }
 
-table thead tr th {
-  border-bottom: 1px solid var(--color-accent);
-}
-
 /* Link */
 
 a {
@@ -331,7 +327,6 @@ a:focus {
   font-size: 12px;
 }
 
-
 .edit-text {
   background: #e3ffee;
   border-bottom: 1px dotted;
@@ -340,4 +335,37 @@ a:focus {
 
 .edit-text:hover {
   background: #84ffb4;
+}
+
+.editor-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  z-index: 1;
+}
+
+.editor-container {
+  position: fixed;
+  bottom: 0;
+  background: #fff;
+  left: 0;
+  right: 0;
+  box-shadow: 0 -1px 7px #d6d6d6;
+  z-index: 2;
+}
+
+.editor-content {
+  position: relative;
+}
+.editor-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-size: 12px;
+  cursor: pointer;
 }

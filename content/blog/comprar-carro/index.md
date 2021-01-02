@@ -32,12 +32,12 @@ O custo de oportunidade é o valor de uma decisão comparativamente a outra.
 
 ### <a name="josemariaexample"></a> O José e a Maria
 
-O José recebe <salary edit="true"></salary> por ano e acha que merece um carro de <car edit="true" value="true"></car>.\
+O José recebe <salary year="true" edit="true"></salary> por ano e acha que merece um carro de <car edit="true" value="true"></car>.\
 Como a maioria das pessoas pede empréstimo de 5 anos com taxa de juro de 8%.\
 Isto dá uma prestação de <car payment="true"></car> por mês. Barato para o salário, pensa ele.\
 O valor final do carro será aproximadamente <car total="true"></car>.
 
-A Maria também recebe <salary edit="true"></salary> por ano mas fez as contas e comprou um carro de <salary percentage="0.3"></salary> a pronto pagamento.
+A Maria também recebe <salary year="true" edit="true"></salary> por ano mas fez as contas e comprou um carro de <salary percentage="0.3"></salary> a pronto pagamento.
 
 A diferença entre o carro do José e o da Maria é de <car difference="true"></car>.
 
@@ -53,7 +53,7 @@ Por outro lado, após 5 anos o José tem apenas o carro pago a valer metade do v
 
 Com a decisão de comprar um carro dentro do seu orçamento, **em 5 anos** a Maria tem mais **<car differenceinterest="7"></car>** do que o José que recebe o mesmo salário.
 
-Ela pode agora tirar umas férias, dar entrada para uma casa ou continuar a trabalhar na sua independência financeira. O José terá que trabalhar mais uns anos para isso.
+Ela pode agora tirar umas férias, dar entrada para uma casa ou continuar a investir na sua independência financeira. O José terá que trabalhar mais uns anos para isso.
 
 ### Testar com outros valores
 
@@ -64,9 +64,14 @@ Qual o salario líquido?
 Qual o valor do carro pretendido?
 <car selector="true"></car>
 
-Valor do carro da Maria: **<salary percentage="0.3"></salary>**\
-Valor do carro do José com juros de 8%: **<car total="true"></car>**\
-Diferença na compra: **<car difference="true"></car>**\
-Investimento da Maria após 5 anos: **<car differenceinterest="7"></car>**
+|                                          |                                        |
+| ---------------------------------------- | :------------------------------------: |
+| Valor do carro da Maria (30% do salário) | **<salary percentage="0.3"></salary>** |
+| Valor do carro do José com juros de 8%   |      **<car total="true"></car>**      |
+| Diferença na compra                      |   **<car difference="true"></car>**    |
+| Investimento da Maria após 5 anos        | **<car differenceinterest="7"></car>** |
 
 > Em cinco anos a Maria tem mais <car differenceinterest="7"></car> do que o José.
+
+<salary editor="true"></salary>
+<car editor="true"></car>

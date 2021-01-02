@@ -33,6 +33,26 @@ function interestOnDifference(context) {
   })
 }
 
+function Editor({ context }) {
+  return (
+    <React.Fragment>
+      <div className="salary-view">
+        <div className="salary-view-main">{fc(context.carValue)}</div>
+      </div>
+
+      <div className="salary-slider">
+        <Slider
+          min={context.carPriceRange.min}
+          max={context.carPriceRange.max}
+          step={200}
+          value={context.carValue}
+          onChange={value => context.changeCarValue(value)}
+        />
+      </div>
+    </React.Fragment>
+  )
+}
+
 export default function Car({
   selector,
   payment,
@@ -41,6 +61,7 @@ export default function Car({
   difference,
   differenceinterest,
   edit = false,
+  editor = false,
 }) {
   const editClass = edit ? "edit-text" : ""
 
@@ -48,28 +69,41 @@ export default function Car({
     <myContext.Consumer>
       {context => (
         <React.Fragment>
-          {selector && (
-            <React.Fragment>
-              <div className="salary-view">
-                <div className="salary-view-main">{fc(context.carValue)}</div>
-              </div>
+          {selector && <Editor context={context}></Editor>}
 
-              <div className="salary-slider">
-                <Slider
-                  min={context.carPriceRange.min}
-                  max={context.carPriceRange.max}
-                  step={200}
-                  value={context.carValue}
-                  onChange={value => context.changeCarValue(value)}
-                />
+          {editor && context.editingCarValue && (
+            <div>
+              <div
+                className="editor-overlay"
+                onClick={() => {
+                  context.changeEditingCarValue(false)
+                }}
+              ></div>
+              <div className="editor-container">
+                <div className="editor-content global-wrapper">
+                  <div
+                    className="editor-close"
+                    onClick={() => context.changeEditingCarValue(false)}
+                  >
+                    Fechar
+                  </div>
+                  <Editor context={context}></Editor>
+                </div>
               </div>
-            </React.Fragment>
+            </div>
           )}
 
           {!selector && (
             <React.Fragment>
               {value && (
-                <span className={editClass}>{fc(context.carValue)}</span>
+                <span
+                  className={editClass}
+                  onClick={() => {
+                    edit && context.changeEditingCarValue(true)
+                  }}
+                >
+                  {fc(context.carValue)}
+                </span>
               )}
 
               {payment &&
