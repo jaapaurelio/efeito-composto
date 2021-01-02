@@ -30,7 +30,7 @@ Será esse o motivo pelo qual as pessoas não têm dinheiro? Os estudo dizem que
 
 O custo de oportunidade é o valor de uma decisão comparativamente a outra.
 
-### <a name="josemariaexample"></a> O José e da Maria
+### <a name="josemariaexample"></a> O José e a Maria
 
 O José recebe <salary></salary> por ano e acha que merece um carro de <car value="true"></car>.\
 Como a maioria das pessoas pede empréstimo de 5 anos com taxa de juro de 8%.\
