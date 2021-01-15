@@ -5,8 +5,6 @@ description: O problema é simples, as pessoas compram carros acima das suas pos
 tags: ["carro", "custo de oportunidade"]
 ---
 
-> O valor do carro não deve ultrapassar 30% do salário líquido anual.
-
 O carro é uma das razões principais pela qual as pessoas não têm uma vida financeira mais estável.
 
 O problema é simples, as pessoas compram carros acima das suas possibilidades.
@@ -15,7 +13,9 @@ Ainda para mais, os carros têm um custo de oportunidade gigantesco, especialmen
 
 ## Valor do carro com base no salário líquido anual
 
-O valor do carro não deve ultrapassar 30% do salário líquido anual.
+Embora existam muitas regras sobre qual o valor certo do carro, a regra que sigo é que o valor do carro não deve ultrapassar 30% do salário líquido anual.
+
+Esta percentagem garante que deixamos dinheiro suficiente para investimentos a longo prazo que nos criarão riqueza e não gastamos mais do que o necessário num carro que apenas nos trará despesas.
 
 Recebendo <salary edit="true" perMonth="14"></salary> por mês, <salary year="true" edit="true"></salary> por ano, o valor de compra do carro deve andar à volta de <salary percentage="0.30"></salary>, isto é 30% do salário anual. Se for menor, melhor.
 
@@ -24,7 +24,7 @@ Recebendo <salary edit="true" perMonth="14"></salary> por mês, <salary year="tr
 
 Já estou a ouvir: Impossível, ninguém faz isso!
 
-Será esse o motivo pelo qual as pessoas não têm dinheiro? Os estudos dizem que sim.
+Eu penso de forma diferente, por ninguém fazer isso é que estamos no estado em que estamos, ninguém tem dinheiro.
 
 ## Custo de oportunidade
 
