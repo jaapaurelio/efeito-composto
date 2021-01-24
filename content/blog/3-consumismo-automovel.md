@@ -20,14 +20,16 @@ A minha questão é, de que serve ter um bom carro se temos problemas financeiro
 Por esta visão drástica sobre o tema, eu apenas compro carros pagos a pronto e com o valor total máximo de 30% do meu salário líquido anual.
 
 ## Os meus carros
+
 Atualmente tenho duas viaturas. Um carro comprado em 2016 por 5 mil euros e uma carrinha comprada em 2018 por 6 mil euros, ambos pagos a pronto no dia da compra.
 O valor atual das viaturas é de aproximadamente 8 mil euros.
 
 Atualmente estou a tentar perceber como melhorar a situação e ter apenas um carro. Mesmo assim, o importante é que esses 8 mil euros são menos de 30% do meu salário líquido anual.
 
-Tendo possibilidades para ter um carro bem melhor do que o meu carro atual, escolho não o fazer e canalizar a diferença do valor para os meus investimentos. Esta escolha garante que estou a potencializar o que é realmente importante para mim, a estabilidade e tranquilidade na vida.
+Tendo possibilidades para ter um carro bem melhor do que o meu carro atual, escolho não o fazer e em vez disso canalizar a diferença do valor para os meus investimentos. Esta escolha garante que estou a potencializar o que é realmente importante para mim, a estabilidade e tranquilidade na vida.
 
 ## Carro não é felicidade
+
 Para mim, conduzir um carro simples que compre a sua função faz-me tão feliz como ter um grande carro. Saber que tenho uma vida tranquila com segurança financeira faz-me ainda mais feliz.
 
 Não nos podemos esquecer que a função do carro é nos transportar de um lado para o outro embora todo o mundo nos diga que é mais do que isso. A verdade é que a paixão que criamos pelos carros é produto do consumismo e enquanto não nos apercebemos disso seremos escravos dele.
