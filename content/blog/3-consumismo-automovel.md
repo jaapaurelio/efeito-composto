@@ -17,7 +17,7 @@ A verdade é outra, ter carro sem possibilidades económicas para isso cria em n
 
 A minha questão é, de que serve ter um bom carro se temos problemas financeiros sempre que aparece uma conta para pagar?
 
-Por esta visão drástica sobre o tema, eu apenas compro carros pagos a pronto e com o valor total máximo de 30% do meu salário líquido anual.
+Por esta visão drástica sobre o tema, o valor atual dos meus carros tem que ser sempre menor do que 30% do meu salário líquido anual.
 
 ## Os meus carros
 
@@ -26,7 +26,7 @@ O valor atual das viaturas é de aproximadamente 8 mil euros.
 
 Atualmente estou a tentar perceber como melhorar a situação e ter apenas um carro. Mesmo assim, o importante é que esses 8 mil euros são menos de 30% do meu salário líquido anual.
 
-Tendo possibilidades para ter um carro bem melhor do que o meu carro atual, escolho não o fazer e em vez disso canalizar a diferença do valor para os meus investimentos. Esta escolha garante que estou a potencializar o que é realmente importante para mim, a estabilidade e tranquilidade na vida.
+Tendo possibilidades para ter um carro bem melhor do que o meu carro atual, escolho não o fazer e em vez disso canalizo a diferença do valor para os meus investimentos. Esta escolha garante que estou a potencializar o que é realmente importante para mim, a estabilidade e tranquilidade na vida.
 
 ## Carro não é felicidade
 
