@@ -1,0 +1,21 @@
+backend:
+  name: test-repo
+media_folder: static/assets
+public_folder: /assets
+publish_mode: editorial_workflow
+collections:
+  - name: blog
+    label: Blog
+    folder: blog
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: datetime }
+      - { name: title, label: Title }
+      - { name: xpt, label: Xpt }
+      - { name: body, label: Body, widget: markdown }
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options: ["javascript", "PWA", "web apps"]
