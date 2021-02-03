@@ -40,7 +40,9 @@ Isto ajuda-me a me proteger de situações de extrema emergência como perder o 
 Neste caso da multa, como o valor era fixo, o que fiz foi transferir os 1.200€ do fundo de emergência para a conta à ordem e pagar a dívida.
 
 Assim ficou a sobrar 8.000€ no meu fundo de emergência. Esse valor parece suficiente para próximas emergências, mas não é o valor que estipulei. Por isso o próximo passo foi repor os 9.200€
-Repor o valor original
+
+## Repor o valor original
+
 Nos meses seguintes o meu objetivo foi repor o valor de 9.200€. Para isso tive que abdicar de algumas coisas não essenciais. Repor esse valor passou a ser o meu objetivo principal.
 
 Devido a esse foco, consegui repor o valor original em 2 meses. Atualmente com o fundo de emergência de volta aos 9.200€ sinto-me preparado e tranquilo para atacar a próxima emergência quando ela aparecer.
