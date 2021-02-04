@@ -1,8 +1,11 @@
 ---
+date: 2021-01-14T12:00:00.000Z
 title: Como guardei 50% do salário
-date: "2021-01-14T12:00:00.000Z"
 description: Resposta rápida, com planeamento.
-tags: ["frugal", "regra básica"]
+tags:
+  - frugal
+  - regra básica
+path: Como guardei 50% do salário
 ---
 
 Durante o ano de 2020 consegui poupar 50% do meu salário. Embora o covid tenha ajudado, era algo que tinha planeado desde o início do ano.
