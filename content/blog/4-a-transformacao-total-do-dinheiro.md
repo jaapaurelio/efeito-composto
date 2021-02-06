@@ -100,6 +100,8 @@ Neste passo vamos tentar direcionar os excessos do nosso salário para pagarmos 
 
 A motivação é: imaginem o dinheiro que sobraria por mês caso não tivessem de pagar a prestação da casa. Quanto mais rápido a pagarem, mais rápido terão esse dinheiro disponível.
 
+Este é um ponto contorveso devido às atuais taxas de juro baixas, mas é a ideia apresentada no livro. Não nos pdemos esquecer que a filosofia do Dave Ramsey é viver sem dívidas, uma filosofia que eu apoio.
+
 ## Passo 7: Criar riqueza e doar extravagantemente
 
 Uma vida sem dívidas onde tudo o que ganhamos é nosso, este é o momento de aumentarmos verdadeiramente a nossa riqueza e doar tudo o que nos for permitido.
