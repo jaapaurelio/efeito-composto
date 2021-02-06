@@ -92,7 +92,7 @@ Este e os próximos passos são feitos em paralelo com o Passo 4 uma vez que dep
 
 ## Passo 6: Pagar a casa
 
-Agora que temos as nossas contas em ordem, estamos preparados para imprevistos, temos dinheiro a ser investido no nosso futuro e dos nossos filhos, é hora de pagar a casa.
+Agora que temos as nossas contas em ordem, estamos preparados para imprevistos e temos dinheiro a ser investido no nosso futuro e dos nossos filhos, é hora de pagar a casa.
 
 Neste momento deveremos ter uma vida confortável que pode ser melhorada eliminando o pagamento da casa.
 
