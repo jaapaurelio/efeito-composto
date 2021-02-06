@@ -114,6 +114,6 @@ Também é altura de doar ainda mais do que o normal uma vez que estando finance
 
 ## Nota final
 
-O livro A Transformação Total do Dinheiro mostra a receita para um equilíbrio financeiro que a maioria das pessoas não consegue atingir. Mais importante mostra que pequenas ações vão de facto provocar efeitos gigantescos na nossa vida e que tudo depende apenas de nós.
+O livro A Transformação Total do Dinheiro mostra a receita para um equilíbrio financeiro que a maioria das pessoas não consegue atingir. Mais importante, mostra que pequenas ações vão de facto provocar efeitos gigantescos na nossa vida e que tudo depende apenas de nós.
 
 Para uns juntar 1.000€ no primeiro passo pode parecer impossível, para outros guardar 15% do salário pode parecer absurdo. O que devemos fazer é parar e olhar para a nossa situação financeira atual. Está confortável? Se não está, é hora de começarmos a acreditar que estamos a fazer algo mal e que devemos começar a seguir outras abordagens.
