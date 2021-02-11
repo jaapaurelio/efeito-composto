@@ -9,7 +9,7 @@ Ao ver o filme Dallas Buyers Club com o Matthew McConaughey apercebi-me de uma c
 
 ## O que tem isto a ver com otimismo? 
 
-Tem tudo, isto porque mesmo as pessoas que tomam o medicamento sem efeito começam a notar melhorias no seu corpo, o chamado efeito placebo. Isto prova que a nossa mente tem um forte poder no nosso corpo, se acreditarmos que estamos a ficar melhor, vamos de facto começar a nos sentir melhor.
+Tem tudo, isto porque mesmo as pessoas que tomam o medicamento sem efeito começam a notar melhorias no seu corpo, o chamado efeito placebo. Isto prova que a nossa mente tem um forte poder no nosso corpo, se acreditarmos que estamos a ficar melhor, vamos de facto começar a nos sentirmos melhor.
 
 Alargando isto à nossa vida podemos aplicar este conceito sem a necessidade de tomar um medicamento feito apenas de açúcar, basta sermos positivos. Quem se queixa de estar doente está no caminho para ficar realmente doente, por outro lado quem é otimista e acredita que está saudável está no caminho para ter um corpo saudável.
 
