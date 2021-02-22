@@ -7,6 +7,7 @@ import SEO from "../components/seo"
 import Salary from "../../content/blog/1-comprar-carro/salary"
 import Car from "../../content/blog/1-comprar-carro/car"
 import Interest from "../../content/blog/1-comprar-carro/interest"
+import MailForm from "../components/MailForm"
 
 import "rc-slider/assets/index.css"
 
@@ -64,6 +65,7 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
         </ul>
       </nav>
+      <MailForm></MailForm>
     </Layout>
   )
 }

@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Headline from "../components/headline"
 import Layout from "../components/layout"
+import MailForm from "../components/MailForm"
 import SEO from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
@@ -55,6 +56,8 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
+      <MailForm></MailForm>
+
     </Layout>
   )
 }
