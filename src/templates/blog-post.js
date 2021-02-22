@@ -15,6 +15,7 @@ import BuyHouse from "../../src/components/blog/buy-house"
 import CompoundChart from "../../src/components/blog/compound-chart"
 import Years from "../../src/components/blog/years"
 import EarlyRetirementYears from "../../src/components/blog/early-retirement-years"
+import MailForm from "../components/MailForm"
 
 import "rc-slider/assets/index.css"
 
@@ -88,6 +89,7 @@ const BlogPostTemplate = ({ data, location }) => {
           </li>
         </ul>
       </nav>
+      <MailForm></MailForm>
     </Layout>
   )
 }
