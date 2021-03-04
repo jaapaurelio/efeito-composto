@@ -1,5 +1,5 @@
 import React from "react"
-import { myContext } from "./provider"
+import { myContext } from "../../../src/components/provider"
 import Slider from "rc-slider"
 import currencyFormatter from "currency-formatter"
 import { totalInterest, paymentCalc } from "loan-calc"

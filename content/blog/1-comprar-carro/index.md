@@ -45,7 +45,7 @@ A diferença entre o carro do José e o da Maria é de <car difference="true"></
 
 ### Após 5 anos
 
-A Maria decidiu investir essa diferença de <car difference="true"></car> num fundo e receber 7% de juros ao ano. Após 5 anos tem <car differenceinterest="7"></interest>.
+A Maria decidiu investir essa diferença de <car difference="true"></car> num fundo e receber 7% de juros ao ano. Após 5 anos tem <car differenceinterest="7"></car>.
 
 Por outro lado, após 5 anos o José tem apenas o carro pago a valer metade do valor de compra.
 

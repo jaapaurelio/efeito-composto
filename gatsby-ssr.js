@@ -1,3 +1,3 @@
-import Provider from "./content/blog/1-comprar-carro/provider"
+import Provider from "./src/components/provider"
 
 export const wrapRootElement = Provider

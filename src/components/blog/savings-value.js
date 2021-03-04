@@ -1,5 +1,5 @@
-import React from "react"
-import { myContext } from "../../../src/components/provider"
+import React, { useState, useEffect, useContext } from "react"
+import { myContext } from "../provider"
 import Slider from "rc-slider"
 import currencyFormatter from "currency-formatter"
 
@@ -11,20 +11,21 @@ function Editor({ context }) {
   return (
     <React.Fragment>
       <div className="salary-view">
-        <div className="salary-view-main">{fc(context.salary)} / ano</div>
+        <div className="salary-view-main">
+          {fc(context.savingsValue / 12)} por mês
+        </div>
         <div className="salary-view-month">
-          {fc(context.salary / 12)} / 12 meses - {fc(context.salary / 14)} / 14
-          meses
+          {fc(context.savingsValue)} por ano
         </div>
       </div>
 
       <div className="salary-slider">
         <Slider
-          min={6000}
+          min={600}
           max={50000}
-          step={200}
-          value={context.salary}
-          onChange={value => context.changeSalary(value)}
+          step={600}
+          value={context.savingsValue}
+          onChange={value => context.changeSavingsValue(value)}
         />
       </div>
     </React.Fragment>
@@ -32,34 +33,38 @@ function Editor({ context }) {
 }
 
 export default function Salary({
-  selector,
-  percentage,
-  permonth,
-  year,
-  edit = false,
-  editor = false,
+  editable = false,
+  inlineeditor = false,
+  floateditor = false,
+  valuemonth,
 }) {
-  const editClass = edit ? "edit-text" : ""
+  const { changeSavingsValue } = useContext(myContext)
 
+  useEffect(() => {
+    // Update the document title using the browser API
+    valuemonth && changeSavingsValue(valuemonth * 12)
+  }, [])
+
+  const editClass = editable ? "edit-text" : ""
   return (
     <myContext.Consumer>
       {context => (
         <React.Fragment>
-          {selector && <Editor context={context}></Editor>}
+          {inlineeditor && <Editor context={context}></Editor>}
 
-          {editor && context.editingSalary && (
+          {floateditor && context.editingSavingsValue && (
             <div>
               <div
                 className="editor-overlay"
                 onClick={() => {
-                  context.changeEditingSalary(false)
+                  context.changeEditingSavingsValue(false)
                 }}
               ></div>
               <div className="editor-container">
                 <div className="editor-content global-wrapper">
                   <div
                     className="editor-close"
-                    onClick={() => context.changeEditingSalary(false)}
+                    onClick={() => context.changeEditingSavingsValue(false)}
                   >
                     Fechar
                   </div>
@@ -69,27 +74,14 @@ export default function Salary({
             </div>
           )}
 
-          {year && (
+          {valuemonth && (
             <span
               className={editClass}
               onClick={() => {
-                edit && context.changeEditingSalary(true)
+                editable && context.changeEditingSavingsValue(true)
               }}
             >
-              {fc(context.salary)}
-            </span>
-          )}
-
-          {percentage && <span>{fc(context.salary * percentage)}</span>}
-
-          {permonth && (
-            <span
-              className={editClass}
-              onClick={() => {
-                edit && context.changeEditingSalary(true)
-              }}
-            >
-              {fc(context.salary / permonth)}
+              {fc(context.savingsValue / 12)}
             </span>
           )}
         </React.Fragment>

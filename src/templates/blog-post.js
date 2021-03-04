@@ -6,7 +6,10 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Salary from "../../content/blog/1-comprar-carro/salary"
 import Car from "../../content/blog/1-comprar-carro/car"
-import Interest from "../../content/blog/1-comprar-carro/interest"
+import SavingsValue from "../../src/components/blog/savings-value"
+import CompoundInterest from "../../src/components/blog/compound-interest"
+
+import Years from "../../src/components/blog/years"
 
 import "rc-slider/assets/index.css"
 
@@ -17,7 +20,13 @@ const BlogPostTemplate = ({ data, location }) => {
 
   const renderAst = new rehypeReact({
     createElement: React.createElement,
-    components: { salary: Salary, car: Car, interest: Interest },
+    components: {
+      salary: Salary,
+      car: Car,
+      "savings-value": SavingsValue,
+      years: Years,
+      "compound-interest": CompoundInterest,
+    },
   }).Compiler
 
   return (
