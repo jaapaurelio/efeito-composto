@@ -51,9 +51,9 @@ Para quem não percebe o significado de juros compostos, ganhar 7€ por ano pod
 
 Contas rápidas, se pouparmos <savings-value editable="true" valuemonth="200"></savings-value> por mês durante <years years="30" editable=true></years> anos, teremos guardado **<compound-interest interest="0"></compound-interest>**. Se a esta conta adicionarmos juros de 7% ao ano, isto é, ganhar 7€ por cada 100€ investidos, o valor final é de **<compound-interest interest="7"></compound-interest>**.
 
-Aqui conseguimos ver o poder dos juros compostos, com <compound-interest interest="0"></compound-interest> criamos **<compound-interest interest="7" difference="true"></compound-interest>** de lucro em <years years="30" editable=false></years> anos. Ajustando o valor investido por mês e os anos que queremos esperar para usufruir do dinheiro, temos uma boa visão do que será o nosso futuro.
+Aqui conseguimos ver o poder dos juros compostos, com <compound-interest interest="0"></compound-interest> criamos **<compound-interest interest="7" difference="true"></compound-interest>** de lucro em <years years="30"></years> anos. Ajustando o valor investido por mês e os anos que queremos esperar para usufruir do dinheiro, temos uma boa visão do que será o nosso futuro.
 
-O fator mais importante nos juros compostos é o tempo, isto é, quantos mais anos investirmos, mais retorno teremos. Isto acontece porque os 7€ que ganhamos num ano passam a contar para o próximo ano como investimento, fazendo crescer cada vez mais os nossos lucros.
+O factor mais importante nos juros compostos é o tempo, isto é, quantos mais anos investirmos, mais retorno teremos. Isto acontece porque os 7€ que ganhamos num ano passam a contar para o próximo ano como investimento, fazendo crescer cada vez mais os nossos lucros.
 
 |                  |                                                                        |
 | ---------------- | ---------------------------------------------------------------------- |
