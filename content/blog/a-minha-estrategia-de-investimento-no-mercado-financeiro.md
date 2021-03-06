@@ -15,7 +15,7 @@ Quando falo em investimentos, a maior parte das pessoas pensa em formas de conve
 
 Embora seja possível converter 2 euros em 10 milhões da noite para o dia, isso é algo extremamente improvável de acontecer. Este é o exemplo do euromilhões, onde as pessoas “investem” o seu dinheiro e deixam o seu futuro nas mãos da sorte ou azar, sem qualquer controlo sobre o resultado final.
 
-A minha estratégia é exatamente o inverso do euromilhões ou qualquer jogo de sorte e azar, em vez de deixar a sorte decidir o meu futuro, invisto todos os meses em algo onde posso prever os resultados minimamente a longo prazo. Um dos sítios onde isso é possível, é o mercado financeiro.
+A minha estratégia é exatamente o inverso do euromilhões, em vez de deixar a sorte decidir o meu futuro, invisto todos os meses em algo onde posso prever minimamente os resultados a longo prazo. Um dos sítios onde isso é possível, é o mercado financeiro.
 
 ## Mercado Financeiro
 
@@ -35,15 +35,15 @@ Assim, não querendo fazer apostas em empresas individuais, uso um ETF para comp
 
 Sem querer entrar em muitos detalhes, um ETF é um fundo de investimento que segue um índice. Um índice por sua vez é uma lista de empresas com um certo critério de escolha.
 
-No meu caso, o ETF onde invisto segue o índice das mil maiores empresas do mundo, dos países desenvolvidos.
+No meu caso, de forma simplificada, o ETF onde invisto segue o índice das mil maiores empresas do mundo, dos países desenvolvidos.
 
 A minha estratégia é simples, todos os meses retiro uma percentagem do meu salário e invisto neste ETF, reforçando assim a minha posição.
 
-Isto é um investimento a longo prazo, onde penso começar a retirar os lucros daqui a 15 anos. Até lá, todas essas empresas juntamente com todos os seus funcionários estarão a trabalhar para mim, sempre que a Apple vender um iPhone ou a Coca-Cola vender mais uma das suas latas vermelhas, eu estarei a ganhar dinheiro.
+Isto é um investimento a longo prazo, onde penso começar a retirar os lucros daqui a 15 anos. Até lá, sempre que a Apple vender um iPhone ou a Coca-Cola vender mais uma das suas latas vermelhas, eu estarei a ganhar dinheiro.
 
 Possuir um ETF global também tem alguns riscos. Uma crise como a de 2008 ou a economia não crescer o esperado, pode fazer com que percámos parte do nosso investimento temporariamente. Por esse motivo, o ideal é investir sempre a longo prazo.
 
-Mesmo com todas as crises, guerras mundias e pandemias, no último século, o mercado retornou em média 10% ao ano. Se ajustarmos à inflação, o retorno anda à volta dos 7%. Isto é, por cada 100€ investidos temos um lucro de 7€ por ano.
+Mesmo com todas as crises, guerras mundiais e pandemias, no último século, o mercado retornou em média 10% ao ano. Se ajustarmos à inflação, o retorno anda à volta dos 7%. Isto é, por cada 100€ investidos temos um lucro de 7€ por ano.
 
 ## Juros compostos
 
@@ -53,7 +53,7 @@ Contas rápidas, se pouparmos <savings-value editable="true" valuemonth="200"></
 
 Aqui conseguimos ver o poder dos juros compostos, com <compound-interest interest="0"></compound-interest> poupados ao longo dos <years years="30"></years> anos, criamos **<compound-interest interest="7" difference="true"></compound-interest>** de lucro. 
 
-O factor mais importante nos juros compostos é o tempo, isto é, quantos mais anos investirmos, mais retorno teremos. Isto acontece porque os 7€ que ganhamos num ano passam a contar para o próximo ano como investimento, fazendo crescer cada vez mais os nossos lucros. Ajustando o valor investido por mês e os anos que queremos esperar para usufruir do dinheiro, criamos uma boa visão do que será o nosso futuro.
+O factor mais importante nos juros compostos é o tempo, isto é, quantos mais anos investirmos, mais retorno teremos. Isto acontece porque os 7€ que ganhamos num ano passam a contar para o próximo ano como investimento, fazendo crescer cada vez mais os nossos lucros. Ajustando o valor investido por mês e os anos que queremos esperar para usufruir do dinheiro, temos uma boa previsão do que será o nosso futuro.
 
 |                  |                                                                        |
 | ---------------- | ---------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ Este tipo de investimento, aliado ao facto de poupar e investir mensalmente 50% 
 
 Para quem gosta de arriscar, é uma estratégia que pode ser considerada aborrecida ou pouco lucrativa. Por outro lado, para quem gosta de certezas, pode parecer uma estratégia perigosa visto envolver o mercado financeiro.
 
-Para mim, é a estratégia que considero certa, com o nível de risco e recompensa adequado ao meu estilo de vida e ao meu plano de conquistar independência financeira nos próximos anos.
+Para mim, é a estratégia que considero certa, com o nível de risco e recompensa adequado ao meu estilo de vida e ao meu plano de atingir independência financeira nos próximos anos.
 
 <savings-value floateditor="true"></savings-value>
 <years floateditor="true"></years>
