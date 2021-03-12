@@ -4,7 +4,7 @@ export const initialState = {
   savingsValue: 200 * 12,
   editingSavingsValue: false,
   years: 30,
-  editingYears: true,
+  editingYears: false,
 }
 
 const reducer = (state, [type, payload]) => {
