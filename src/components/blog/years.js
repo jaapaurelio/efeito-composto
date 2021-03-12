@@ -1,13 +1,14 @@
 import React, { useEffect, useContext } from "react"
 import { myContext } from "../provider"
 import Slider from "rc-slider"
+import { changeYears, openYearsEditor } from "../../state/actions"
 
-function Editor({ context }) {
+function Editor({ state, dispatch }) {
   return (
     <React.Fragment>
       <div className="salary-view">
-        <div className="salary-view-main">{context.years} anos</div>
-        <div className="salary-view-month">{context.years * 12} meses</div>
+        <div className="salary-view-main">{state.years} anos</div>
+        <div className="salary-view-month">{state.years * 12} meses</div>
       </div>
 
       <div className="salary-slider">
@@ -15,8 +16,8 @@ function Editor({ context }) {
           min={1}
           max={60}
           step={1}
-          value={context.years}
-          onChange={value => context.changeYears(value)}
+          value={state.years}
+          onChange={value => dispatch(changeYears(value))}
         />
       </div>
     </React.Fragment>
@@ -29,54 +30,50 @@ export default function Salary({
   floateditor = false,
   years,
 }) {
-  const { changeYears } = useContext(myContext)
+  const { state, dispatch } = useContext(myContext)
 
   useEffect(() => {
     // Update the document title using the browser API
-    years && changeYears(years)
+    years && dispatch(changeYears(years))
   }, [])
 
   const editClass = editable ? "edit-text" : ""
 
   return (
-    <myContext.Consumer>
-      {context => (
-        <React.Fragment>
-          {inlineeditor && <Editor context={context}></Editor>}
-          {floateditor && context.editingYears && (
-            <div>
+    <React.Fragment>
+      {inlineeditor && <Editor state={state} dispatch={dispatch}></Editor>}
+      {floateditor && state.editingYears && (
+        <div>
+          <div
+            className="editor-overlay"
+            onClick={() => {
+              dispatch(openYearsEditor(false))
+            }}
+          ></div>
+          <div className="editor-container">
+            <div className="editor-content global-wrapper">
               <div
-                className="editor-overlay"
-                onClick={() => {
-                  context.changeEditingYears(false)
-                }}
-              ></div>
-              <div className="editor-container">
-                <div className="editor-content global-wrapper">
-                  <div
-                    className="editor-close"
-                    onClick={() => context.changeEditingYears(false)}
-                  >
-                    Fechar
-                  </div>
-                  <Editor context={context}></Editor>
-                </div>
+                className="editor-close"
+                onClick={() => dispatch(openYearsEditor(false))}
+              >
+                Fechar
               </div>
+              <Editor state={state} dispatch={dispatch}></Editor>
             </div>
-          )}
-
-          {years && (
-            <span
-              className={editClass}
-              onClick={() => {
-                editable && context.changeEditingYears(true)
-              }}
-            >
-              {context.years}
-            </span>
-          )}
-        </React.Fragment>
+          </div>
+        </div>
       )}
-    </myContext.Consumer>
+
+      {years && (
+        <span
+          className={editClass}
+          onClick={() => {
+            editable && dispatch(openYearsEditor(true))
+          }}
+        >
+          {state.years}
+        </span>
+      )}
+    </React.Fragment>
   )
 }

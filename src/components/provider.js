@@ -1,8 +1,12 @@
-import React, { useState } from "react"
+import React, { useState, useReducer } from "react"
+import reducer, { initialState } from "../state/reducer"
+import logger from "use-reducer-logger"
 
 export const myContext = React.createContext()
 
 const Provider = props => {
+  const [state, dispatch] = useReducer(logger(reducer), initialState)
+
   // blog post
   const defaultSalary = 14000
   const minRange = 0.3
@@ -18,16 +22,11 @@ const Provider = props => {
   const [editingSalary, setEditingSalary] = useState(false)
   const [editingCarValue, setEditingCarValue] = useState(false)
 
-  // global
-  const defaultSaveValue = 200 * 12
-  const [savingsValue, setSavingsValue] = useState(defaultSaveValue)
-  const [editingSavingsValue, setEditingSavingsValue] = useState(false)
-  const [years, setYears] = useState(30)
-  const [editingYears, setEditingYears] = useState(false)
-
   return (
     <myContext.Provider
       value={{
+        dispatch,
+        state,
         salary,
         carValue,
         carCredit,
@@ -49,16 +48,6 @@ const Provider = props => {
         changeEditingCarValue: newValue => {
           setEditingCarValue(newValue)
         },
-        // global
-        savingsValue,
-        editingSavingsValue,
-        changeSavingsValue: setSavingsValue,
-        changeEditingSavingsValue: setEditingSavingsValue,
-
-        years,
-        editingYears,
-        changeYears: setYears,
-        changeEditingYears: setEditingYears,
       }}
     >
       {props.children}

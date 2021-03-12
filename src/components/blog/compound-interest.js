@@ -1,4 +1,4 @@
-import React, { useEffect, useContext } from "react"
+import React, { useContext } from "react"
 import { myContext } from "../provider"
 import currencyFormatter from "currency-formatter"
 import cInterest from "compound-interest"
@@ -16,53 +16,49 @@ export default function CompoundInterest({
   interest = 7,
   difference = false,
 }) {
+  const { state } = useContext(myContext)
   return (
-    <myContext.Consumer>
-      {context => (
-        <React.Fragment>
-          <span>
-            {!difference &&
-              interest != "0" &&
-              fc(
-                cInterest({
-                  initial: initial, // initial balance
-                  monthly: context.savingsValue / 12, // monthly addition
-                  interest, // +% interest
-                  compound: 12, // compounding factor (1, 12, 365...)
-                  years: context.years, // years
-                })
-              )}
+    <span>
+      <div></div>
+      {!difference &&
+        interest !== "0" &&
+        fc(
+          cInterest({
+            initial: initial, // initial balance
+            monthly: state.savingsValue / 12, // monthly addition
+            interest, // +% interest
+            compound: 12, // compounding factor (1, 12, 365...)
+            years: state.years, // years
+          })
+        )}
 
-            {!difference &&
-              interest == "0" &&
-              fc(
-                calculateSavings({
-                  initial: initial, // initial balance
-                  monthly: context.savingsValue / 12, // monthly addition
-                  interest, // +% interest
-                  years: context.years, // years
-                })
-              )}
+      {!difference &&
+        interest === "0" &&
+        fc(
+          calculateSavings({
+            initial: initial, // initial balance
+            monthly: state.savingsValue / 12, // monthly addition
+            interest, // +% interest
+            years: state.years, // years
+          })
+        )}
 
-            {difference &&
-              fc(
-                cInterest({
-                  initial: initial, // initial balance
-                  monthly: context.savingsValue / 12, // monthly addition
-                  interest, // +% interest
-                  compound: 12, // compounding factor (1, 12, 365...)
-                  years: context.years, // years
-                }) -
-                  calculateSavings({
-                    initial: initial, // initial balance
-                    monthly: context.savingsValue / 12, // monthly addition
-                    interest, // +% interest
-                    years: context.years, // years
-                  })
-              )}
-          </span>
-        </React.Fragment>
-      )}
-    </myContext.Consumer>
+      {difference &&
+        fc(
+          cInterest({
+            initial: initial, // initial balance
+            monthly: state.savingsValue / 12, // monthly addition
+            interest, // +% interest
+            compound: 12, // compounding factor (1, 12, 365...)
+            years: state.years, // years
+          }) -
+            calculateSavings({
+              initial: initial, // initial balance
+              monthly: state.savingsValue / 12, // monthly addition
+              interest, // +% interest
+              years: state.years, // years
+            })
+        )}
+    </span>
   )
 }
