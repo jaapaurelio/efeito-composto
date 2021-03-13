@@ -12,9 +12,6 @@ Para reduzir o número de imprevistos, o melhor é estar preparado antecipadamen
 
 No meu caso tenho 2 carros, um Renault Megane de 2004 e uma carrinha Toyota de 2002. O levantamento das despesas previstas para 2021 foi o seguinte.
 
-
-Gasto obrigatório
-
 |                  |          |
 | ---------------- | -------- |
 | Seguro Renault   | 136€     |
