@@ -45,9 +45,11 @@ Para facilitar a minha vida, configurei uma transferência automática no dia 1 
 ## É hora de pagar o seguro automóvel
 O seguro da Toyota e o imposto de circulação do Renault chegaram este mês, a conta total foi de 128€.
 
-Seguro automóvel 6 meses:  106€ 
-Imposto de circulação:  22€
-Total: 128€
+|                       |          |
+| --------------------- | -------- |
+| Seguro                | 106€     |
+| Imposto de circulação | 22€      |
+| **Total**             | **128€** |
 
 Ao olhar para a conta poupança automóvel, este mês tinha 604€ prontos a serem utilizados. Como tinha 128€ para pagar, movi esse valor para a minha conta à ordem e paguei as contas. Após isso, fiquei com 476€ na conta automóvel para futuras despesas.
 
