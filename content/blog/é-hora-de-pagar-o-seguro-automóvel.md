@@ -36,7 +36,7 @@ Num mundo perfeito terei que pagar apenas 702€ para sustentar os meus carros. 
 
 Este valor, 1 382€, embora seja apenas uma previsão, está muito mais próximo da realidade do que os 702€ originais. Ele está a contemplar a maior parte dos imprevistos que irão acontecer ao longo do ano, sendo que assim deixam de ser imprevistos. 
 
-Após dividir 1 382€ por 12, sabemos exatamente quanto precisamos guardar mensalmente para cobrir todas as despesas. Neste caso são 115€.
+Após dividir 1 382€ por 12, sei exatamente quanto preciso guardar mensalmente para cobrir todas as despesas. Neste caso são 115€.
 
 Assim, para evitar imprevistos tenho que poupar 115€ mensalmente. Este dinheiro pode ser guardado numa conta poupança dedicada ou num envelope em casa, o importante é estar guardado e pronto a usar quando necessário. No meu caso utilizo uma conta poupança.
 
