@@ -64,7 +64,7 @@ module.exports = {
         short_name: `EfeitoComposto`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#118475`,
         display: `minimal-ui`,
         icon: `content/assets/blog-icon.png`,
       },

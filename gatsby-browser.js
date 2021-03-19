@@ -1,6 +1,6 @@
 // custom typefaces
-import "typeface-montserrat"
-import "typeface-merriweather"
+import "@fontsource/fira-sans"
+import "@fontsource/rubik"
 // normalize CSS across browsers
 import "./src/normalize.css"
 // custom CSS styles

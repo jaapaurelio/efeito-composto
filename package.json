@@ -8,6 +8,9 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "@fontsource/fira-sans": "^4.2.2",
+    "@fontsource/playfair-display": "^4.2.2",
+    "@fontsource/rubik": "^4.2.2",
     "compound-interest": "^0.3.1",
     "currency-formatter": "^1.5.6",
     "gatsby": "^2.29.3",
@@ -36,8 +39,6 @@
     "react-helmet": "^5.2.1",
     "recharts": "^2.0.8",
     "rehype-react": "^6.1.0",
-    "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.75",
     "use-reducer-logger": "^1.0.2"
   },
   "devDependencies": {
