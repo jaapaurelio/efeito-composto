@@ -27,7 +27,7 @@ const reducer = (state, [type, payload]) => {
     case ACTIONS.CHANGE_YEARS:
       return {
         ...state,
-        years: payload,
+        years: Number(payload),
       }
     default:
       return state

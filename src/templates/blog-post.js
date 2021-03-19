@@ -8,6 +8,7 @@ import Salary from "../../content/blog/1-comprar-carro/salary"
 import Car from "../../content/blog/1-comprar-carro/car"
 import SavingsValue from "../../src/components/blog/savings-value"
 import CompoundInterest from "../../src/components/blog/compound-interest"
+import BuyHouse from "../../src/components/blog/buy-house"
 
 import Years from "../../src/components/blog/years"
 
@@ -26,6 +27,7 @@ const BlogPostTemplate = ({ data, location }) => {
       "savings-value": SavingsValue,
       years: Years,
       "compound-interest": CompoundInterest,
+      "buy-house": BuyHouse,
     },
   }).Compiler
 

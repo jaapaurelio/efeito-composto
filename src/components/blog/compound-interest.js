@@ -15,11 +15,11 @@ export default function CompoundInterest({
   initial = 0,
   interest = 7,
   difference = false,
+  years,
 }) {
   const { state } = useContext(myContext)
   return (
     <span>
-      <div></div>
       {!difference &&
         interest !== "0" &&
         fc(
@@ -28,7 +28,7 @@ export default function CompoundInterest({
             monthly: state.savingsValue / 12, // monthly addition
             interest, // +% interest
             compound: 12, // compounding factor (1, 12, 365...)
-            years: state.years, // years
+            years: years || state.years, // years
           })
         )}
 
@@ -39,7 +39,7 @@ export default function CompoundInterest({
             initial: initial, // initial balance
             monthly: state.savingsValue / 12, // monthly addition
             interest, // +% interest
-            years: state.years, // years
+            years: years || state.years, // years
           })
         )}
 

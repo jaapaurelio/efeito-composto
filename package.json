@@ -34,6 +34,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^5.2.1",
+    "recharts": "^2.0.8",
     "rehype-react": "^6.1.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",

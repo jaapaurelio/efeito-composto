@@ -1,0 +1,41 @@
+.legend-container {
+  text-align: center;
+}
+
+.legend-item {
+  font-size: 11px;
+  margin-right: 10px;
+}
+
+.table-container {
+  margin-top: 40px;
+}
+
+.table-header {
+  font-size: 12px;
+  text-align: left;
+}
+.table-header th {
+  width: 20%;
+}
+
+.tableContent {
+  font-size: 12px;
+  text-align: left;
+}
+
+.tableContent:nth-child(even) {
+  background: whitesmoke;
+}
+
+.worst {
+  color: #d2691e;
+}
+
+.best {
+  color: #8884d8;
+}
+
+.average {
+  color: #49ad6e;
+}
