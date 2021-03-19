@@ -126,7 +126,7 @@ export default function CompoundInterest({}) {
               dataKey="worst"
               stroke="#d2691e"
             />
-            <Line dot={false} dataKey="best" stroke="#8884d8" />
+            <Line dot={false} type="monotone" dataKey="best" stroke="#8884d8" />
             <Line
               dot={false}
               type="monotone"
