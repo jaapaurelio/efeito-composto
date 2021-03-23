@@ -74,8 +74,8 @@ Este é um período que começamos a chamar de longo prazo e começa a ser menos
 | **Investido mensalmente:**         | <savings-value editable="true" valuemonth="200"></savings-value> |
 | **Durante:**                       | 10 anos                                                          |
 | **Total investido:**               | <compound-interest years="10" interest="0"></compound-interest>  |
-| **Pior resultado (-6.6% anual):**  | <compound-interest years="10" interest="-3"></compound-interest> |
-| **Melhor resultado (+30% anual):** | <compound-interest years="10" interest="20"></compound-interest> |
+| **Pior resultado (-3% anual):**    | <compound-interest years="10" interest="-3"></compound-interest> |
+| **Melhor resultado (+20% anual):** | <compound-interest years="10" interest="20"></compound-interest> |
 
 ## Quinze anos
 
