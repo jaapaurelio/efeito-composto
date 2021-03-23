@@ -1,5 +1,5 @@
 ---
-path: os-melhores-e-piores-periodos-do-mercado-de-acoes
+path: os-melhores-e-piores-periodos-do-mercado-de-acoes-
 date: 2021-03-23T08:50:00.774Z
 title: Os melhores e piores períodos do mercado de ações
 description: Embora resultados passados não sejam garantias de resultados futuros, eles são um bom indicador do que pode acontecer com os nossos investimentos, seja pelo lado positivo, como pelo negativo.
@@ -23,7 +23,7 @@ Valor investido mensalmente: <savings-value editable="true" valuemonth="200"></s
 
 Em períodos curtos, os investimentos no mercado são extremamente voláteis, podendo retornar resultados excelentes ou muito negativos. A melhor estratégia, como iremos ver, é apostar no longo prazo, onde a estatística mostra que os resultados são bem mais estáveis.
 
-No melhor período de um ano, que acabou em Junho 1983, o SP500 retornou 61%. O pior período acabou em Fevereiro de 2009, e retornou -42%. Em períodos de 1 ano, 75.4% das vezes temos retorno positivo, 24.6% das vezes temos retorno negativo.
+No melhor período de um ano, que acabou em Junho 1983, o SP500 retornou 61%. O pior período acabou em Fevereiro de 2009, e retornou -42%. Em períodos de 1 ano, 75.4% das vezes tivemos retorno positivo, 24.6% das vezes tivemos retorno negativo.
 
 <compound-chart years="1" best_interest="61" worst_interest="-42"></compound-chart>
 
@@ -37,7 +37,7 @@ No melhor período de um ano, que acabou em Junho 1983, o SP500 retornou 61%. O 
 
 ## Três anos
 
-Um período de três anos continua a ser considerado curto prazo no que toca a investimentos passivos. Aqui, o melhor período retornou 32% anualmente, o pior retornou -16%. Em períodos de 3 anos, 83.9% das vezes temos retorno positivo, 16.1% das vezes temos retorno negativo.
+Um período de três anos continua a ser considerado curto prazo no que toca a investimentos passivos. Aqui, o melhor período retornou 32% anualmente, o pior retornou -16%. Em períodos de 3 anos, 83.9% das vezes tivemos retorno positivo, 16.1% das vezes tivemos retorno negativo.
 
 <compound-chart years="3" best_interest="32" worst_interest="-16"></compound-chart>
 
