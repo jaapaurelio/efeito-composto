@@ -109,7 +109,7 @@ Podemos ver que o longo prazo dá-nos resultados mais estáveis mas não só. Aq
 
 ## O futuro
 
-Os dados históricos ajudam-nos a entender o que aconteceu no passado, mas nunca nos ajudarão a prever o futuro. De qualquer forma, como vimos, há uma tendência para resultados positivos nos investimentos a longo prazo. A curto prazo, podemos ter resultados astronómicos mas muito voláteis. É no longo prazo que as grandes furtunas são feitas, com ajuda da estabilidade e dos juros compostos. O Warren Buffet, um dos melhores investidores da história, mostra o valor da estabilidade nas suas regras sobre investimentos.
+Os dados históricos ajudam-nos a entender o que aconteceu no passado, mas nunca nos ajudarão a prever o futuro. De qualquer forma, como vimos, há uma tendência para resultados positivos nos investimentos a longo prazo. A curto prazo, podemos ter resultados astronómicos mas muito voláteis. É no longo prazo que as grandes fortunas são feitas, com ajuda da estabilidade e dos juros compostos. O Warren Buffet, um dos melhores investidores da história, mostra o valor da estabilidade nas suas regras sobre investimentos.
 
 > Primeira regra, nunca perder dinheiro. Segunda regra, nunca esquecer a primeira regra. - Warren Buffet
 
