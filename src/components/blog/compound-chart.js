@@ -3,6 +3,7 @@ import { myContext } from "../provider"
 import currencyFormatter from "currency-formatter"
 import cInterest from "compound-interest"
 import * as styles from "./compound-chart.module.css"
+import millify from "millify"
 
 import {
   LineChart,
@@ -39,14 +40,6 @@ function formatLabel(label) {
     default:
       return label
   }
-}
-
-function tooltipFormater(value, name, props) {
-  return [fc(value), formatLabel(name)]
-}
-
-function formatTooltipLabel(value) {
-  return value === 1 ? `${value} ano` : `${value} anos`
 }
 
 export default function CompoundChart({
@@ -108,7 +101,7 @@ export default function CompoundChart({
             <YAxis
               axisLine={false}
               width={30}
-              tickFormatter={fcNoZero}
+              tickFormatter={millify}
               tick={{ fontSize: "11px" }}
             />
             <Legend content={legend} />
