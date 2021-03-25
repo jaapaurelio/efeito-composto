@@ -5,9 +5,10 @@ title: Everyday Millionaires (Milionários do dia a dia) de Chris Hogan
 description: Um livro escrito pelo Chris Hogan, onde apresenta estatísticas e
   lições do maior estudo alguma vez feito sobre milionários.
 ---
-Milionários do dia a dia, traduzido literalmente de *Everyday Millionaires*, visto ainda não existir título em português, é um livro escrito pelo Chris Hogan, onde apresenta estatísticas e lições do maior estudo alguma vez feito sobre milionários.
 
-O livro reconhecido até à data como o maior estudo sobre o tema era "O Milionário Mora ao Lado", de Thomas J. Stanley, publicado em 1996. Esse livro continua a ser uma referência no que toca a finanças pessoais, mas o Chris Hogan, com o livro Everyday Millionaires, foi um pouco mais além. 
+Milionários do dia a dia, traduzido literalmente de _Everyday Millionaires_, visto ainda não existir título em português, é um livro escrito pelo Chris Hogan, onde apresenta estatísticas e lições do maior estudo alguma vez feito sobre milionários.
+
+O livro reconhecido até à data como o maior estudo sobre o tema era "O Milionário Mora ao Lado", de Thomas J. Stanley, publicado em 1996. Esse livro continua a ser uma referência no que toca a finanças pessoais, mas o Chris Hogan, com o livro Everyday Millionaires, foi um pouco mais além.
 
 Chris Hogan, e a sua equipa no Ramsey Solutions, entrevistaram 10.000 milionários, e ao contrário do livro de Stanley, é um livro atual, lançado em 2019. Os dois apresentam praticamente a mesma visão sobre os milionários e as estratégias que utilizam, mas sendo o Everyday Millionaires um livro mais recente e com um maior número de entrevistas, as estatísticas são mais relevantes caso queiramos aprender com os atuais milionários e repetir a receita.
 
@@ -15,13 +16,13 @@ Chris Hogan, e a sua equipa no Ramsey Solutions, entrevistaram 10.000 milionári
 
 O livro está dividido em três partes que destroem os mitos da sociedade em relação aos milionários. Os mitos são os seguintes:
 
-* Eles receberam dinheiro sem trabalhar
-* Eles assumem grandes riscos para fazer dinheiro
-* Eles têm uma educação e carreiras profissionais privilegiadas
+- Eles receberam dinheiro sem trabalhar
+- Eles assumem grandes riscos para fazer dinheiro
+- Eles têm uma educação e carreiras profissionais privilegiadas
 
 Vamos analisar o que as estatísticas dizem em relação a cada um desses pontos. Visto ser um livro americano, as estatísticas são baseadas nos Estados Unidos da América, mas mesmo vivendo em Portugal, elas continuam a ser válidas e relevantes na grande maioria das vezes.
 
-Antes de mais, o conceito de milionário descrito no livro é de alguém que tem mais de 1 milhão de dólares em património, isto inclui a casa onde moram e investimentos. 
+Antes de mais, o conceito de milionário descrito no livro é de alguém, geralmente um casal, que tem mais de 1 milhão de dólares em património, incluindo a casa onde moram e os seus investimentos.
 
 ## Mito 1 - Os milionários receberam dinheiro sem trabalhar
 
@@ -39,7 +40,7 @@ Ao longo do livro, começamos a ganhar noção que tornar-se milionário é uma 
 
 O livro diz que a maioria das pessoas acredita em duas coisas: os milionários fazem investimentos arriscados e fazem dinheiro rapidamente.
 
-A verdade é que a maioria dos milionários investem parte do seu salário, mês após mês e ano após ano, durante muitos anos, levando 28 anos em média até fazerem o primeiro milhão. As estatísticas mostram que 75% dos milionários investem regularmente e consistentemente em fundos diversificados, reduzindo assim o risco. Também mostra que nenhum dos milionários atribui a sua fortuna a uma ação específica do mercado de ações. Eles acreditam que é melhor diversificar do que apostar numa só empresa. 
+A verdade é que a maioria dos milionários investem parte do seu salário, mês após mês e ano após ano, durante muitos anos, levando 28 anos em média até fazerem o primeiro milhão. As estatísticas mostram que 75% dos milionários investem regularmente e consistentemente em fundos diversificados, reduzindo assim o risco. Também mostra que nenhum dos milionários atribui a sua fortuna a uma ação específica do mercado de ações. Eles acreditam que é melhor diversificar do que apostar numa só empresa.
 
 Pelo livro também percebemos que é mais importante gerir bem o que recebemos do que necessariamente ganhar mais dinheiro, sendo que 94% dos milionários gastam menos do que ganham, comparativamente a 55% da população geral. Também, 95% dos milionários planeiam poupanças e grandes compras com antecedência, na população geral apenas 67% o faz. Em relação ao planeamento, 93% dos milionários seguem à risca o orçamento feito com antecedência.
 
