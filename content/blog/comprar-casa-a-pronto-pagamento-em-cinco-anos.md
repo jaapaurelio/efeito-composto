@@ -53,7 +53,7 @@ Se tivermos um prazo mais flexível, podemos ser um pouco mais criativos. Em vez
 
 É importante estarmos conscientes que o mercado financeiro sobe e desce e nada nos garante que dentro de 5 anos teremos mais dinheiro do que o poupado. Existem várias técnicas de gestão de risco, como por exemplo, colocar uma percentagem do investimento no mercado e outra em algo estável e ir ajustando ao longo dos anos. Para simplificar, vamos colocar todo o dinheiro no mercado e analisar o melhor e o pior período de 5 anos da história.
 
-Vamos assumir que investimos num ETF bem diversificado como o SP500, isto é, investir nas 500 maiores empresas dos Estados Unidos da América.
+Vamos assumir que investimos num ETF bem diversificado que siga o S&P500, isto é, investir nas 500 maiores empresas listadas na bolsa dos Estados Unidos da América.
 
 Os dados mostram que num período de 5 anos o pior retorno que o mercado teve foi de -6.6% anual, com o seu final em Fevereiro de 2009, uma crise que todos nós nos recordamos. O melhor retorno aconteceu no período de 5 anos que acabou em Julho de 1987, retornando 30% anuais. Para termos ideia do retorno médio do mercado, podemos olhar para os últimos 100 anos, onde o retorno é de 7% anual.
 

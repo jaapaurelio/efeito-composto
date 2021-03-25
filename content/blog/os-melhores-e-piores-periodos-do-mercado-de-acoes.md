@@ -9,13 +9,13 @@ Eu sou um investidor passivo, isto é, acredito que a economia como um todo irá
 
 Embora resultados passados não sejam garantias de resultados futuros, eles são um bom indicador do que pode acontecer com os nossos investimentos, seja pelo lado positivo, como pelo negativo.
 
-Um bom exemplo de diversificação é o índice SP500, que junta as 500 maiores empresas dos Estados Unidos da América. Ele é geralmente usado para representar o estado da economia global, visto que, embora seja americano, a maioria das empresas são globais, como a Apple, Coca-Cola, Google, Amazon, Visa Inc, entre outras.
+Um bom exemplo de diversificação é o índice S&P500, que junta as 500 maiores empresas listadas na bolsa dos Estados Unidos da América. Ele é geralmente usado para representar o estado da economia global, visto que, embora seja americano, a maioria das empresas são globais, como a Apple, Coca-Cola, Google, Amazon, Visa Inc, entre outras.
 
 Visto ser um índice reconhecido, muito utilizado e antigo, iniciado em 1957, existem muitos dados que podemos usar como base para as nossas análises.
 
 ## Os melhores e piores anos
 
-Vamos analisar o que aconteceu com os investimentos passivos que seguem o SP500, num prazo de 1, 3, 5, 10, 15 e 20 anos. Para cada um desses períodos, vamos selecionar o melhor e o pior retorno contínuo, desde Janeiro de 1973, e investir <savings-value editable="true" valuemonth="200"></savings-value> por mês em cada um deles. Esta estratégia de investimento é conhecida como dollar-cost averaging, e é a estratégia que sigo.
+Vamos analisar o que aconteceu com os investimentos passivos que seguem o S&P500, num prazo de 1, 3, 5, 10, 15 e 20 anos. Para cada um desses períodos, vamos selecionar o melhor e o pior retorno contínuo, desde Janeiro de 1973, e investir <savings-value editable="true" valuemonth="200"></savings-value> por mês em cada um deles. Esta estratégia de investimento é conhecida como dollar-cost averaging, e é a estratégia que sigo.
 
 Valor investido mensalmente: <savings-value editable="true" valuemonth="200"></savings-value>
 
@@ -23,7 +23,7 @@ Valor investido mensalmente: <savings-value editable="true" valuemonth="200"></s
 
 Em períodos curtos, os investimentos no mercado são extremamente voláteis, podendo retornar resultados excelentes ou muito negativos. A melhor estratégia, como iremos ver, é apostar no longo prazo, onde a estatística mostra que os resultados são bem mais estáveis.
 
-No melhor período de um ano, que acabou em Junho 1983, o SP500 retornou 61%. O pior período acabou em Fevereiro de 2009, e retornou -42%. Em períodos de 1 ano, 75.4% das vezes tivemos retorno positivo, 24.6% das vezes tivemos retorno negativo.
+No melhor período de um ano, que acabou em Junho 1983, o S&P500 retornou 61%. O pior período acabou em Fevereiro de 2009, e retornou -42%. Em períodos de 1 ano, 75.4% das vezes tivemos retorno positivo, 24.6% das vezes tivemos retorno negativo.
 
 <compound-chart years="1" best_interest="61" worst_interest="-42"></compound-chart>
 
@@ -51,7 +51,7 @@ Um período de três anos continua a ser considerado curto prazo no que toca a i
 
 ## Cinco anos
 
-A partir dos cinco anos começamos a ter resultados mais estáveis. Os melhores 5 anos do SP500 acabaram em Julho de 1987, com um retorno médio de 30% anual. O pior período acabou em Fevereiro de 2009, com um retorno médio anual de -6.6%. No que toca à frequência de resultados, 87.9% dos períodos de 5 anos tiveram retorno positivo, 12.1% tiveram resultados negativos.
+A partir dos cinco anos começamos a ter resultados mais estáveis. Os melhores 5 anos do S&P500 acabaram em Julho de 1987, com um retorno médio de 30% anual. O pior período acabou em Fevereiro de 2009, com um retorno médio anual de -6.6%. No que toca à frequência de resultados, 87.9% dos períodos de 5 anos tiveram retorno positivo, 12.1% tiveram resultados negativos.
 
 <compound-chart years="5" best_interest="30" worst_interest="-6.6"></compound-chart>
 
@@ -115,6 +115,6 @@ Os dados históricos ajudam-nos a entender o que aconteceu no passado, mas nunca
 
 Referências:
 https://www.thebalance.com/rolling-index-returns-4061795
-https://www.andcoconsulting.com/wp-content/uploads/2020/04/2020-03-31-SP500-Rolling-Holding-Period-Returns.pdf
+https://www.andcoconsulting.com/wp-content/uploads/2020/04/2020-03-31-S&P500-Rolling-Holding-Period-Returns.pdf
 
 <savings-value floateditor="true"></savings-value>
