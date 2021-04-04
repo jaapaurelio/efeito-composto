@@ -1,6 +1,5 @@
 import React, { useContext } from "react"
 import { myContext } from "../provider"
-import currencyFormatter from "currency-formatter"
 import cInterest from "compound-interest"
 import * as styles from "./buy-house.module.css"
 
@@ -16,9 +15,6 @@ import {
   CartesianAxis,
 } from "recharts"
 
-function fc(value) {
-  return currencyFormatter.format(value, { code: "EUR" })
-}
 function fcNoZero(value) {
   if (value == 0) {
     return "0"
@@ -39,14 +35,6 @@ function formatLabel(label) {
     default:
       return label
   }
-}
-
-function tooltipFormater(value, name, props) {
-  return [fcNoZero(value), formatLabel(name)]
-}
-
-function formatTooltipLabel(value) {
-  return value === 1 ? `${value} ano` : `${value} anos`
 }
 
 export default function CompoundInterest({}) {

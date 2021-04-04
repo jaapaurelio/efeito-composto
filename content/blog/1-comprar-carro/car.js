@@ -1,13 +1,9 @@
 import React from "react"
 import { myContext } from "../../../src/components/provider"
 import Slider from "rc-slider"
-import currencyFormatter from "currency-formatter"
+import { formatEuros } from "../../../src/utils"
 import { totalInterest, paymentCalc } from "loan-calc"
 import compoundInterest from "compound-interest"
-
-function fc(value) {
-  return currencyFormatter.format(value, { code: "EUR" })
-}
 
 function carValueWithCredit(context) {
   const opts = {
@@ -37,7 +33,7 @@ function Editor({ context }) {
   return (
     <React.Fragment>
       <div className="salary-view">
-        <div className="salary-view-main">{fc(context.carValue)}</div>
+        <div className="salary-view-main">{formatEuros(context.carValue)}</div>
       </div>
 
       <div className="salary-slider">
@@ -102,12 +98,12 @@ export default function Car({
                     edit && context.changeEditingCarValue(true)
                   }}
                 >
-                  {fc(context.carValue)}
+                  {formatEuros(context.carValue)}
                 </span>
               )}
 
               {payment &&
-                fc(
+                formatEuros(
                   paymentCalc({
                     amount: context.carValue,
                     rate: 8,
@@ -115,11 +111,11 @@ export default function Car({
                   })
                 )}
 
-              {difference && fc(calculateDifference(context))}
+              {difference && formatEuros(calculateDifference(context))}
 
-              {total && fc(carValueWithCredit(context))}
+              {total && formatEuros(carValueWithCredit(context))}
 
-              {differenceinterest && fc(interestOnDifference(context))}
+              {differenceinterest && formatEuros(interestOnDifference(context))}
             </React.Fragment>
           )}
         </React.Fragment>

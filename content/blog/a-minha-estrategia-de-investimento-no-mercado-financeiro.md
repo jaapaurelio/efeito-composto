@@ -71,5 +71,4 @@ Para quem gosta de arriscar, é uma estratégia que pode ser considerada aborrec
 
 Para mim, é a estratégia que considero certa, com o nível de risco e recompensa adequado ao meu estilo de vida e ao meu plano de atingir independência financeira nos próximos anos.
 
-<savings-value floateditor="true"></savings-value>
-<years floateditor="true"></years>
+

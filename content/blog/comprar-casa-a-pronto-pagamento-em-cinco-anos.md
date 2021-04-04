@@ -79,4 +79,3 @@ Guardar ou investir dinheiro para comprar uma casa a pronto é algo impensável 
 
 > Viver como ninguém hoje, para no futuro viver como ninguém. - Dave Ramsey
 
-<savings-value floateditor="true"></savings-value>

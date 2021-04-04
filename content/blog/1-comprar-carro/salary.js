@@ -1,20 +1,18 @@
 import React from "react"
 import { myContext } from "../../../src/components/provider"
 import Slider from "rc-slider"
-import currencyFormatter from "currency-formatter"
-
-function fc(value) {
-  return currencyFormatter.format(value, { code: "EUR" })
-}
+import { formatEuros } from "../../../src/utils"
 
 function Editor({ context }) {
   return (
     <React.Fragment>
       <div className="salary-view">
-        <div className="salary-view-main">{fc(context.salary)} / ano</div>
+        <div className="salary-view-main">
+          {formatEuros(context.salary)} / ano
+        </div>
         <div className="salary-view-month">
-          {fc(context.salary / 12)} / 12 meses - {fc(context.salary / 14)} / 14
-          meses
+          {formatEuros(context.salary / 12)} / 12 meses -{" "}
+          {formatEuros(context.salary / 14)} / 14 meses
         </div>
       </div>
 
@@ -76,11 +74,13 @@ export default function Salary({
                 edit && context.changeEditingSalary(true)
               }}
             >
-              {fc(context.salary)}
+              {formatEuros(context.salary)}
             </span>
           )}
 
-          {percentage && <span>{fc(context.salary * percentage)}</span>}
+          {percentage && (
+            <span>{formatEuros(context.salary * percentage)}</span>
+          )}
 
           {permonth && (
             <span
@@ -89,7 +89,7 @@ export default function Salary({
                 edit && context.changeEditingSalary(true)
               }}
             >
-              {fc(context.salary / permonth)}
+              {formatEuros(context.salary / permonth)}
             </span>
           )}
         </React.Fragment>

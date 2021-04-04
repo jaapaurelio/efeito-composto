@@ -1,23 +1,21 @@
 import React, { useEffect, useContext } from "react"
 import { myContext } from "../provider"
-import {
-  changeSavingsValue,
-  openSavingsValueEditor,
-} from "../../state/actions.ts"
+import { changeYearIncome, openYearIncomeEditor } from "../../state/actions.ts"
 import EditorAmount from "../editor-amount"
 import { formatEuros } from "../../utils"
 
-export default function Salary({
+export default function YearIncome({
   editable = false,
   inlineeditor = false,
   floateditor = false,
   valuemonth,
   showPerYear,
+  showPerMonth,
 }) {
   const { state, dispatch } = useContext(myContext)
 
   useEffect(() => {
-    valuemonth && dispatch(changeSavingsValue(valuemonth * 12))
+    valuemonth && dispatch(changeYearIncome(valuemonth * 12))
   }, [])
 
   const editClass = editable ? "edit-text" : ""
@@ -25,55 +23,44 @@ export default function Salary({
     <React.Fragment>
       {inlineeditor && (
         <EditorAmount
-          amount={state.savingsValue}
-          onChangeAmount={amount => dispatch(changeSavingsValue(amount))}
+          amount={state.yearIncome}
+          onChangeAmount={amount => dispatch(changeYearIncome(amount))}
         ></EditorAmount>
       )}
 
-      {floateditor && state.editingSavingsValue && (
+      {floateditor && state.editingYearIncome && (
         <div>
           <div
             className="editor-overlay"
             onClick={() => {
-              dispatch(openSavingsValueEditor(false))
+              dispatch(openYearIncomeEditor(false))
             }}
           ></div>
           <div className="editor-container">
             <div className="editor-content global-wrapper">
               <div
                 className="editor-close"
-                onClick={() => dispatch(openSavingsValueEditor(false))}
+                onClick={() => dispatch(openYearIncomeEditor(false))}
               >
                 Fechar
               </div>
               <EditorAmount
-                amount={state.savingsValue}
-                onChangeAmount={amount => dispatch(changeSavingsValue(amount))}
+                amount={state.yearIncome}
+                onChangeAmount={amount => dispatch(changeYearIncome(amount))}
               ></EditorAmount>
             </div>
           </div>
         </div>
       )}
 
-      {valuemonth && (
-        <span
-          className={editClass}
-          onClick={() => {
-            editable && dispatch(openSavingsValueEditor(true))
-          }}
-        >
-          {formatEuros(state.savingsValue / 12)}
-        </span>
-      )}
-
       {showPerYear && (
         <span
           className={editClass}
           onClick={() => {
-            editable && dispatch(openSavingsValueEditor(true))
+            editable && dispatch(openYearIncomeEditor(true))
           }}
         >
-          {formatEuros(state.savingsValue)}
+          {formatEuros(state.yearIncome)}
         </span>
       )}
     </React.Fragment>

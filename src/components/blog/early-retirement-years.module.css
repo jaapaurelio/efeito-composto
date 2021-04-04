@@ -1,0 +1,14 @@
+.table-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table {
+  max-width: 300px;
+}
+
+.table tr:nth-child(even) {
+  background: whitesmoke;
+}

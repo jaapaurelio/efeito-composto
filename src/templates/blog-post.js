@@ -7,11 +7,14 @@ import SEO from "../components/seo"
 import Salary from "../../content/blog/1-comprar-carro/salary"
 import Car from "../../content/blog/1-comprar-carro/car"
 import SavingsValue from "../../src/components/blog/savings-value"
+import YearIncome from "../../src/components/blog/year-income"
+import CurrentSavings from "../../src/components/blog/current-savings"
+import EarlyRetirementCalculator from "../../src/components/blog/early-retirement-calculator"
 import CompoundInterest from "../../src/components/blog/compound-interest"
 import BuyHouse from "../../src/components/blog/buy-house"
 import CompoundChart from "../../src/components/blog/compound-chart"
-
 import Years from "../../src/components/blog/years"
+import EarlyRetirementYears from "../../src/components/blog/early-retirement-years"
 
 import "rc-slider/assets/index.css"
 
@@ -26,10 +29,13 @@ const BlogPostTemplate = ({ data, location }) => {
       salary: Salary,
       car: Car,
       "savings-value": SavingsValue,
+      "early-retirement-calculator": EarlyRetirementCalculator,
       years: Years,
       "compound-interest": CompoundInterest,
       "buy-house": BuyHouse,
       "compound-chart": CompoundChart,
+      "current-savings": CurrentSavings,
+      "early-retirement-years": EarlyRetirementYears,
     },
   }).Compiler
 
@@ -51,6 +57,11 @@ const BlogPostTemplate = ({ data, location }) => {
         <div>{renderAst(post.htmlAst)}</div>
         <hr></hr>
       </article>
+      <SavingsValue floateditor="true"></SavingsValue>
+      <Years floateditor="true"></Years>
+      <YearIncome floateditor="true"></YearIncome>
+      <CurrentSavings floateditor="true"></CurrentSavings>
+
       <nav className="blog-post-nav">
         <ul
           style={{

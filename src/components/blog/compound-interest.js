@@ -2,10 +2,7 @@ import React, { useContext } from "react"
 import { myContext } from "../provider"
 import currencyFormatter from "currency-formatter"
 import cInterest from "compound-interest"
-
-function fc(value) {
-  return currencyFormatter.format(value, { code: "EUR" })
-}
+import { formatEuros } from "../../utils"
 
 function calculateSavings(options) {
   return options.initial + options.monthly * 12 * options.years
@@ -23,7 +20,7 @@ export default function CompoundInterest({
     <span>
       {!difference &&
         interest !== "0" &&
-        fc(
+        formatEuros(
           cInterest({
             initial: initial, // initial balance
             monthly: state.savingsValue / 12, // monthly addition
@@ -35,7 +32,7 @@ export default function CompoundInterest({
 
       {!difference &&
         interest === "0" &&
-        fc(
+        formatEuros(
           calculateSavings({
             initial: initial, // initial balance
             monthly: state.savingsValue / 12, // monthly addition
@@ -45,7 +42,7 @@ export default function CompoundInterest({
         )}
 
       {difference &&
-        fc(
+        formatEuros(
           cInterest({
             initial: initial, // initial balance
             monthly: state.savingsValue / 12, // monthly addition

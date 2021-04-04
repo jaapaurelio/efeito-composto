@@ -1,6 +1,5 @@
 import React, { useContext } from "react"
 import { myContext } from "../provider"
-import currencyFormatter from "currency-formatter"
 import cInterest from "compound-interest"
 import * as styles from "./compound-chart.module.css"
 import millify from "millify"
@@ -16,16 +15,6 @@ import {
   ResponsiveContainer,
   CartesianAxis,
 } from "recharts"
-
-function fc(value) {
-  return currencyFormatter.format(value, { code: "EUR" })
-}
-function fcNoZero(value) {
-  if (value == 0) {
-    return "0"
-  }
-  return parseInt(value / 1000) + "k"
-}
 
 function formatLabel(label) {
   switch (label) {

@@ -1,0 +1,16 @@
+.year-line {
+  margin-top: 20px;
+}
+
+.note {
+  font-size: 10px;
+}
+
+.year {
+  font-weight: bold;
+  font-size: var(--fontSize-2);
+}
+
+.strong {
+  font-weight: bold;
+}
