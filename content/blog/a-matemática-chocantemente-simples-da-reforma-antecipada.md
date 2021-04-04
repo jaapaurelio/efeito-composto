@@ -21,7 +21,7 @@ Os seus cálculos têm como base um retorno anual de 5% nos investimentos financ
 
 Se pensarmos sobre o assunto, alguém que gaste 100% do seu salário, nunca terá dinheiro suficiente para se reformar. Por outro lado, alguém que gaste 0% do seu salário, pode se reformar hoje, pois não depende do seu salário para viver.
 
-Pelo meio, existem muitas outras combinações. Uma coisa é certa, devido aos juros compostos, quanto mais cedo investirmos mais depressa atingiremos independência financeira, uma vez que os lucros dos investimentos são reinvestidos, ajudando-nos a ganhar cada vez mais lucros.
+Pelo meio, existem muitas outras combinações. Uma coisa é certa, devido aos juros compostos, quanto mais cedo investirmos mais depressa atingiremos a independência financeira, uma vez que os lucros dos investimentos são reinvestidos, ajudando-nos a ter cada vez mais lucros.
 
 Quando chegamos ao ponto em que os juros cobrem o nosso estilo de vida, somos financeiramente independentes, isto é, não dependemos do trabalho para viver.
 
