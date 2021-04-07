@@ -1,4 +1,4 @@
-import React from "react"
+import * as React from "react"
 import { myContext } from "../../../src/components/provider"
 import Slider from "rc-slider"
 import { formatEuros } from "../../../src/utils"

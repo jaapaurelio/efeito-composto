@@ -1,9 +1,9 @@
-import React from "react"
+import * as React from "react"
 import { Link, graphql } from "gatsby"
 
 import Headline from "../components/headline"
 import Layout from "../components/layout"
-import MailForm from "../components/MailForm"
+import MailForm from "../components/mail-form"
 import SEO from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
