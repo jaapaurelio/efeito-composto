@@ -11,6 +11,7 @@ module.exports = {
     social: {},
   },
   plugins: [
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
@@ -31,8 +32,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
+        name: `images`,
+        path: `${__dirname}/src/images`,
       },
     },
     {
@@ -75,7 +76,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#118475`,
         display: `minimal-ui`,
-        icon: `content/assets/blog-icon.png`,
+        icon: `src/images/blog-icon.png`,
       },
     },
     {

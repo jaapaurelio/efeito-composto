@@ -1,4 +1,4 @@
-import React from "react"
+import * as React from "react"
 
 /**
  * The default export of `netlify-cms-app` is an object with all of the Netlify CMS

@@ -11,8 +11,9 @@ export default function MailForm() {
     const response = await addToMailchimp(email)
     if (response.result === "success") {
       setResponseMessage("Subscrição feita com sucesso.")
+      setEmail("")
     } else {
-      setResponseMessage("Ups, algo correu mal.")
+      setResponseMessage(response.msg)
     }
   }
 
@@ -27,9 +28,11 @@ export default function MailForm() {
       <h3>Newsletter</h3>
       <div>Recebe os novos artigos no teu email.</div>
       <input
+        required={true}
         className={style.emailInput}
         type="email"
         placeholder="email"
+        value={email}
         onChange={e => {
           setEmail(e.target.value)
         }}
@@ -37,7 +40,7 @@ export default function MailForm() {
       <button className={style.submitBtn} type="submit">
         Subscrever
       </button>
-      <div>{responseMessage}</div>
+      <div dangerouslySetInnerHTML={{ __html: responseMessage }}></div>
     </form>
   )
 }

@@ -1,5 +1,5 @@
 import Slider from "rc-slider"
-import React from "react"
+import * as React from "react"
 import { formatEuros } from "../utils"
 
 export default function EditorAmount({ amount, onChangeAmount }) {
