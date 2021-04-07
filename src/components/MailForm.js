@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 
 import addToMailchimp from "gatsby-plugin-mailchimp"
-import style from "./MailForm.module.css"
+import * as style from "./MailForm.module.css"
 
 export default function MailForm() {
   const [email, setEmail] = useState("")
