@@ -41,7 +41,9 @@ export default function MailForm() {
       <button className={style.submitBtn} type="submit">
         Subscrever
       </button>
-      <div dangerouslySetInnerHTML={{ __html: responseMessage }}></div>
+      <div className={style.message}>
+        <div dangerouslySetInnerHTML={{ __html: responseMessage }}></div>
+      </div>
     </form>
   )
 }
