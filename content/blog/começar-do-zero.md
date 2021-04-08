@@ -5,7 +5,8 @@ title: Começar do Zero
 description: Artigo escrito pelo Rodrigues, um amigo que consegue poupar
   recebendo três vezes menos do que eu.
 ---
-*Artigo escrito pelo Rodrigues, um amigo que consegue poupar recebendo três vezes menos do que eu.*
+
+_Artigo escrito pelo Rodrigues, um amigo que consegue poupar recebendo três vezes menos do que eu._
 
 **De grão em grão…**
 
@@ -25,9 +26,9 @@ Desde logo, tens a possibilidade de trabalhar mais, aumentar o teu rendimento e 
 
 E não te preocupes, quem não perceber esta tua nova dinâmica de vida, amigos e família por exemplo, provavelmente não deve querer o teu bem. Ninguém se preocupa com a tua saúde financeira se não fores tu próprio a te preocupares.
 
-Descer um patamar no teu estilo de vida e de consumo não implica necessariamente perderes o teu conforto, a tua segurança e a tua dignidade. Pelo contrário, é sinal de elevação e inteligência, é a consciencialização que desejas um futuro melhor para ti e para os teus, é estar mais preparado para enfrentar os desafios e agarrar as oportunidades.  
+Descer um patamar no teu estilo de vida e de consumo não implica necessariamente perderes o teu conforto, a tua segurança e a tua dignidade. Pelo contrário, é sinal de elevação e inteligência, é a consciencialização que desejas um futuro melhor para ti e para os teus, é estar mais preparado para enfrentar os desafios e agarrar as oportunidades.
 
-Criar robustez financeira implica sacrifício, disciplina e muita resistência quanto ao consumo. 
+Criar robustez financeira implica sacrifício, disciplina e muita resistência quanto ao consumo.
 
 ## Grão 3 - Aprende a dizer não
 
@@ -37,7 +38,7 @@ Na prática, isso implica em alguns casos eliminar gastos de impulso e aprender 
 
 Haverá momentos em que tens que recusar convites cujo o teu orçamento não pode atender. Não significa abdicares da tua vida social mas sim de te capacitares de quando deves ou não aceitá-los, de avaliares o momento em que te encontras e definir metas que te vão permitir catalisar uma maior poupança e consequentemente uma vida melhor.
 
-Nunca aceites um convite primeiro e só depois olhes para o teu bolso. Olha primeiro para o teu bolso e só depois aceita o convite. 
+Nunca aceites um convite primeiro e só depois olhes para o teu bolso. Olha primeiro para o teu bolso e só depois aceita o convite.
 
 ## Grão 4 - Ganhar
 

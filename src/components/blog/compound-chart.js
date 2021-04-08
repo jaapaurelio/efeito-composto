@@ -9,11 +9,9 @@ import {
   CartesianGrid,
   XAxis,
   YAxis,
-  Tooltip,
   Legend,
   Line,
   ResponsiveContainer,
-  CartesianAxis,
 } from "recharts"
 
 function formatLabel(label) {

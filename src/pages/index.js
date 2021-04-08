@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Headline from "../components/headline"
 import Layout from "../components/layout"
 import MailForm from "../components/mail-form"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -13,7 +13,7 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <SEO title="Todos os artigos" />
+        <Seo title="Todos os artigos" />
         <p>Volta mais tarde.</p>
       </Layout>
     )
@@ -21,7 +21,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Todos os artigos" />
+      <Seo title="Todos os artigos" />
       <Headline></Headline>
       <h2>Artigos</h2>
       <ol style={{ listStyle: `none` }}>
@@ -57,7 +57,6 @@ const BlogIndex = ({ data, location }) => {
         })}
       </ol>
       <MailForm></MailForm>
-
     </Layout>
   )
 }

@@ -6,6 +6,7 @@ description: Saber quais os níveis financeiros que existem e em qual deles nos
   posicionamos ajuda-nos a entender que rumo estamos a dar às nossas vidas e a
   planear os nossos objetivos.
 ---
+
 Saber quais os níveis financeiros que existem e em qual deles nos posicionamos ajuda-nos a entender que rumo estamos a dar às nossas vidas e a planear os nossos objetivos.
 
 Subir na escala dos níveis financeiros é algo que leva muito tempo, mas quando temos o foco certo, todas as ações do nosso dia a dia estarão a contribuir para que isso aconteça.
@@ -36,7 +37,7 @@ Neste nível continuamos a ter algumas dívidas de consumo mas estamos mais prep
 
 Temos um salário que nos possibilita pagar todas as prestações confortavelmente e ainda conseguimos poupar algum dinheiro no final do mês.
 
-No banco temos um fundo de emergência suficiente para alguns imprevistos que possam aparecer na vida. 
+No banco temos um fundo de emergência suficiente para alguns imprevistos que possam aparecer na vida.
 
 Com um pouco mais de esforço conseguimos dar o salto para o próximo nível.
 
@@ -64,9 +65,9 @@ Este é o nível que estou a apontar para a minha vida, um percurso que será lo
 
 Independência financeira significa que não dependemos do nosso trabalho para viver, isto é, os nossos investimentos cobrem a 100% os custos do nosso estilo de vida.
 
-Estes investimentos podem ser de qualquer tipo. Alguns exemplos são património imobiliário, participação em empresas públicas através do mercado, negócio privado que exija pouco tempo de nós ou qualquer outro tipo de investimento que nos dê retorno sem trocarmos horas por dinheiro. 
+Estes investimentos podem ser de qualquer tipo. Alguns exemplos são património imobiliário, participação em empresas públicas através do mercado, negócio privado que exija pouco tempo de nós ou qualquer outro tipo de investimento que nos dê retorno sem trocarmos horas por dinheiro.
 
-Isto é importante, neste nível deixamos de ser dependentes do trabalho onde trocamos horas pelo salário. Mesmo gostando do meu trabalho atual, é um trabalho onde tenho que trabalhar todos os dias, 40 horas por semana. Se não trabalhar, não recebo. 
+Isto é importante, neste nível deixamos de ser dependentes do trabalho onde trocamos horas pelo salário. Mesmo gostando do meu trabalho atual, é um trabalho onde tenho que trabalhar todos os dias, 40 horas por semana. Se não trabalhar, não recebo.
 
 Atingir independência financeira não significa obrigatoriamente deixar de trabalhar, apenas significa que o salário deixa de ser importante e trabalhar é uma escolha.
 

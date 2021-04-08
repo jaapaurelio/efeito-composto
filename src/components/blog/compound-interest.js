@@ -1,6 +1,5 @@
 import React, { useContext } from "react"
 import { myContext } from "../provider"
-import currencyFormatter from "currency-formatter"
 import cInterest from "compound-interest"
 import { formatEuros } from "../../utils"
 

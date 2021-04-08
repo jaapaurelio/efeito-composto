@@ -7,7 +7,7 @@ export default function MailForm() {
   const [email, setEmail] = useState("")
   const [responseMessage, setResponseMessage] = useState("")
 
-  async function handleSubmit(e) {
+  async function handleSubmit() {
     const response = await addToMailchimp(email)
 
     if (response.result === "success") {
@@ -20,7 +20,6 @@ export default function MailForm() {
 
   return (
     <form
-      className={style.container}
       onSubmit={e => {
         e.preventDefault()
         handleSubmit(email)

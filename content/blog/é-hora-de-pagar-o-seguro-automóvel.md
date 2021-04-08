@@ -4,6 +4,7 @@ date: 2021-03-13T18:43:19.774Z
 title: É hora de pagar o seguro automóvel
 description: Quando temos carro, devemos estar conscientes que teremos despesas com ele
 ---
+
 Algumas das despesas aparecem na nossa vida de forma imprevista ou quando não estamos preparados para elas. Por esse motivo, devemos ter um fundo de emergência à disposição. Mas será que as despesas com o carro podem ser vistas como imprevistos?
 
 Quando temos carro, devemos estar conscientes que teremos despesas com ele. Coisas como seguros, imposto único de circulação e inspeção são certezas. Se adicionarmos revisões e avarias esporádicas, o número de imprevistos com o carro baixa significativamente.
@@ -22,8 +23,7 @@ No meu caso tenho 2 carros, um Renault Megane de 2004 e uma carrinha Toyota de 2
 | Inspeção Toyota  | 35€      |
 | **Total**        | **702€** |
 
-
-Num mundo perfeito terei que pagar apenas 702€ para sustentar os meus carros. Mas isso não acontece, temos que ser consistentes que tendo um carro, ele irá necessitar de manutenção e com certeza dará algum problema. O valor dos problemas depende de que carro temos, mas nenhum carro está excluído de problemas. Mesmo que não sejam problemas de mecânica, há sempre a possibilidade de queimar uma luz ou darmos algum toque que o seguro não cobre. 
+Num mundo perfeito terei que pagar apenas 702€ para sustentar os meus carros. Mas isso não acontece, temos que ser consistentes que tendo um carro, ele irá necessitar de manutenção e com certeza dará algum problema. O valor dos problemas depende de que carro temos, mas nenhum carro está excluído de problemas. Mesmo que não sejam problemas de mecânica, há sempre a possibilidade de queimar uma luz ou darmos algum toque que o seguro não cobre.
 
 |                             |            |
 | --------------------------- | ---------- |
@@ -34,15 +34,16 @@ Num mundo perfeito terei que pagar apenas 702€ para sustentar os meus carros. 
 |                             |            |
 | **Obrigatório + Previsões** | **1 382€** |
 
-Este valor, 1 382€, embora seja apenas uma previsão, está muito mais próximo da realidade do que os 702€ originais. Ele está a contemplar a maior parte dos imprevistos que irão acontecer ao longo do ano, sendo que assim deixam de ser imprevistos. 
+Este valor, 1 382€, embora seja apenas uma previsão, está muito mais próximo da realidade do que os 702€ originais. Ele está a contemplar a maior parte dos imprevistos que irão acontecer ao longo do ano, sendo que assim deixam de ser imprevistos.
 
 Após dividir 1 382€ por 12, sei exatamente quanto preciso guardar mensalmente para cobrir todas as despesas. Neste caso são 115€.
 
 Assim, para evitar imprevistos tenho que poupar 115€ mensalmente. Este dinheiro pode ser guardado numa conta poupança dedicada ou num envelope em casa, o importante é estar guardado e pronto a usar quando necessário. No meu caso utilizo uma conta poupança.
 
-Para facilitar a minha vida, configurei uma transferência automática no dia 1 de cada mês para transferir 115€ da minha conta à ordem para a conta poupança. Após isso, é aguardar que as despesas apareçam, e podem ter certeza que elas vão aparecer. 
+Para facilitar a minha vida, configurei uma transferência automática no dia 1 de cada mês para transferir 115€ da minha conta à ordem para a conta poupança. Após isso, é aguardar que as despesas apareçam, e podem ter certeza que elas vão aparecer.
 
 ## É hora de pagar o seguro automóvel
+
 O seguro da Toyota e o imposto de circulação do Renault chegaram este mês, a conta total foi de 128€.
 
 |                       |          |

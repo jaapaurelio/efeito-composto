@@ -4,7 +4,7 @@ import logger from "use-reducer-logger"
 
 export const myContext = React.createContext()
 
-const Provider = props => {
+const ContextProvider = props => {
   const [state, dispatch] = useReducer(logger(reducer), initialState)
 
   // blog post
@@ -55,4 +55,6 @@ const Provider = props => {
   )
 }
 
-export default ({ element }) => <Provider>{element}</Provider>
+const Provider = ({ element }) => <ContextProvider>{element}</ContextProvider>
+
+export default Provider

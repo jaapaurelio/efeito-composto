@@ -5,9 +5,10 @@ title: Ser otimista
 description: Alguém otimista está inclinado para se sentir melhor, estar mais
   mais feliz com a sua casa, o seu carro, os seus amigos e a sua família.
 ---
+
 Ao ver o filme Dallas Buyers Club com o Matthew McConaughey apercebi-me de uma coisa. Quando estão a testar novos medicamentos, no filme um medicamento para a SIDA, são necessários dois grupos de teste. Um dos grupos recebe realmente o medicamento e o outro, chamado de grupo de controlo, recebe apenas um comprimido sem efeito. O mais importante é que as pessoas não sabem em qual dos grupos estão.
 
-## O que tem isto a ver com otimismo? 
+## O que tem isto a ver com otimismo?
 
 Tem tudo, isto porque mesmo as pessoas que tomam o medicamento sem efeito começam a notar melhorias no seu corpo, o chamado efeito placebo. Isto prova que a nossa mente tem um forte poder no nosso corpo, se acreditarmos que estamos a ficar melhor, vamos de facto começar a nos sentirmos melhor.
 
@@ -15,7 +16,7 @@ Alargando isto à nossa vida podemos aplicar este conceito sem a necessidade de 
 
 ## Copo meio cheio ou meio vazio?
 
-Eu vejo a positividade como um íman que atrai coisas boas na nossa vida. Quando estou com alguém que apenas se queixa, apetece-me agarrá-la, abaná-la e dizer: “Isso está tudo na tua cabeça, tu controlas a tua vida!”. 
+Eu vejo a positividade como um íman que atrai coisas boas na nossa vida. Quando estou com alguém que apenas se queixa, apetece-me agarrá-la, abaná-la e dizer: “Isso está tudo na tua cabeça, tu controlas a tua vida!”.
 
 Para as pessoas pessimistas o trabalho nunca será o ideal, a saúde nunca será a ideal e até o tempo não será o ideal. É hora de mudar isto.
 

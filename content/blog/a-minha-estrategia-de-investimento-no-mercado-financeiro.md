@@ -51,7 +51,7 @@ Para quem não percebe o significado de juros compostos, ganhar 7€ por ano pod
 
 Contas rápidas, se pouparmos <savings-value editable="true" valuemonth="200"></savings-value> por mês durante <years years="30" editable=true></years> anos, teremos guardado **<compound-interest interest="0"></compound-interest>**. Se a esta conta adicionarmos juros de 7% ao ano, isto é, ganhar 7€ por cada 100€ investidos, o valor final é de **<compound-interest interest="7"></compound-interest>**.
 
-Aqui conseguimos ver o poder dos juros compostos, com <compound-interest interest="0"></compound-interest> poupados ao longo dos <years years="30"></years> anos, criamos **<compound-interest interest="7" difference="true"></compound-interest>** de lucro. 
+Aqui conseguimos ver o poder dos juros compostos, com <compound-interest interest="0"></compound-interest> poupados ao longo dos <years years="30"></years> anos, criamos **<compound-interest interest="7" difference="true"></compound-interest>** de lucro.
 
 O factor mais importante nos juros compostos é o tempo, isto é, quantos mais anos investirmos, mais retorno teremos. Isto acontece porque os 7€ que ganhamos num ano passam a contar para o próximo ano como investimento, fazendo crescer cada vez mais os nossos lucros. Ajustando o valor investido por mês e os anos que queremos esperar para usufruir do dinheiro, temos uma boa previsão do que será o nosso futuro.
 
@@ -70,5 +70,3 @@ Este tipo de investimento, aliado ao facto de poupar e investir mensalmente 50% 
 Para quem gosta de arriscar, é uma estratégia que pode ser considerada aborrecida ou pouco lucrativa. Por outro lado, para quem gosta de certezas, pode parecer uma estratégia perigosa visto envolver o mercado financeiro.
 
 Para mim, é a estratégia que considero certa, com o nível de risco e recompensa adequado ao meu estilo de vida e ao meu plano de atingir independência financeira nos próximos anos.
-
-

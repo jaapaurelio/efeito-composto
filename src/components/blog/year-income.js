@@ -10,7 +10,6 @@ export default function YearIncome({
   floateditor = false,
   valuemonth,
   showPerYear,
-  showPerMonth,
 }) {
   const { state, dispatch } = useContext(myContext)
 

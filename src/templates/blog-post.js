@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 import rehypeReact from "rehype-react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Salary from "../../content/blog/1-comprar-carro/salary"
 import Car from "../../content/blog/1-comprar-carro/car"
 import SavingsValue from "../../src/components/blog/savings-value"
@@ -42,7 +42,7 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />

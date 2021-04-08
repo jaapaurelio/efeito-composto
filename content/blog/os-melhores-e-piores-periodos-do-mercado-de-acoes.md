@@ -116,4 +116,3 @@ Os dados históricos ajudam-nos a entender o que aconteceu no passado, mas nunca
 Referências:
 https://www.thebalance.com/rolling-index-returns-4061795
 https://www.andcoconsulting.com/wp-content/uploads/2020/04/2020-03-31-S&P500-Rolling-Holding-Period-Returns.pdf
-

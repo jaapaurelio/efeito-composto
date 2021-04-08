@@ -8,15 +8,13 @@ import {
   CartesianGrid,
   XAxis,
   YAxis,
-  Tooltip,
   Legend,
   Line,
   ResponsiveContainer,
-  CartesianAxis,
 } from "recharts"
 
 function fcNoZero(value) {
-  if (value == 0) {
+  if (value === 0) {
     return "0"
   }
   return parseInt(value / 1000) + "k"
@@ -37,7 +35,7 @@ function formatLabel(label) {
   }
 }
 
-export default function CompoundInterest({}) {
+export default function CompoundInterest() {
   const { state } = useContext(myContext)
   const initial = 0
   const bestInterest = 30
@@ -138,7 +136,7 @@ export default function CompoundInterest({}) {
           <tbody>
             {data.slice(1).map((yearData, i) => {
               return (
-                <tr className={styles.tableContent}>
+                <tr className={styles.tableContent} key={i}>
                   <td>{i + 1}</td>
                   <td>{fcNoZero(yearData.saved)}</td>
                   <td className={styles.worst}>{fcNoZero(yearData.worst)}</td>

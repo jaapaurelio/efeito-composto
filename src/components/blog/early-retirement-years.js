@@ -1,4 +1,4 @@
-import React, { useContext } from "react"
+import React from "react"
 import * as styles from "./early-retirement-years.module.css"
 export default function EarlyRetirementYears() {
   const data = [
@@ -33,7 +33,7 @@ export default function EarlyRetirementYears() {
         </tr>
         {data.map(year => {
           return (
-            <tr>
+            <tr key={year.years}>
               <td>{year.percentage}</td>
               <td>{year.years}</td>
             </tr>

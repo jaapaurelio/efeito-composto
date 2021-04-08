@@ -23,6 +23,15 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-plugin-eslint",
+      options: {
+        stages: ["develop"],
+        extensions: ["js", "jsx"],
+        exclude: ["node_modules", ".cache", "public"],
+        // Any eslint-webpack-plugin options below
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,

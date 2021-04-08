@@ -78,4 +78,3 @@ Com esta abordagem, condensamos o impacto de comprar casa em apenas 5 anos, apó
 Guardar ou investir dinheiro para comprar uma casa a pronto é algo impensável na nossa sociedade, muitos nos dirão que é impossível, outros tantos nos dirão que é uma má estratégia. O importante é abrirmos a nossa mente e questionarmos a necessidade de pedir um empréstimo de 40 anos, que condicionará a maior parte da nossa vida. Para mim, a filosofia do Dave Ramsey encaixa aqui na perfeição.
 
 > Viver como ninguém hoje, para no futuro viver como ninguém. - Dave Ramsey
-
