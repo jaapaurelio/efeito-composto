@@ -6,7 +6,9 @@
     }
   },
   "globals": {
-    "__PATH_PREFIX__": true
+    "__PATH_PREFIX__": true,
+    "fetch": false,
+    "FormData": false
   },
   "env": {
     "node": true // defines things like process.env when generating through node
