@@ -14,7 +14,7 @@
     "compound-interest": "^0.3.1",
     "currency-formatter": "^1.5.6",
     "gatsby": "^3.2.1",
-    "gatsby-plugin-feed": "^3.2.0",
+    "gatsby-plugin-feed": "^3.6.0",
     "gatsby-plugin-google-analytics": "^3.2.0",
     "gatsby-plugin-image": "^1.2.1",
     "gatsby-plugin-mailchimp": "^5.2.2",
