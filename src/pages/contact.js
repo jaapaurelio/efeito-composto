@@ -11,7 +11,14 @@ const Contact = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="Contacto" />
       <h1>Algo que possa ajudar? Entra em contacto.</h1>
-      <form name="contact" method="POST" data-netlify="true">
+      <form
+        method="post"
+        netlify-honeypot="bot-field"
+        data-netlify="true"
+        name="contact"
+      >
+        <input type="hidden" name="bot-field" />
+        <input type="hidden" name="form-name" value="contact" />
         <p>
           <label>
             Nome: <input required={true} type="text" name="name" />
