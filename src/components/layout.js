@@ -26,7 +26,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         Efeito Composto © {new Date().getFullYear()} -{" "}
-        <a href="/rss.xml">RSS</a>
+        <a href="/contacto">Contacto</a> - <a href="/rss.xml">RSS</a>
       </footer>
     </div>
   )

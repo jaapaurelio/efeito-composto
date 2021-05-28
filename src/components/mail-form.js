@@ -19,30 +19,32 @@ export default function MailForm() {
   }
 
   return (
-    <form
-      onSubmit={e => {
-        e.preventDefault()
-        handleSubmit(email)
-      }}
-    >
-      <h3>Newsletter</h3>
-      <div>Recebe os novos artigos no teu email.</div>
-      <input
-        required={true}
-        className={style.emailInput}
-        type="email"
-        placeholder="email"
-        value={email}
-        onChange={e => {
-          setEmail(e.target.value)
+    <div className={style.container}>
+      <form
+        onSubmit={e => {
+          e.preventDefault()
+          handleSubmit(email)
         }}
-      ></input>
-      <button className={style.submitBtn} type="submit">
-        Subscrever
-      </button>
-      <div className={style.message}>
-        <div dangerouslySetInnerHTML={{ __html: responseMessage }}></div>
-      </div>
-    </form>
+      >
+        <h3>Newsletter</h3>
+        <div>Recebe os novos artigos no teu email.</div>
+        <input
+          required={true}
+          className={style.emailInput}
+          type="email"
+          placeholder="email"
+          value={email}
+          onChange={e => {
+            setEmail(e.target.value)
+          }}
+        ></input>
+        <button className={`button`} type="submit">
+          Subscrever
+        </button>
+        <div className={style.message}>
+          <div dangerouslySetInnerHTML={{ __html: responseMessage }}></div>
+        </div>
+      </form>
+    </div>
   )
 }

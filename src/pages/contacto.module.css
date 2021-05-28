@@ -1,0 +1,21 @@
+.container {
+  max-width: 100%;
+  width: 400px;
+}
+
+.field-container {
+  margin: 20px 0;
+}
+
+.field-label {
+  font-size: var(--fontSize-2);
+}
+
+.field-input {
+  padding: 10px;
+  width: 100%;
+}
+
+.submit-button {
+  width: 100%;
+}
