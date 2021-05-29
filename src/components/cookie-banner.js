@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import { Link } from "gatsby"
 
 import * as styles from "./cookie-banner.module.css"
 
@@ -23,8 +24,7 @@ const CookieBanner = () => {
           <div className={styles.content}>
             <div>
               Este site utiliza cookies e recolhe informações sobre a tua
-              navegação.{" "}
-              <a href="/politica-privacidade">Saber mais.</a>
+              navegação. <Link to="/politica-privacidade">Saber mais.</Link>
             </div>
             <button onClick={handleClick} className="button">
               Concordo
