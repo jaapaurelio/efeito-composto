@@ -3,16 +3,16 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import * as styles from "./contacto.module.css"
+import * as styles from "./contato.module.css"
 
-const Contacto = ({ data, location }) => {
+const Contato = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="Contacto" />
+      <Seo title="Contato" />
       <h1>
-        Entra em contacto.
+        Entra em contato.
       </h1>
       <form
         className={styles.container}
@@ -61,7 +61,7 @@ const Contacto = ({ data, location }) => {
   )
 }
 
-export default Contacto
+export default Contato
 
 export const pageQuery = graphql`
   query {

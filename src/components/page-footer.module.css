@@ -1,0 +1,19 @@
+.container {
+  margin: 60px 20px;
+  text-align: center;
+}
+
+.links {
+  margin-top: 20px;
+}
+
+.link {
+  padding: 4px;
+  display: inline-block;
+}
+
+@media only screen and (max-width: 600px) {
+  .link {
+    display: block;
+  }
+}

@@ -1,0 +1,16 @@
+.container {
+  padding: 20px;
+  background-color: var(--color-contrast);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  max-width: 100%;
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}

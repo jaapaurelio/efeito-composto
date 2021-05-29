@@ -8,7 +8,8 @@
   "globals": {
     "__PATH_PREFIX__": true,
     "fetch": false,
-    "FormData": false
+    "FormData": false,
+    "localStorage": false
   },
   "env": {
     "node": true // defines things like process.env when generating through node

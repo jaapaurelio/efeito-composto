@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 
 import addToMailchimp from "gatsby-plugin-mailchimp"
-import * as style from "./mail-form.module.css"
+import * as styles from "./mail-form.module.css"
 
 export default function MailForm() {
   const [email, setEmail] = useState("")
@@ -19,7 +19,7 @@ export default function MailForm() {
   }
 
   return (
-    <div className={style.container}>
+    <div className={styles.container}>
       <form
         onSubmit={e => {
           e.preventDefault()
@@ -30,7 +30,7 @@ export default function MailForm() {
         <div>Recebe os novos artigos no teu email.</div>
         <input
           required={true}
-          className={style.emailInput}
+          className={styles.emailInput}
           type="email"
           placeholder="email"
           value={email}
@@ -41,7 +41,7 @@ export default function MailForm() {
         <button className={`button`} type="submit">
           Subscrever
         </button>
-        <div className={style.message}>
+        <div className={styles.message}>
           <div dangerouslySetInnerHTML={{ __html: responseMessage }}></div>
         </div>
       </form>
