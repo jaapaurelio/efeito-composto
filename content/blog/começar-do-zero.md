@@ -2,13 +2,9 @@
 path: comecar-do-zero
 date: 2021-02-18T08:44:05.804Z
 title: Começar do Zero
-description: Artigo escrito pelo Rodrigues, um amigo que consegue poupar
-  recebendo três vezes menos do que eu.
 author: rodrigues
+description: Para quem recebe salário mínimo também é possível gerir bem o seu dinheiro.
 ---
-
-_Artigo escrito pelo Rodrigues, um amigo que consegue poupar recebendo três vezes menos do que eu._
-
 **De grão em grão…**
 
 O papá e a mamã não refinaram a tua conta poupança e tens que começar do zero? Não te aflijas, estás a ler o artigo certo. Disciplina e rigor…
