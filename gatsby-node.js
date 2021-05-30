@@ -88,9 +88,9 @@ exports.createSchemaCustomization = ({ actions }) => {
       social: Social
     }
 
-    type Author {
+    type Author implements Node {
+      id: String
       name: String
-      summary: String
     }
 
     type Social {

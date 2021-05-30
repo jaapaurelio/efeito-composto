@@ -4,6 +4,7 @@ date: 2021-02-11T12:57:00.000Z
 title: Ser otimista
 description: Alguém otimista está inclinado para se sentir melhor, estar mais
   mais feliz com a sua casa, o seu carro, os seus amigos e a sua família.
+author: aureliopita
 ---
 
 Ao ver o filme Dallas Buyers Club com o Matthew McConaughey apercebi-me de uma coisa. Quando estão a testar novos medicamentos, no filme um medicamento para a SIDA, são necessários dois grupos de teste. Um dos grupos recebe realmente o medicamento e o outro, chamado de grupo de controlo, recebe apenas um comprimido sem efeito. O mais importante é que as pessoas não sabem em qual dos grupos estão.

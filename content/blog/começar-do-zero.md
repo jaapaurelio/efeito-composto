@@ -4,6 +4,7 @@ date: 2021-02-18T08:44:05.804Z
 title: Começar do Zero
 description: Artigo escrito pelo Rodrigues, um amigo que consegue poupar
   recebendo três vezes menos do que eu.
+author: rodrigues
 ---
 
 _Artigo escrito pelo Rodrigues, um amigo que consegue poupar recebendo três vezes menos do que eu._

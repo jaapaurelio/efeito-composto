@@ -3,6 +3,7 @@ path: os-melhores-e-piores-periodos-do-mercado-de-acoes-
 date: 2021-03-23T08:50:00.774Z
 title: Os melhores e piores períodos do mercado de ações
 description: Embora resultados passados não sejam garantias de resultados futuros, eles são um bom indicador do que pode acontecer com os nossos investimentos, seja pelo lado positivo, como pelo negativo.
+author: aureliopita
 ---
 
 Eu sou um investidor passivo, isto é, acredito que a economia como um todo irá crescer a longo prazo, mas não sei quais as empresas ou sectores que farão isso acontecer. Como tal, gosto de analisar o que aconteceu no passado com este tipo de investimentos, para ter uma ideia do que contar no futuro.

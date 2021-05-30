@@ -5,6 +5,7 @@ title: A minha estratégia de investimento no Mercado Financeiro
 description: Quando falo em investimentos, a maior parte das pessoas pensa em
   formas de converter 1.000€ em 10.000€ da noite para o dia, mas isso está muito
   longe da minha visão.
+author: aureliopita
 ---
 
 Eu acredito que para aumentar o nosso património é mais importante gerir bem o que recebemos do que ter grandes retornos com investimentos. Com isto, a minha estratégia passa por poupar e investir o máximo que consigo por mês, mantendo sempre um estilo de vida que considero confortável.

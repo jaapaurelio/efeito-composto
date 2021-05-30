@@ -3,6 +3,7 @@ title: Fundo de emergência
 date: "2021-02-03T12:00:00.000Z"
 description: O que é, como criar e como usar.
 tags: ["regra básica"]
+author: aureliopita
 ---
 
 De forma a minimizar o impacto de imprevistos na minha vida, tenho sempre disponível um valor monetário separado de todas as contas para utilizar apenas em caso de emergência. Isto é chamado de fundo de emergência.

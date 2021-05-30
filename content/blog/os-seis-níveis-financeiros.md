@@ -5,6 +5,7 @@ title: Os seis níveis financeiros
 description: Saber quais os níveis financeiros que existem e em qual deles nos
   posicionamos ajuda-nos a entender que rumo estamos a dar às nossas vidas e a
   planear os nossos objetivos.
+author: aureliopita
 ---
 
 Saber quais os níveis financeiros que existem e em qual deles nos posicionamos ajuda-nos a entender que rumo estamos a dar às nossas vidas e a planear os nossos objetivos.

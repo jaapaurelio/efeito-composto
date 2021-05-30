@@ -53,7 +53,9 @@ const BlogPostTemplate = ({ data, location }) => {
       >
         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>
+            {post.frontmatter.date} por {post.frontmatter?.author?.name}
+          </p>
         </header>
         <div>{renderAst(post.htmlAst)}</div>
         <hr></hr>
@@ -115,6 +117,10 @@ export const pageQuery = graphql`
         title
         date(formatString: "DD MMMM, YYYY", locale: "pt")
         description
+        author {
+          id
+          name
+        }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

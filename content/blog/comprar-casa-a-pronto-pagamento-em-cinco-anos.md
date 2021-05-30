@@ -3,6 +3,7 @@ path: comprar-casa-a-pronto-em-cinco-anos
 date: 2021-03-19T08:50:00.774Z
 title: Comprar casa a pronto pagamento em cinco anos
 description: A ideia que lanço é fazermos as contas para comprar casa sem qualquer tipo de crédito bancário.
+author: aureliopita
 ---
 
 Comprar casa é uma das maiores decisões financeiras que fazemos, quer pelo valor, quer pelos anos que ficaremos a pagar uma prestação. Isto acontece, porque os bancos venderam tão bem a ideia de que necessitamos de um empréstimo para comprar casa, que agora é normal associar comprar casa com pedir um crédito de 30 ou 40 anos.

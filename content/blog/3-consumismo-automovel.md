@@ -3,6 +3,7 @@ title: Consumismo automóvel
 date: "2021-01-24T12:00:00.000Z"
 description: Uma visão um pouco drástica em relação aos automóveis.
 tags: ["carro", "frugal"]
+author: aureliopita
 ---
 
 Eu tenho uma visão um pouco drástica em relação aos automóveis. Acredito que o carro tem apenas uma função: transportar-me de um ponto para o outro. Tudo o resto é produto do consumismo.

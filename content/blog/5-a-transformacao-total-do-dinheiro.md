@@ -3,6 +3,7 @@ title: A Transformação Total do Dinheiro de Dave Ramsey
 date: "2021-02-06T12:00:00.000Z"
 description: Passo a passo para alcançar a liberdade financeira
 tags: ["regra básica"]
+author: aureliopita
 ---
 
 Dave Ramsey é conhecido pelo sucesso no ramo imobiliário, pela sua mega empresa de aconselhamento financeiro e mais recentemente pelo seu podcast e canal de Youtube.

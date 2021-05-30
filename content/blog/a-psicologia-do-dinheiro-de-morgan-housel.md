@@ -3,6 +3,7 @@ path: a-psicologia-do-dinheiro-de-Morgan-Housel
 date: 2021-04-22T22:01:47.450Z
 title: A psicologia do dinheiro de Morgan Housel
 description: Comportamento é mais importante que inteligência
+author: aureliopita
 ---
 Um dos livros que me fez alargar a minha visão sobre finanças foi “A Psicologia do Dinheiro”, de Morgan Housel. Neste livro, o autor mostra que fazer dinheiro depende muito mais do nosso comportamento e dedicação do que da nossa inteligência e matemática pura.
 

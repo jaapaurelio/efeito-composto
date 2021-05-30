@@ -3,6 +3,7 @@ path: pensar-a-longo-prazo
 date: 2021-05-29T10:59:12.504Z
 title: Pensar a longo prazo
 description: Nós, seres humanos, fomos treinados para pensar no curto prazo.
+author: aureliopita
 ---
 Traçar objetivos a longo prazo é mais difícil do que parece. Nós, seres humanos, fomos treinados para pensar no curto prazo. Na idade das cavernas, arranjar comida e fugir de coisas perigosas era o nosso objetivo. Chegar ao fim do dia vivo, era um sucesso. Desde então, o nosso cérebro está focado em nos proteger, para ele, o mais importante é sobreviver o dia de hoje.
 

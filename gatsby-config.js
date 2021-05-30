@@ -4,14 +4,17 @@ module.exports = {
     title: title,
     author: {
       name: `Aurélio Pita`,
-      summary: `leu uns livros sobre finanças e pensa que sabe tudo.`,
     },
     description: `Pequenas ações provocam resultados gigantescos.`,
     siteUrl: `https://efeitocomposto.com/`,
     social: {},
   },
+  mapping: {
+    "MarkdownRemark.frontmatter.author": `AuthorYaml`,
+  },
   plugins: [
     `gatsby-plugin-image`,
+    `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {
@@ -43,6 +46,13 @@ module.exports = {
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data`,
       },
     },
     {

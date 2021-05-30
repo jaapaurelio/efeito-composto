@@ -3,6 +3,7 @@ path: a-matemática-chocantemente-simples-da-reforma-antecipada
 date: 2021-04-04T17:46:43.202Z
 title: A matemática chocantemente simples da reforma antecipada
 description: O tempo necessário para atingirmos independência financeira depende essencialmente do nosso estilo de vida e da percentagem investida do nosso salário.
+author: aureliopita
 ---
 
 Uma das personagens que me despertou para o mundo da poupança e do investimento foi o Mr. Money Moustache. No seu blog, <a href="https://www.mrmoneymustache.com/" target="_blank">mrmoneymustache.com</a>, Peter Adeney conta a história de como atingiu a independência financeira aos 30 anos, reformando-se assim do seu trabalho como programador. Após a sua reforma, dedicou-se aos trabalhos manuais, como carpintaria, e a ajudar a comunidade, sem a necessidade de trabalhar por dinheiro.

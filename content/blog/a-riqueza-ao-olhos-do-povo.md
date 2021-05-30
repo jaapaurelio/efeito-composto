@@ -4,6 +4,7 @@ date: 2021-02-19T08:54:36.704Z
 title: A riqueza ao olhos do povo
 description: Com a facilidade ao crédito de hoje em dia, qualquer pessoa pode
   ter uma boa casa ou um bom carro.
+author: aureliopita
 ---
 
 Fomos levados a acreditar pelos média e pela quantidade de publicidade que nos é apresentada que a riqueza é baseada no consumismo, isto é, uma pessoa rica aos olhos do povo é quem tem a melhor casa, o melhor carro, a melhor roupa e o melhor telemóvel. Não nos deixemos enganar, nenhum desses bens materiais é sinónimo de riqueza.

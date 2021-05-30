@@ -4,6 +4,7 @@ date: 2021-03-25T07:46:43.202Z
 title: Everyday Millionaires (Milionários do dia a dia) de Chris Hogan
 description: Um livro escrito pelo Chris Hogan, onde apresenta estatísticas e
   lições do maior estudo alguma vez feito sobre milionários.
+author: aureliopita
 ---
 
 Milionários do dia a dia, traduzido literalmente de _Everyday Millionaires_, visto ainda não existir título em português, é um livro escrito pelo Chris Hogan, onde apresenta estatísticas e lições do maior estudo alguma vez feito sobre milionários.

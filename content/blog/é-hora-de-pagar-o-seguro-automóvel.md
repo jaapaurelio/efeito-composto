@@ -3,6 +3,7 @@ path: e-hora-de-pagar-o-seguro-automovel
 date: 2021-03-13T18:43:19.774Z
 title: É hora de pagar o seguro automóvel
 description: Quando temos carro, devemos estar conscientes que teremos despesas com ele
+author: aureliopita
 ---
 
 Algumas das despesas aparecem na nossa vida de forma imprevista ou quando não estamos preparados para elas. Por esse motivo, devemos ter um fundo de emergência à disposição. Mas será que as despesas com o carro podem ser vistas como imprevistos?
