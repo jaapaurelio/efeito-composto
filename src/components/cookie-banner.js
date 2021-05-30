@@ -4,11 +4,11 @@ import { Link } from "gatsby"
 import * as styles from "./cookie-banner.module.css"
 
 const CookieBanner = () => {
-  const [agreed, setAgreed] = useState(false)
+  const [agreed, setAgreed] = useState(true)
 
   useEffect(() => {
-    if (localStorage.getItem("agree")) {
-      setAgreed(true)
+    if (!localStorage.getItem("agree")) {
+      setAgreed(false)
     }
   }, [])
 
