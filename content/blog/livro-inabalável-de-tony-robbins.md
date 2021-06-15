@@ -30,9 +30,7 @@ Os fundos ativos são geridos por gestores que tentam escolher e comprar as melh
 
 Os fundos passivos, seguem um índice, o que significa que há pouca intervenção humana, fazendo com que as taxas sejam à volta dos 0.2%.
 
-A diferença parece pouca, mas quando analisamos estas taxas a longo prazo, por exemplo, para um investimento de 20 mil euros crescendo 10% ao ano durante 30 anos, podemos verificar que um fundo ativo acabará com 295,706.89€ e um fundo passivo com 527,365.72€, quase o dobro.
-
-\[gráfico]
+A diferença parece pouca, mas quando analisamos estas taxas a longo prazo, por exemplo, para um investimento de 20 mil euros crescendo 10% ao ano durante 30 anos, podemos verificar que um fundo ativo acabará com **201,253.14€** e um fundo passivo com **330,445.77€**, fazendo com que a diferença seja **129.192,63€**.
 
 ### Mas um fundo ativo não terá resultados melhores?
 
