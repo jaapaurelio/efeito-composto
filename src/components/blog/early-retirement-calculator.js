@@ -63,20 +63,40 @@ export default function EarlyRetirementCalculator() {
     <div>
       <table>
         <tr>
-          <td>Salário Líquido Anual:</td>
+          <td>
+            Salário Líquido Anual:
+            <div className={styles.note}>Mensal (12 meses):</div>
+          </td>
           <td>
             <YearIncome editable={true} showPerYear={true}></YearIncome>
+            <div className={styles.note}>
+              {formatEuros(state.yearIncome / 12)} / mês
+            </div>
           </td>
         </tr>
         <tr>
-          <td>Investimento Anual:</td>
+          <td>
+            Investimento Anual:
+            <div className={styles.note}>Mensal (12 meses):</div>
+          </td>
           <td>
             <SavingsValue editable={true} showPerYear={true}></SavingsValue>
+            <div className={styles.note}>
+              {formatEuros(state.savingsValue / 12)} / mês
+            </div>
           </td>
         </tr>
         <tr>
-          <td>Gastos Anuais:</td>
-          <td>{formatEuros(localState.spending)}</td>
+          <td>
+            Gastos Anuais:
+            <div className={styles.note}>Mensal (12 meses):</div>
+          </td>
+          <td>
+            {formatEuros(localState.spending)}
+            <div className={styles.note}>
+              {formatEuros(localState.spending / 12)} / mês
+            </div>
+          </td>
         </tr>
 
         <tr>
@@ -112,15 +132,16 @@ export default function EarlyRetirementCalculator() {
           <td>{formatEuros(tableData[tableData.length - 1].total)}</td>
         </tr>
       </table>
-      <div>
-        Investindo{" "}
-        <span className={styles.strong}>
-          {formatEuros(state.savingsValue / 12)}
-        </span>{" "}
-        por mês:
-      </div>
+
       {!financialIndependent && (
         <div>
+          <div>
+            Investindo{" "}
+            <span className={styles.strong}>
+              {formatEuros(state.savingsValue / 12)}
+            </span>{" "}
+            por mês:
+          </div>
           {tableData.map(data => (
             <div className={styles.yearLine} key={data.year}>
               <div className={styles.year}>{data.year}º ano</div>
@@ -142,7 +163,7 @@ export default function EarlyRetirementCalculator() {
               </div>
             </div>
           ))}
-          <p>Por outras palavras, livres financeiramente.</p>
+          <p>Por outras palavras, livre financeiramente.</p>
         </div>
       )}
       {financialIndependent && (
