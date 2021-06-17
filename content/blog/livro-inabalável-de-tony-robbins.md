@@ -32,7 +32,8 @@ Os fundos passivos, seguem um índice, o que significa que há pouca intervenç�
 
 A diferença parece pouca, mas quando analisamos estas taxas a longo prazo, por exemplo, para um investimento de 20 mil euros crescendo 10% ao ano durante 30 anos, podemos verificar que um fundo ativo acabará com 295,706.89€ e um fundo passivo com 527,365.72€, quase o dobro.
 
-\[gráfico]
+<compound-chart years="30" best_interest="9.80" worst_interest="8"></compound-chart>
+
 
 ### Mas um fundo ativo não terá resultados melhores?
 

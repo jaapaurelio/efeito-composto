@@ -112,24 +112,29 @@ export default function EarlyRetirementCalculator() {
           <td>{formatEuros(tableData[tableData.length - 1].total)}</td>
         </tr>
       </table>
+      <div>
+        Investindo{" "}
+        <span className={styles.strong}>
+          {formatEuros(state.savingsValue / 12)}
+        </span>{" "}
+        por mês:
+      </div>
       {!financialIndependent && (
         <div>
           {tableData.map(data => (
             <div className={styles.yearLine} key={data.year}>
               <div className={styles.year}>{data.year}º ano</div>
               <div>
-                Investimos{" "}
-                <span className={styles.strong}>{formatEuros(data.saved)}</span>{" "}
-                e temos{" "}
-                <span className={styles.strong}>{formatEuros(data.total)}</span>{" "}
-                com juros.
+                Temos{" "}
+                <span className={styles.strong}>{formatEuros(data.total)}</span>
+                , incluíndo juros.
               </div>
               <div>
                 Isto gera{" "}
                 <span className={styles.strong}>
                   {formatEuros(data.interestForLiving)}
                 </span>{" "}
-                anuais que cobrem{" "}
+                anuais, que cobrem{" "}
                 <span className={styles.strong}>
                   {parseInt(data.independencePercentage)}%
                 </span>{" "}
@@ -137,6 +142,7 @@ export default function EarlyRetirementCalculator() {
               </div>
             </div>
           ))}
+          <p>Por outras palavras, livres financeiramente.</p>
         </div>
       )}
       {financialIndependent && (
