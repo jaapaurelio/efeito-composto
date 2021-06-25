@@ -6,7 +6,6 @@ author: aureliopita
 description: O mês de Junho é conhecido pelo sol, praia, pelos santos populares,
   e também pelo merecido subsídio de férias.
 ---
-
 O mês de Junho é conhecido pelo sol, praia, pelos santos populares, e também pelo merecido subsídio de férias.
 
 Para alguns, é o mês onde podem novamente voltar a respirar, aproveitando o subsídio para pagar algumas contas em atraso, para comprar algo que estava na lista de desejos, ou para gastar nas merecidas férias de verão.
@@ -23,7 +22,7 @@ Outra vantagem, para além de não depender do subsídio de férias, é que o di
 
 ## A razão pela qual invisto
 
-Eu percebo, nós trabalhamos tanto durante o ano, e este subsídio parece uma prenda caída dos céus, uma bufada de ar fresco que devemos aceitar e gastar para compensar todo o nosso trabalho.
+Eu percebo, nós trabalhamos tanto durante o ano, e este subsídio parece uma prenda caída dos céus, uma lufada de ar fresco que devemos aceitar e gastar para compensar todo o nosso trabalho.
 
 Enquanto isto pode ser verdade, eu acredito que devemos organizar a nossa vida de forma a vivermos confortáveis, sem grandes imprevistos no dia a dia. Devemos também pensar em colocar algum dinheiro a trabalhar para nós, para que no futuro não dependamos de subsídios, sempre que quisermos respirar.
 
