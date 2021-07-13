@@ -118,18 +118,28 @@ export default function EarlyRetirementCalculator() {
             <CurrentSavings showSavings={true} editable={true}></CurrentSavings>
           </td>
         </tr>
-
         <tr>
           <td>Juros:</td>
           <td>{localState.interest}%</td>
         </tr>
         <tr>
+          <td colSpan="2">&nbsp;</td>
+        </tr>
+        <tr>
           <td>Independência financeira:</td>
-          <td>{financialIndependent ? 0 : tableData.length} anos</td>
+          <td>
+            <span className={styles.strong}>
+              {financialIndependent ? 0 : tableData.length} anos
+            </span>
+          </td>
         </tr>
         <tr>
           <td>Valor final:</td>
-          <td>{formatEuros(tableData[tableData.length - 1].total)}</td>
+          <td>
+            <span className={styles.strong}>
+              {formatEuros(tableData[tableData.length - 1].total)}
+            </span>
+          </td>
         </tr>
       </table>
 
