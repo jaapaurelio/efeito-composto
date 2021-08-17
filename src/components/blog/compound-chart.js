@@ -46,7 +46,6 @@ export default function CompoundChart({
     compound: 12, // compounding factor (1, 12, 365...)
     years: years, // years
   }
-  console.log(opts)
   const bestValues = cInterest(
     opts.initial,
     opts.monthly,
