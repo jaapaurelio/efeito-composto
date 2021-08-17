@@ -23,7 +23,7 @@ Baseado no que valorizo, uma carrinha de 30 mil euros não aumentará cinco veze
 
 É importante ter noção de que coisas mais caras e bonitas não trazem necessariamente mais valor. Saber de onde vem, e como medir a nossa verdadeira felicidade, é um passo fundamental para decidirmos que direção dar à nossa vida.
 
-A pressão social para termos mais e melhor é constante, e por essa razão, nunca conseguiremos ter o suficiente para sermos totalmente aceites como vendedores na sociedade.
+A pressão social para termos mais e melhor é constante, e por essa razão, nunca conseguiremos ter o suficiente para sermos totalmente aceites como vencedores na sociedade.
 
 Para termos uma vida mais tranquila e feliz, temos que saber o que é realmente importante para nós e deixar de querer a aprovação do povo.
 
