@@ -1,6 +1,6 @@
 import React, { useContext } from "react"
 import { myContext } from "../provider"
-import cInterest from "compound-interest"
+import cInterest from "compound-interest-calc"
 import { formatEuros } from "../../utils"
 
 function calculateSavings(options) {
@@ -20,13 +20,13 @@ export default function CompoundInterest({
       {!difference &&
         interest !== "0" &&
         formatEuros(
-          cInterest({
-            initial: initial, // initial balance
-            monthly: state.savingsValue / 12, // monthly addition
-            interest, // +% interest
-            compound: 12, // compounding factor (1, 12, 365...)
-            years: years, // years
-          })
+          cInterest(
+            initial, // initial balance
+            state.savingsValue / 12, // monthly addition
+            years, // years
+            interest / 100, // +% interest
+            12 // compounding factor (1, 12, 365...)
+          ).result
         )}
 
       {!difference &&
@@ -42,13 +42,13 @@ export default function CompoundInterest({
 
       {difference &&
         formatEuros(
-          cInterest({
-            initial: initial, // initial balance
-            monthly: state.savingsValue / 12, // monthly addition
-            interest, // +% interest
-            compound: 12, // compounding factor (1, 12, 365...)
-            years: years, // years
-          }) -
+          cInterest(
+            initial, // initial balance
+            state.savingsValue / 12, // monthly addition
+            years, // years
+            interest / 100, // +% interest
+            12 // compounding factor (1, 12, 365...)
+          ).result -
             calculateSavings({
               initial: initial, // initial balance
               monthly: state.savingsValue / 12, // monthly addition

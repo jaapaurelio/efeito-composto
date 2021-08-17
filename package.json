@@ -11,7 +11,7 @@
     "@fontsource/fira-sans": "^4.2.2",
     "@fontsource/playfair-display": "^4.2.2",
     "@fontsource/rubik": "^4.2.2",
-    "compound-interest": "^0.3.1",
+    "compound-interest-calc": "1.0.1",
     "currency-formatter": "^1.5.6",
     "gatsby": "^3.2.1",
     "gatsby-plugin-feed": "^3.6.0",

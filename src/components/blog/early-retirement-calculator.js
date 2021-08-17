@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from "react"
-import cInterest from "compound-interest"
+import cInterest from "compound-interest-calc"
 import * as styles from "./early-retirement-calculator.module.css"
 import { formatEuros } from "../../utils"
 import YearIncome from "./year-income"
@@ -34,7 +34,13 @@ export default function EarlyRetirementCalculator() {
     compound: 12, // compounding factor (1, 12, 365...)
     years: 100, // years
   }
-  let results = cInterest.verbose(toCalc)
+  let results = cInterest(
+    toCalc.initial,
+    toCalc.monthly,
+    toCalc.years,
+    toCalc.interest / 100,
+    toCalc.compound
+  ).total
 
   let financialIndependent = false
   if (state.currentSavings > totalNeeded || investmentRate >= 100) {

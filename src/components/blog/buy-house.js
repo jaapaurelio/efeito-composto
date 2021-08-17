@@ -1,6 +1,6 @@
 import React, { useContext } from "react"
 import { myContext } from "../provider"
-import cInterest from "compound-interest"
+import cInterest from "compound-interest-calc"
 import * as styles from "./buy-house.module.css"
 
 import {
@@ -38,9 +38,9 @@ function formatLabel(label) {
 export default function CompoundInterest() {
   const { state } = useContext(myContext)
   const initial = 0
-  const bestInterest = 30
-  const worstInterest = -6.6
-  const averageInterest = 7
+  const bestInterest = 0.3
+  const worstInterest = -0.066
+  const averageInterest = 0.07
 
   const opts = {
     initial: initial, // initial balance
@@ -50,12 +50,27 @@ export default function CompoundInterest() {
     years: state.years, // years
   }
 
-  const bestValues = cInterest.verbose(opts)
-  const worstValues = cInterest.verbose({ ...opts, interest: worstInterest })
-  const averageValues = cInterest.verbose({
-    ...opts,
-    interest: averageInterest,
-  })
+  const bestValues = cInterest(
+    opts.initial,
+    opts.monthly,
+    opts.years,
+    opts.interest,
+    opts.compound
+  ).total
+  const worstValues = cInterest(
+    opts.initial,
+    opts.monthly,
+    opts.years,
+    worstInterest,
+    opts.compound
+  ).total
+  const averageValues = cInterest(
+    opts.initial,
+    opts.monthly,
+    opts.years,
+    averageInterest,
+    opts.compound
+  ).total
 
   const data = bestValues.map((value, i) => {
     return {

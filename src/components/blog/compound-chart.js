@@ -1,6 +1,6 @@
 import React, { useContext } from "react"
 import { myContext } from "../provider"
-import cInterest from "compound-interest"
+import cInterest from "compound-interest-calc"
 import * as styles from "./compound-chart.module.css"
 import millify from "millify"
 
@@ -46,9 +46,21 @@ export default function CompoundChart({
     compound: 12, // compounding factor (1, 12, 365...)
     years: years, // years
   }
-
-  const bestValues = cInterest.verbose(opts)
-  const worstValues = cInterest.verbose({ ...opts, interest: worstInterest })
+  console.log(opts)
+  const bestValues = cInterest(
+    opts.initial,
+    opts.monthly,
+    opts.years,
+    opts.interest / 100,
+    12
+  ).total
+  const worstValues = cInterest(
+    opts.initial,
+    opts.monthly,
+    opts.years,
+    worstInterest / 100,
+    12
+  ).total
 
   const data = bestValues.map((value, i) => {
     return {
