@@ -27,6 +27,4 @@ Não nos podemos esquecer que os créditos trabalham contra nós, e tirando pequ
 
 A Central de Responsabilidade de Crédito do Banco de Portugal é um bom sítio para começarmos a ter noção da nossa estabilidade financeira. Tendo créditos ou não, devemos utilizá-la de vez em quando, de forma a termos noção da nossa dívida e garantirmos que apenas temos em nosso nome o que realmente utilizamos no dia a dia.
 
-Para aceder à ferramenta, basta aceder ao link, clicar em "**Obter mapa**" e efectuar o login utilizando os dados de acesso do Portal das Finanças.
-
-Link: [Central de Responsabilidade de Crédito do Banco de Portugal ](https://www.bportugal.pt/area-cidadao/formulario/227)
+Para aceder à ferramenta, basta aceder à [Central de Responsabilidade de Crédito do Banco de Portugal](https://www.bportugal.pt/area-cidadao/formulario/227), clicar em "**Obter mapa**" e efectuar o login utilizando os dados de acesso do Portal das Finanças.
