@@ -19,7 +19,9 @@ Para todos estes créditos, é possível visualizar o valor disponível, assim c
 
 A única informação que fica a faltar é a TAN e a TAEG, para que conseguíssemos saber quanto é que o crédito está-nos a custar.
 
-Para aceder à ferramenta, basta efetuar o login utilizando os dados de acesso do Portal das Finanças.
+Para aceder à ferramenta, basta clicar em "**Obter mapa**" e efectuar o login utilizando os dados de acesso do Portal das Finanças.
+
+Link: [Central de Responsabilidade de Crédito do Banco de Portugal ](https://www.bportugal.pt/area-cidadao/formulario/227)
 
 ## Uma vida sem créditos
 
@@ -28,5 +30,3 @@ Como partilho aqui no blog, eu sou apologista de uma vida sem créditos, de form
 Não nos podemos esquecer que os créditos trabalham contra nós, e tirando pequenas exceções, eles são a representação de uma má gestão financeira. Se vivemos com demasiados créditos, provavelmente significa que estamos a viver acima das nossas possibilidades, o que poderá criar problemas no futuro.
 
 A Central de Responsabilidade de Crédito do Banco de Portugal é um bom sítio para começarmos a ter noção da nossa estabilidade financeira. Tendo créditos ou não, devemos utilizá-la de vez em quando, de forma a termos noção da nossa dívida e garantirmos que apenas temos em nosso nome o que realmente utilizamos no dia a dia.
-
-Link: [Central de Responsabilidade de Crédito do Banco de Portugal ](https://www.bportugal.pt/area-cidadao/formulario/227)
