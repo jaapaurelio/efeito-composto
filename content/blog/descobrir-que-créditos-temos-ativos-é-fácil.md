@@ -17,7 +17,7 @@ Também apresenta a lista de cartões de crédito que temos, mesmo aqueles que n
 
 Para todos estes créditos, é possível visualizar o valor disponível, assim como o valor em dívida e as suas prestações.
 
-A única informação que fica a faltar é a TAN e a TAEG, para que conseguíssemos saber quanto é que o crédito nos está a custar.
+A única informação que fica a faltar é a TAN e a TAEG, para que conseguíssemos saber quanto é que o crédito está-nos a custar.
 
 Para aceder à ferramenta, basta efetuar o login utilizando os dados de acesso do Portal das Finanças.
 
