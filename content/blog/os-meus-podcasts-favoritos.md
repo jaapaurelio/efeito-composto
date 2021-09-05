@@ -22,17 +22,18 @@ Em simultâneo, estava a aprender sobre finanças, a fazer exercício físico e 
 
 Aqui fica o primeiro episódio, que transformou a minha vida financeira.
 
-\[#1 - Onde deve estar o foco na "equação" da poupança! [O lado que poucos falam!]](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2JhcmJhcmFiYXJyb3NvL2ZlZWQueG1s/episode/YmFyYmFyYWJhcnJvc28ucG9kYmVhbi5jb20vMS1vbmRlLWRldmUtZXN0YXItby1mb2NvLW5hLWVxdWFjYW8tZGEtcG91cGFuY2Etby1sYWRvLXF1ZS1wb3Vjb3MtZmFsYW0tYWEwOGU1MjY2OTgyOThlNWUwN2ZjYjgwM2EwZTVkNTA?sa=X&ved=0CAUQkfYCahgKEwjQ09HU1-jyAhUAAAAAHQAAAAAQrgY)
+<a target="_blank" href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2JhcmJhcmFiYXJyb3NvL2ZlZWQueG1s/episode/YmFyYmFyYWJhcnJvc28ucG9kYmVhbi5jb20vMS1vbmRlLWRldmUtZXN0YXItby1mb2NvLW5hLWVxdWFjYW8tZGEtcG91cGFuY2Etby1sYWRvLXF1ZS1wb3Vjb3MtZmFsYW0tYWEwOGU1MjY2OTgyOThlNWUwN2ZjYjgwM2EwZTVkNTA?sa=X&ved=0CAUQkfYCahgKEwjQ09HU1-jyAhUAAAAAHQAAAAAQrgY">#1 - Onde deve estar o foco na "equação" da poupança! (O lado que poucos falam!)</a>
 
 ## The Rational Reminder - Ben Felix e Cameron Passmore
 
-Conheci o Ben Felix através do seu canal do [Youtube](https://www.youtube.com/c/BenFelixCSI). Os seus vídeos têm uma qualidade de informação acima da média, sempre baseada em estudos académicos ou factos históricos. Após ver praticamente todos os seus vídeos, decidi experimentar o podcast.
+Conheci o Ben Felix através do seu canal do <a target="_blank"  href="https://www.youtube.com/c/BenFelixCSI">Youtube</a>. Os seus vídeos têm uma qualidade de informação acima da média, sempre baseada em estudos académicos ou factos históricos. Após ver praticamente todos os seus vídeos, decidi experimentar o podcast.
 
 Aqui entrei em outro nível. O podcast contém muito mais informação e diferentes pontos de vista, uma vez que é também apresentado por Cameron Passmore, alguém mais velho e experiente.
 
-Um dos meus episódios favoritos é a entrevista com o Morgan Housel, que escreveu o livro “A psicologia do dinheiro”. Este episódio fez-me comprar o livro, em formato [audiobook](https://www.audible.com/pd/The-Psychology-of-Money-Audiobook/B08D9TXF3H), que também devorei em poucos dias.
+Um dos meus episódios favoritos é a entrevista com o Morgan Housel, que escreveu o livro “A psicologia do dinheiro”. Este episódio fez-me comprar o livro, em formato <a target="_blank" href="https://www.audible.com/pd/The-Psychology-of-Money-Audiobook/B08D9TXF3H">audiobook</a>, que também devorei em poucos dias.
 
-[Morgan Housel: The Psychology of Money (EP.128](https://podcasts.google.com/feed/aHR0cHM6Ly9yYXRpb25hbHJlbWluZGVyLmxpYnN5bi5jb20vcnNz/episode/MDY1NmJlZmQtYWM2NS00M2EwLWE4ZDQtMDYxZWUxNDk2YTVj?sa=X&ved=0CAUQkfYCahgKEwjQ09HU1-jyAhUAAAAAHQAAAAAQ3Ao)
+<a target="_blank" href="https://podcasts.google.com/feed/aHR0cHM6Ly9yYXRpb25hbHJlbWluZGVyLmxpYnN5bi5jb20vcnNz/episode/MDY1NmJlZmQtYWM2NS00M2EwLWE4ZDQtMDYxZWUxNDk2YTVj?sa=X&ved=0CAUQkfYCahgKEwjQ09HU1-jyAhUAAAAAHQAAAAAQ3Ao">Morgan Housel: The Psychology of Money (EP.128)</a>
+
 
 ## ChooseFI - Jonathan e Brad
 
@@ -42,7 +43,7 @@ O podcast é muito autêntico e com muitas histórias pessoais, uma vez que Jona
 
 Aqui fica um dos meus episódios favoritos, onde falam sobre as diferentes etapas no caminho da independência financeiramente. 
 
-[324 | The Stages and Checkpoints of FI](https://podcasts.google.com/feed/aHR0cDovL2Nob29zZWZpLmxpYnN5bi5jb20vcnNz/episode/NzRhZmQ3NzgtNzdlMC00ZGExLTk1M2UtNDkyMTczOTk1M2I5?sa=X&ved=0CAUQkfYCahgKEwjQ09HU1-jyAhUAAAAAHQAAAAAQ-Ts)
+<a target="_blank" href="https://podcasts.google.com/feed/aHR0cDovL2Nob29zZWZpLmxpYnN5bi5jb20vcnNz/episode/NzRhZmQ3NzgtNzdlMC00ZGExLTk1M2UtNDkyMTczOTk1M2I5?sa=X&ved=0CAUQkfYCahgKEwjQ09HU1-jyAhUAAAAAHQAAAAAQ-Ts">324 | The Stages and Checkpoints of FI</a>
 
 ## Financial Independence - The Mad Fientist
 
@@ -50,7 +51,7 @@ Para finalizar, outro excelente podcast focado na independência financeira e co
 
 Todos os seus convidados têm uma visão de independência financeira incrível, mas decidi colocar aqui um dos meus episódios favoritos, com a Vicki Robin, ela que é conhecida como uma das fundadoras do movimento de independência financeira, falando do tema desde 1960. Simplesmente fantástico.
 
-[Your Money or Your Life – An Interview with Author Vicki Robin](https://podcasts.google.com/feed/aHR0cHM6Ly9tYWRmaWVudGlzdC5saWJzeW4uY29tL3Jzcw/episode/YzE0MmI5M2I2MDU3MzdiNDg1Zjk2ODY5ZTlmYTFhNDA?sa=X&ved=0CAUQkfYCahkKEwjQ09HU1-jyAhUAAAAAHQAAAAAQ8_0E)
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9tYWRmaWVudGlzdC5saWJzeW4uY29tL3Jzcw/episode/YzE0MmI5M2I2MDU3MzdiNDg1Zjk2ODY5ZTlmYTFhNDA?sa=X&ved=0CAUQkfYCahkKEwjQ09HU1-jyAhUAAAAAHQAAAAAQ8_0E" target="_blank">Your Money or Your Life – An Interview with Author Vicki Robin</a>
 
 ## Podcasts para todos os gostos
 
