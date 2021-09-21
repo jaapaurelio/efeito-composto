@@ -35,8 +35,9 @@ Foi aí que comecei o meu registo mensal de património. Criei um excel e listei
 
 Exemplo da tabela. Valores fictícios. 
 
-|  Data | Dinheiro no Banco  | Valor do Carro  | Total  |
+|   |   |   |   |
 |---|---|---|---|
+|  **Data** | **Dinheiro no Banco**  | **Valor do Carro**  | **Total**  |
 |  01-01-2019 | 10.000€  | 5.000€  |  15.000€ |
 | 01-02-2019  | 10.200€  | 5.000€  |  15.200€ |
 
@@ -47,8 +48,9 @@ Como ganhei consciência do meu estado financeiro e do meu objetivo, comecei a n
 
 Exemplo da tabela atual. Valores fictícios. 
 
-|  Data | Banco  | Carro  | Investimento| Imobiliário| Total  |
+| | | | | | | 
 |---|---|---|---|---|---|
+|  **Data** | **Banco**  | **Carro**  | **Investimento** | **Imobiliário**| **Total**  |
 |  01-01-2021 | 20.000€  | 4.000€  |  20.000€ | 20.000 | 64.000€ |
 
 
