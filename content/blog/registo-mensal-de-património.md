@@ -37,7 +37,7 @@ Exemplo da tabela. Valores fictícios.
 
 |   |   |   |   |
 |---|---|---|---|
-|  **Data** | **Dinheiro no Banco**  | **Valor do Carro**  | **Total**  |
+|  **Data** | **Banco**  | **Carro**  | **Total**  |
 |  01-01-2019 | 10.000€  | 5.000€  |  15.000€ |
 | 01-02-2019  | 10.200€  | 5.000€  |  15.200€ |
 
@@ -45,13 +45,6 @@ Exemplo da tabela. Valores fictícios.
 Desde esse dia, mensalmente adiciono uma linha à tabela e revejo o estado do meu património. Demora apenas 10 minutos por mês e o resultado é incrível.
 
 Como ganhei consciência do meu estado financeiro e do meu objetivo, comecei a notar alterações positivas na tabela. O dinheiro parado no banco diminuiu, pois foi movido para investimentos. Os investimentos, por sua vez, começaram a crescer e geram cada vez mais dinheiro. Criei novas colunas na tabela para representar novos bens, consequência da diversificação. Mais importante, sinto-me cada vez mais estável financeiramente.
-
-Exemplo da tabela atual. Valores fictícios. 
-
-| | | | | | | 
-|---|---|---|---|---|---|
-|  **Data** | **Banco**  | **Carro**  | **Investimento** | **Imobiliário**| **Total**  |
-|  01-01-2021 | 20.000€  | 4.000€  |  20.000€ | 20.000 | 64.000€ |
 
 
 ## Primeiro dispara, depois aponta!
