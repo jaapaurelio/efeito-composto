@@ -64,4 +64,4 @@ Atualmente o meu excel está cheio de cores, gráficos, percentagens e estimativ
 
 O importante foi começar a fazer este registo. Isso fez-me transformar a minha visão de património e consequentemente o valor do mesmo. Hoje tenho valores no excel que pensei impossíveis de alcançar quando comecei, especialmente num espaço de tempo tão curto.
 
-Mais importante, tenho uma vida financeira cada vez mais tranquila. O excel mostra que estou a aumentar o meu património e que estou no caminho certo para alcançar a minha liberdade financeira. Embora o percurso ainda seja longo, com certeza lá chegarei.
+Mais importante, tenho uma vida financeira cada vez mais tranquila. O excel mostra que estou a aumentar o meu património e que estou no caminho certo para alcançar a minha independência financeira. Embora o percurso ainda seja longo, com certeza lá chegarei.
