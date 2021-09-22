@@ -40,6 +40,17 @@ A despesa do dia a dia também é menor. Por exemplo, a conta da luz será mais 
 
 Se vivermos numa casa arrendada, tudo isto conta para que a renda seja mais baixa. Quem fica a ganhar somos nós, pois conseguimos viver uma vida financeiramente mais tranquila.
 
+
+## Tempo livre
+
+Manter uma casa pequena arrumada parece ser mais difícil. Basta apenas uma peça de roupa estar fora do lugar, ou ter louça para lavar, e tudo parece desarrumado. 
+
+A grande vantagem é que com apenas 5 minutos, tudo fica no sítio. Ao fim de semana, quando decidimos fazer uma limpeza mais profunda, em 30 minutos tudo fica a brilhar.
+
+Não tenho que pagar à senhora das limpezas, nem perder o sábado a arrumar a casa. Tudo é feito rapidamente e sem muito esforço.
+
+
+
 ## Também existem coisas más
 
 É claro que nem tudo é perfeito, viver num apartamento tão pequeno também traz-nos desafios, sendo o maior deles a falta de espaço pessoal.
