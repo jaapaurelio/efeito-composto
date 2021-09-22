@@ -50,9 +50,9 @@ Felizmente essas situações acontecem poucas vezes, e quando acontecem, consegu
 
 ## A casa perfeita
 
-Eu mudaria poucas coisas nesta casa. A localização é excelente, o estilo de vida que proporciona é o que quero, ajuda-me a ser consciente em relação ao consumismo e por consequência ajuda-me a melhorar o meio ambiente e a minha carteira.
+Eu mudaria poucas coisas nesta casa. A localização é excelente, o estilo de vida que proporciona é o que quero, ajuda-me a ser consciente em relação ao consumismo, e por consequência, ajuda-me a melhorar o meio ambiente e a minha carteira.
 
-No futuro, uma vez que pretendo continuar a trabalhar em casa, equaciono ter um quarto privado, para o escritório. A cama pode continuar a ser num quarto-mezanino, é uma excelente forma de aproveitar o espaço. Num futuro ainda mais distante, se tivermos filhos, posso necessitar de mais espaço, mas isso pode ser reavaliado quando estiverem para nascer.  Não é algo que me preocupa de momento.
+No futuro, uma vez que pretendo continuar a trabalhar em casa, equaciono ter um quarto privado, para o escritório. A cama pode continuar a ser num quarto-mezanino, é uma excelente forma de aproveitar o espaço. Num futuro ainda mais distante, se tivermos filhos, posso necessitar de mais um quarto, mas isso pode ser reavaliado quando estiverem para nascer.  Não é algo que me preocupa de momento.
 
 Não sou apologista de fazer grandes casas a pensar em tudo o que pode acontecer no futuro. Uma vez que vejo a casa como algo funcional, ela deve ir-se adaptando ao meu estilo de vida ao longo do tempo, sem necessidade de pagar mais agora, por algo que posso nem vir a utilizar no futuro.
 
