@@ -10,7 +10,7 @@ Eu sou fã de viver bem abaixo do meu salário. Isso obriga-me a tirar o máximo
 
 Visualizem um apartamento com 30 metros quadrados, com um quarto-mezanino e uma casa de banho. Situado no quarto andar, sem elevador. Parece primitivo viver nestas condições, mas é algo que me dá imenso prazer.
 
-## Localização 
+## Localização
 
 O primeiro ponto importante deste apartamento é a sua localização. Nós vivemos numa pequena cidade com 11 mil habitantes, que podemos chamar de vila. Aqui temos cinema, supermercados, restaurantes, bares e praia, tudo a uma distância de 5 minutos a pé.
 
@@ -24,7 +24,7 @@ Importante referir que trabalho desde casa, e a minha namorada trabalha atualmen
 
 O segundo ponto que me agrada numa casa tão pequena, é o facto de não permitir-nos guardar tralha. Ao olhar ao redor vejo a minha bicicleta, que uso diariamente, um armário com as nossas roupas, uma estante com alguns livros, uma televisão, que já estava no apartamento mas não a utilizamos, um ukulele que deveria tocar mais vezes, e um quadro que a minha namorada pintou. Existe um ou outro adorno, mas nada que nos dê muito trabalho a limpar o pó.
 
-Não existe muito mais espaço para guardar coisas que não vamos utilizar com frequência. É impensável comprar uma máquina de ginásio milagrosa, uma bicicleta fixa, ou um sistema de som que apenas vamos utilizar para mostrar aos amigos. Não temos espaço! 
+Não existe muito mais espaço para guardar coisas que não vamos utilizar com frequência. É impensável comprar uma máquina de ginásio milagrosa, uma bicicleta estática, ou um sistema de som que apenas vamos utilizar para mostrar aos amigos. Não temos espaço! 
 
 Na cozinha temos o essencial, uma frigideira, três panelas e uns tupperwares. No balcão temos um microondas e um robot de cozinha.
 
@@ -39,7 +39,6 @@ Outra vantagem da casa pequena, é que claramente terá menos despesas. Se combi
 A despesa do dia a dia também é menor. Por exemplo, a conta da luz será mais pequena, pois temos menos luzes para acender. A manutenção geral da casa também será mais barata. Pintar 30m2 será aproximadamente 4 vezes mais barato do que pintar uma casa com 120m2, o normal em Portugal. 
 
 Se vivermos numa casa arrendada, tudo isto conta para que a renda seja mais baixa. Quem fica a ganhar somos nós, pois conseguimos viver uma vida financeiramente mais tranquila.
-
 
 ## Também existem coisas más
 
@@ -60,5 +59,3 @@ Não sou apologista de fazer grandes casas a pensar em tudo o que pode acontecer
 A casa perfeita depende de cada um de nós. Eu, cada vez mais, gosto da ideia de viver numa vila onde tudo está perto, sem ter que usar o carro no meu dia a dia. Um pouco mais de espaço não fazia mal, mas também não sinto uma grande necessidade em satisfazer esse desejo.
 
 Por agora, vamos continuar a viver em trinta metros quadrados, com todas as vantagens e desvantagens que isso traz-nos. No futuro, se algo mudar, logo vemos.
-
-
