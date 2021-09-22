@@ -47,8 +47,7 @@ Manter uma casa pequena arrumada parece ser mais difícil. Basta apenas uma peç
 
 A grande vantagem é que com apenas 5 minutos, tudo fica no sítio. Ao fim de semana, quando decidimos fazer uma limpeza mais profunda, em 30 minutos tudo fica a brilhar.
 
-Não tenho que pagar à senhora das limpezas, nem perder o sábado a arrumar a casa. Tudo é feito rapidamente e sem muito esforço.
-
+Não tenho que pagar a senhora das limpezas, nem perder o sábado a arrumar a casa. Tudo é feito rapidamente e sem muito esforço.
 
 
 ## Também existem coisas más
