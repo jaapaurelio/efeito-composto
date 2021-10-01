@@ -20,6 +20,8 @@ Por esse motivo, acredito que investir não me fará rico. Acredito que a base p
 
 A base da minha gestão financeira é gastar menos do que recebo. Para quem acha que recebe pouco e vê isso como uma desculpa para não o conseguir fazer, está a esquecer-se que só depende de si para ganhar mais dinheiro. Investir em formação ou trocar de área são dois exemplos de como fazer isso acontecer. Por outro lado, a maioria das pessoas vive com níveis elevados de consumismo, e mesmo que receba mais, não vai resolver nada. O grande problema é o seu estilo de vida.
 
+## Pensar a longo prazo
+
 Viver abaixo do meu salário faz com que sobre muito dinheiro para investir todos os meses. Isso significa que não dependo de grandes retornos para aumentar o meu património. Só preciso de tempo.
 
 Um mês pode não fazer a diferença, mas se investir 20, 30 ou 50 por cento do meu salário todos os meses, em algo minimamente estável, com certeza verei resultados positivos. Se alargar isto para dez anos, chegarei a um nível financeiro que a grande maioria dos portugueses nunca chegará.
