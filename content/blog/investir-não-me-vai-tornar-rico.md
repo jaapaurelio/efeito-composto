@@ -32,4 +32,4 @@ Investir para duplicar o dinheiro em dez anos parece ridículo, quando podemos c
 
 Se levar esta consistência ainda mais longe, em menos de 20 anos estarei numa posição de independência financeira, onde trabalhar por dinheiro passa a ser opcional.
 
-É importante ter noção do motivo pelo qual estamos a investir. Se temos problemas financeiros na nossa vida, ganhar mais dinheiro nem sempre é a solução. O primeiro passo é organizar as nossas finanças, só depois é que devemos colocar o dinheiro a trabalhar para nós.
+É importante ter noção do motivo pelo qual estamos a investir. Se temos problemas financeiros, ganhar mais dinheiro nem sempre é a solução. O primeiro passo é organizar as nossas finanças, só depois é que devemos colocar o dinheiro a trabalhar para nós.
