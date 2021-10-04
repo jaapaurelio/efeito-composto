@@ -17,7 +17,7 @@ A minha nova forma de pensar, faz-me acreditar que o dinheiro é apenas uma ferr
 
 É claro que existem ricos bons e maus, mas regra geral focamo-nos apenas nos maus. Eles são a desculpa para o nosso fracasso financeiro, pois não queremos ser más pessoas como eles.
 
-Outras desculpas são frases como “o dinheiro não é importante, o importante é o amor”. Dinheiro é uma ferramenta e amor é um sentimento, nada impede-nos de ter ambos em abundância. Esse tipo de frases são derivadas de uma mentalidade de escassez, que faz-nos acreditar que para ganhar algo, temos obrigatoriamente de perder alguma coisa.
+Outras desculpas são frases como “o dinheiro não é importante, o importante é o amor”. Dinheiro é uma ferramenta e amor é um sentimento, nada impede-nos de ter ambos em abundância. Este tipo de pensamentos são derivados de uma mentalidade de escassez, que faz-nos acreditar que para ganhar algo, temos obrigatoriamente de perder alguma coisa.
 
 Uma pessoa rica é alguém que não se limita pelos outros, alguém com sucesso, que deu mais de si, focou-se no objetivo e não inventou desculpas para o seu fracasso. Todas essas características fizeram crescer o seu património e agora tem liberdade para utilizá-lo onde achar melhor. Por esse motivo trabalho para ser rico, pois significa que serei alguém com sucesso, focado e sem desculpas.
 
