@@ -1,0 +1,43 @@
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.container {
+  text-align: center;
+  background: cornsilk;
+  background: #232728;
+  margin-top: var(--spacing-8);
+  min-height: 200px;
+  display: flex;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  margin: 0px 20px;
+}
+
+.image {
+  max-width: 100%;
+  width: 250px;
+  margin-left: 40px;
+}
+
+.note {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding-bottom: 20px;
+  }
+  .content {
+    display: block;
+  }
+}
