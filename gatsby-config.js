@@ -133,6 +133,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
+            title: "Efeito Composto RSS",
           },
         ],
       },
