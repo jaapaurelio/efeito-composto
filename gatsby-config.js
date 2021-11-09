@@ -26,15 +26,6 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-eslint",
-      options: {
-        stages: ["develop"],
-        extensions: ["js", "jsx"],
-        exclude: ["node_modules", ".cache", "public"],
-        // Any eslint-webpack-plugin options below
-      },
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
@@ -52,6 +43,12 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `data`,
+        path: `${__dirname}/src/data`,
+      },
+    },
+    {
+      resolve: "gatsby-transformer-json",
+      options: {
         path: `${__dirname}/src/data`,
       },
     },
