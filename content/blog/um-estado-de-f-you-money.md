@@ -35,6 +35,6 @@ Nenhum de nós conhecia o conceito de F-you Money, mas ambos usufruímos de umas
 
 Agora com o conceito em mente, a ideia torna-se ainda mais importante. Não quero que as minhas decisões sejam influenciadas pela falta de dinheiro. Cada vez mais procuro uma vida onde possa ter flexibilidade e opções de escolha. No meu trabalho o mais importante não é o salário mas sim as regalias globais, como trabalhar de casa e conseguir tirar férias com pouco tempo de antecedência. 
 
-Tudo isto é possível devido ao F-you Money e cada vez mais posso dizer “que se lixe” criando a vida que quero viver.
+Tudo isto é possível devido ao F-you Money e cada vez mais posso dizer “que se lixe”, criando a vida que quero viver.
 
 Recomendo o livro [The Simple Path to Wealth do JL Collins](https://amzn.to/3dme177) para quem quiser saber mais sobre como alcançar o estado de F-you Money.
