@@ -13,7 +13,7 @@ Imaginemos um trabalho onde o patrão é uma besta, faz-nos trabalhar horas extr
 
 Sem dinheiro na conta é difícil tomar uma decisão tão grande como esta, isto porque temos demasiadas preocupações. Na nossa cabeça estamos preocupados com o que acontecerá se não encontrarmos trabalho no mês seguinte, se não ficarmos efetivos ou se recebermos menos dinheiro. Quem tem F-you Money não se preocupa com isso pois sabe que tem alguns meses ou anos de reserva para resolver essa situação.
 
-A quantidade de F-you Money vai determinar a nossa posição na vida. Para quem tem pouco dinheiro de sobra, a única decisão que pode fazer é se vai ou não beber um café a caminho do trabalho. Para quem tem mais dinheiro, as escolhas começam a ser mais abrangentes. 
+A quantidade de F-you Money que temos vai determinar a nossa posição na vida. Para quem tem pouco dinheiro de sobra, a única decisão que pode fazer é se vai ou não beber um café a caminho do trabalho. Para quem tem mais dinheiro, as escolhas começam a ser mais abrangentes. 
 
 Quando temos algumas notas no bolso, podemos escolher o jantar sem olhar ao preço. Com alguns milhares na conta bancária, podemos decidir onde e quando ir de férias. Com muitos milhares, começamos a ser livres de escolher um trabalho mais flexível. Se calhar podemos propor ao patrão trabalhar apenas 4 dias por semana. Se não aceitar? Que se lixe, existem mais trabalhos e eu tenho liberdade para tomar essa decisão. 
 
