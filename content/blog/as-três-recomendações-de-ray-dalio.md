@@ -40,7 +40,7 @@ O portfólio predileto de Ray Dalio é chamado de portfólio para todas as esta�
 
 ## Faz o oposto do que o teu instinto diz para fazer
 
-O seu terceiro conselho é para seguirmos o nosso instinto. Também não devemos seguir o que os outros estão a fazer, uma vez que o mercado é reflexo das massas.
+O seu terceiro conselho é para não seguirmos o nosso instinto e o que parece certo. Também não devemos seguir o que os outros estão a fazer, uma vez que o mercado é reflexo das massas.
 
 A ideia aqui é que devemos comprar quando ninguém quer comprar e vender quando ninguém quer vender. Isto está muito alinhado ao que o Warren Buffett também defende quando diz que devemos ser ambiciosos quando os outros estão com medo.
 
