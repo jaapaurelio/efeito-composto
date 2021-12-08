@@ -34,13 +34,13 @@ Para protegermo-nos da inflação temos que colocar o nosso dinheiro em investim
 
 Para termos sucesso neste ponto, o seu conselho é diversificar. Todos os investimentos apresentam risco e garantidamente na nossa vida um dos nossos investimentos eventualmente baixará 50%. A ideia da diversificação é suavizar essa volatilidade. 
 
-Esta diversificação deve ser feita utilizando ativos de diferentes países e diferentes classes. Por exemplo, ao comprar um fundo indexado que tenha empresas de todo o mundo estamos a diversificar geograficamente, mas estamos demasiado expostos ao mercado de ações. Para diversificar na classe dos ativos e contrabalançar a nossa exposição ao mercado de ações, devemos investir em imobiliário, ouro, obrigações e matérias-primas.
+Esta diversificação deve ser feita utilizando ativos de diferentes países e diferentes classes. Por exemplo, ao comprar um fundo indexado que contenha empresas de todo o mundo, estamos a diversificar geograficamente, mas estamos demasiado expostos ao mercado de ações. Para diversificar na classe dos ativos e contrabalançar a nossa exposição ao mercado de ações, devemos investir em imobiliário, ouro, obrigações e matérias-primas.
 
 O portfólio predileto de Ray Dalio é chamado de portfólio para todas as estações. Ele sugere que tenhamos 30% em ações, 40% em obrigações de longo prazo, 15% em obrigações de médio prazo, 7.5% em ouro e 7.5% em matérias-primas. A ideia deste portfólio é suavizar a volatilidade e fazer crescer o nosso dinheiro sustentavelmente. 
 
 ## Faz o oposto do que o teu instinto diz para fazer
 
-O seu terceiro conselho é para que não devemos seguir o nosso instinto e não repetir o que os outros estão a fazer, uma vez que o mercado é reflexo das massas.
+O seu terceiro conselho é para que não devemos seguir o nosso instinto. Também não devemos repetir o que os outros estão a fazer, uma vez que o mercado é reflexo das massas.
 
 A ideia aqui é que devemos comprar quando ninguém quer comprar e vender quando ninguém quer vender. Isto está muito alinhado ao que o Warren Buffett também defende quando diz que devemos ser ambiciosos quando os outros estão com medo.
 
