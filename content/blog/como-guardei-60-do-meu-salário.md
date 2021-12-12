@@ -14,7 +14,7 @@ Antes de analisar os dados, é importante perceber que o facto de fazer o levant
 
 ## O grande número
 
-No início do ano tinha o plano de poupar 50% do meu salário. Para que isso acontecesse, estipulei algumas transferências automáticas na minha conta bancária. Sempre que recebia o salário na conta, parte do dinheiro era transferido para a minha conta de investimento e parte para outras contas com objetivos a curto prazo. No final, o que sobrava à ordem era a minha mesada, dinheiro que podia gastar sem pensar muito nele. 
+No início do ano tinha o plano de poupar 50% do meu salário. Para que isso acontecesse, estipulei algumas transferências automáticas na minha conta bancária. Sempre que recebia o salário na conta, parte do dinheiro era transferido para a minha conta de investimentos e parte para outras contas com objetivos a curto prazo. No final, o que sobrava à ordem era a minha mesada, dinheiro que podia gastar sem pensar muito nele. 
 
 Ao analisar os dados, um número saltou à vista. Em 2021 eu poupei e investi **60%** do meu salário. O melhor é que não notei alterações no meu estilo de vida pois continuei a gastar o que tinha na conta à ordem como esperado. Ao analisar os dados posso levantar duas razões pelo qual isto aconteceu.
 
