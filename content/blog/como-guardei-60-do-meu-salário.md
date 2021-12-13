@@ -26,7 +26,7 @@ A segunda razão é que quando estamos com ritmo e a ver os investimentos a cres
 
 Outro número que saltou à vista foi o valor que os juros compostos estão a gerar nos investimentos. Este ano o mercado tem estado em crescimento constante o que fez com que os meus investimentos aumentassem 32% apenas com juros. Isto aliado aos meus reforços mensais fizeram o valor disparar.
 
-Eu não invisto em criptomoedas, mas para quem segue notícias relacionadas com o tema, pode pensar que 32% é pouco, visto que por exemplo que a Dogecoin disparou 5.000% em um ano. A diferença é a consistência.
+Eu não invisto em criptomoedas, mas para quem segue notícias relacionadas com o tema, pode pensar que 32% é pouco, visto que por exemplo a Dogecoin disparou 5.000% em um ano. A diferença é a consistência.
 
 Eu não quero arriscar o meu dinheiro em algo que pode disparar cinco mil por cento mas a probabilidade de ficar a zeros de um dia para o outro é ainda maior. Eu sigo fielmente as regras do Warren Buffett: Primeira regra, nunca percas dinheiro. Segunda, nunca te esqueças da primeira regra.
 
