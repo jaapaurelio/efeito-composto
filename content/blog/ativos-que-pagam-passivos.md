@@ -25,7 +25,7 @@ Por essa razão, pessoas de mentalidade rica, arranjam forma de investir esse di
 
 ## Uma máquina de fazer dinheiro 
 
-Após investirmos o dinheiro num ativo, é uma questão de tempo até conseguirmos recuperar esse dinheiro. É claro que não é instantâneo, dependendo do investimento, pode demorar anos até conseguirmos duplicar o valor.
+Após investirmos num ativo, é uma questão de tempo até conseguirmos recuperar esse dinheiro. É claro que não é instantâneo, dependendo do investimento, pode demorar anos até conseguirmos duplicar o valor.
 
 Mas isso não é um problema, porque estamos a criar uma máquina de fazer dinheiro enquanto estamos a dormir. Se investirmos consistentemente nessa máquina, eventualmente poderemos comprar um carro apenas com o lucro gerado. A grande vantagem, é que após comprar o carro, a máquina não pára de fazer dinheiro.
 
