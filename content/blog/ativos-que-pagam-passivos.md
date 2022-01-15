@@ -5,7 +5,7 @@ title: Ativos que pagam passivos
 author: aureliopita
 description: Os ricos continuam ricos, pois nunca gastam o seu dinheiro.
 ---
-Um dos conceitos que mais me fez confusão quando li pela primeira vez o livro Pai Rico, Pai Pobre, do Robert Kiyosaki, foi o de ativos que pagam passivos. No livro, Robert Kiyosaki explica que os ricos continuam ricos, pois nunca gastam o seu dinheiro. Tudo o que compram é pago com juros dos seus investimentos.
+Um dos conceitos que mais me fez confusão quando li pela primeira vez o livro [Pai Rico, Pai Pobre, do Robert Kiyosaki](https://amzn.to/3nroR1q), foi o de ativos que pagam passivos. No livro, Robert Kiyosaki explica que os ricos continuam ricos, pois nunca gastam o seu dinheiro. Tudo o que compram é pago com juros dos seus investimentos.
 
 Na altura em que li o livro pela primeira vez, ainda verde no campo das finanças pessoais, não conseguia realmente entender como é que isso era possível. Ao ler as palavras ativos e passivos, embora conseguisse perceber o significado das mesmas, não conseguia visualizar a grandiosidade do conceito.
 
