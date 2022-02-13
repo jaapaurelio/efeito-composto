@@ -7,10 +7,8 @@ description: O conceito é simples, nós temos um nível de felicidade
   pré-programado no nosso cérebro e é ele quem determina a nossa felicidade a
   longo prazo.
 ---
-## Adaptação hedónica
 
 O conceito é simples, nós temos um nível de felicidade pré-programado no nosso cérebro e é ele quem determina a nossa felicidade a longo prazo.
-
 
 
 ![Adaptação hedónica](/assets/the-genetic-happiness-set-point.png "Adaptação hedónica")
