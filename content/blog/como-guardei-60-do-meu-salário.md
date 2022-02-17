@@ -34,7 +34,7 @@ Perder dinheiro faz com que fiquemos com menos a trabalhar para nós. Por isso, 
 
 ## Aproveitar mais a vida
 
-Um dos pontos que tenho que frisar é que eu não sacrifiquei a minha diversão ou estilo de vida para poupar e investir, isso aconteceu naturalmente. Continuei a viajar, a jantar fora e a sair com amigos. Criei alguns novos hábitos, como andar de bicicleta diariamente, algo que não custa dinheiro mas faço-o porque gosto genuinamente.
+Um dos pontos que tenho que frisar é que eu não sacrifiquei a minha diversão ou estilo de vida para poupar e investir. Continuei a viajar, a jantar fora e a sair com amigos. Também criei alguns novos hábitos, como andar de bicicleta diariamente, algo que não custa dinheiro mas faço-o porque gosto genuinamente.
 
 Neste momento, gastar mais cem ou quinhentos euros por mês não aumentará a minha felicidade. Por outro lado, saber que tenho dinheiro extra, dá-me conforto e faz-me acreditar que o futuro será ainda melhor. Para mim, isso é essencial para conseguir viver e aproveitar tranquilamente o presente.
 
