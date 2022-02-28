@@ -24,7 +24,7 @@ Conduzir uma bicicleta é muito parecido com a filosofia que aplico na minha vid
 
 É claro que haverá um dia onde a chuva aparecerá e outro onde terei que subir uma encosta mais acentuada, mas isso não me fará parar, pois estou focado no meu destino.
 
- ## Comprar o carro
+## Comprar o carro
 
 Ver aquele carro fez-me questionar também a relação preço/valor. Ao chegar a casa, e após uma pesquisa rápida no google, apercebi-me que poderia comprar aquele carro por cerca de 40 mil euros, versão base. O site da Renault até facilita-nos a vida e faz-nos uma simulação de crédito automática, para vermos como será fácil pagar a prestação daquele carro.
 
@@ -48,6 +48,4 @@ O valor que esses dois bens materiais acrescentam na minha vida é gigante, comp
 
 No final do dia é tudo uma questão de escolhas. Eu prefiro ter um carro mais barato que funcione, andar de bicicleta sempre que possível e investir todo o dinheiro que sobra desta decisão no meu futuro.
 
-Estas pequenas decisões são como andar de bicicleta, pode parecer um processo lento e insignificante, mas com consistência acabamos por chegar ao objetivo final.
-
-
+Estas pequenas decisões são como andar de bicicleta, pode parecer um processo lento e insignificante, mas com consistência acabamos por chegar muito longe.
