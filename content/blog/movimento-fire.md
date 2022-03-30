@@ -26,7 +26,7 @@ Quando atingimos esse valor, o dinheiro deixa de ser o foco principal e é aí q
 
 Isto é um ponto importante, o trabalho é necessário na nossa vida para sentirmo-nos úteis, realizados e parte da sociedade. A grande vantagem é que agora que temos as contas pagas não há necessidade de escolher um trabalho baseado no salário.
 
-Eu gosto do meu trabalho como programador e desde os 17 anos que faço aplicações por diversão. Embora goste do meu trabalho, quando for livre financeiramente o provável é deixar de trabalhar por contra de outrém e dedicar todo o tempo aos meus projetos, mesmo que não gerem dinheiro.
+Eu gosto do meu trabalho como programador e desde os 17 anos que faço aplicações por diversão. Embora goste do meu trabalho, quando for livre financeiramente o provável é deixar de trabalhar por conta de outrem e dedicar todo o tempo aos meus projetos, mesmo que não gerem dinheiro.
 
 Também considero explorar outras áreas fora da informática que atualmente não exploro por serem mal pagas, como a área social.
 
