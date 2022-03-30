@@ -3,10 +3,10 @@ path: movimento-fire
 date: 2022-03-30T08:37:36.806Z
 title: Movimento FIRE
 author: aureliopita
-description: Uma das coisas que me despertou para o mundo das finanças pessoais
+description: Uma das coisas que despertou-me para o mundo das finanças pessoais
   foi o Movimento FIRE (Financial Independence Retire Early).
 ---
-Uma das coisas que me despertou para o mundo das finanças pessoais foi o Movimento FIRE (Financial Independence Retire Early), que traduzido para português será algo como Independência Financeira Reforma Antecipada.
+Uma das coisas que despertou-me para o mundo das finanças pessoais foi o Movimento FIRE (Financial Independence Retire Early), que traduzido para português será algo como Independência Financeira Reforma Antecipada.
 
 Não consigo lembrar-me exatamente de quando ouvi esta sigla pela primeira vez, mas lembro-me que interiorizei o conceito após conhecer a história do Mr Money Mustache, que reformou-se após trabalhar 10 anos como informático.
 
