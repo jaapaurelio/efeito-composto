@@ -34,6 +34,6 @@ Também considero explorar outras áreas fora da informática que atualmente nã
 
 Isto levanta outro ponto que considero importante no FIRE. Se mais pessoas alcançarem este estado de liberdade, viveremos num mundo mais pró-ativo, com exploração pessoal e consequentemente melhor para viver.
 
-Os estudos provam que a felicidade vem de coisas como amizade, pró-atividade e ajudar o próximo. Quando deixamos de trabalhar por dinheiro, temos todo o tempo do mundo para dedicar a esses temas e deixar a nossa marca positiva no mundo.
+Os estudos provam que a felicidade vem de coisas como amizade, pró-atividade e ajudar o próximo. Quando deixamos de trabalhar por dinheiro, temos todo o tempo do dia para dedicar a esses temas e deixar a nossa marca positiva no mundo.
 
-Não defendo que devemos esperar para sermos felizes e fazer o bem apenas após atingir liberdade financeira, mas acredito que o caminho para lá chegarmos é transformador e estaremos cada vez mais alinhados com o que realmente importa.
+Não defendo que devemos esperar para sermos felizes e fazer o bem apenas após atingir liberdade financeira, mas acredito que o caminho para lá chegarmos é transformador e ao longo do processo estaremos cada vez mais alinhados com o que realmente importa.
