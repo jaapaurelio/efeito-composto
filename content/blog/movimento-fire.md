@@ -28,7 +28,7 @@ Isto é um ponto importante, o trabalho é necessário na nossa vida para sentir
 
 Eu gosto do meu trabalho como programador e desde os 17 anos que faço aplicações por diversão. Embora goste do meu trabalho, quando for livre financeiramente o provável é deixar de trabalhar por conta de outrem e dedicar todo o tempo aos meus projetos, mesmo que não gerem dinheiro.
 
-Também considero explorar outras áreas fora da informática que atualmente não exploro por serem mal pagas, como a área social.
+Também considero explorar outras áreas fora da informática que atualmente não exploro por serem mal pagas e com poucas condições de trabalho, como a área social.
 
 ## Um futuro melhor
 
