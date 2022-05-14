@@ -15,7 +15,7 @@ Há um clima negativo no ar, com os cabeçalhos das notícias a serem dominados 
 
 Desde 2019 que invisto religiosamente todos os meses, sem me importar muito com o que se passa no mercado e no mundo em geral. A minha estratégia é chamada de dollar-cost averaging (DCA) e assenta sobre o facto de que eu pouco sei sobre o que irá acontecer a curto prazo.
 
-Um bom exemplo desta estratégia aconteceu em 2020, quando o IWDA desceu aproximadamente 30% devido ao Covid. Confiante na minha estratégia, quando todos estavam a vender, essa foi a altura onde comprei as posições mais baratas do meu portfólio, 39.80€ por posição. É como se tivesse viajado no tempo para 2016, quando o IWDA alcançou esses valores pela primeira vez. Para comparação, hoje o IWDA está nos 72€.
+Um bom exemplo desta estratégia aconteceu em 2020, quando o IWDA desceu aproximadamente 30% devido ao Covid. Confiante na minha estratégia, quando todos estavam a vender, comprei as posições mais baratas do meu portfólio, 39.80€ por posição. É como se tivesse viajado no tempo para 2016, quando o IWDA alcançou esses valores pela primeira vez. Para comparação, hoje o IWDA está nos 72€.
 
 ![Evolução IWDA 2017/2022](/assets/captura-de-pantalla-2022-05-14-a-la-s-20.35.25.png "Evolução IWDA 2017/2022")
 
