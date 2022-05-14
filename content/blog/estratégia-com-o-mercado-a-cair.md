@@ -20,7 +20,6 @@ Um bom exemplo desta estratégia aconteceu em 2020, quando o IWDA desceu aproxim
 ![Evolução IWDA 2017/2020](/assets/captura-de-pantalla-2022-05-14-a-la-s-19.38.17.png "Evolução IWDA 2017/2020")
 
 Evolução IWDA 2017/2020
- 
 
 Como não faço ideia se o mercado irá subir ou descer amanhã, limito-me a investir dinheiro sempre que o tenho disponível, isto geralmente acontece logo após receber o salário. Umas vezes compro mais barato, outras vezes compro mais caro, o importante é que todos os meses estou a aumentar o meu investimento.
 
@@ -36,7 +35,7 @@ Nos próximos meses o mercado pode descer ou aumentar 10, 20 ou até 50%. Indepe
 
 Parece fácil prever o que irá acontecer e muitas pessoas acreditam que conseguem fazê-lo. Se prevemos uma crise, parece que o certo é guardar o dinheiro, esperar que o mercado desça e investir no ponto mais baixo. Comprar barato e vender caro é o desejo de muitos, felizmente eu não sinto essa tentação.
 
-Digo felizmente porque a maioria dos estudos provam que tentar acertar na altura certa de comprar e vender é praticamente impossível. O mercado é movido não só pelo resultado das empresas mas também pela sensação de medo ou confiança dos investidores, levando à especulação.
+Digo felizmente porque a maioria dos estudos provam que acertar na altura certa de comprar e vender é praticamente impossível. O mercado é movido não só pelo resultado das empresas mas também pela sensação de medo ou confiança dos investidores, levando à especulação.
 
 Prever com sucesso o que milhões de pessoas vão sentir em determinado momento torna o jogo demasiado difícil de ganhar a curto prazo. Por outro lado, no longo prazo o mercado é guiado pelo valor real das empresas e estas, como vimos, têm tendência a crescer.
 
@@ -46,4 +45,6 @@ Pensar no longo prazo pode ser difícil para quem precisa de ter lucros rápidos
 
 Para mim, ter um bom fundo de emergência e viver sem dívidas são dois passos importantes para termos sucesso nos investimentos.
 
-Quando não estamos dependentes do mercado para pagar contas, podemos viver tranquilamente mesmo quando o mercado está em queda e todas as noticías apontam para um futuro negro. Basta acreditar que no longo prazo, tudo ficará resolvido.
+Quando não estamos dependentes do mercado para pagar contas, podemos viver tranquilamente mesmo quando o mercado está em queda e todas as noticías apontam para um futuro negro.
+
+Para ter sucesso com esta estratégia, basta acreditar que no longo prazo tudo ficará resolvido, seja isso 10, 15 ou 20 anos.
