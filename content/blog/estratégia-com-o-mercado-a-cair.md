@@ -17,9 +17,8 @@ Desde 2019 que invisto religiosamente todos os meses, sem me importar muito com 
 
 Um bom exemplo desta estratégia aconteceu em 2020, quando o IWDA desceu aproximadamente 30% devido ao Covid. Confiante na minha estratégia, quando todos estavam a vender, essa foi a altura onde comprei as posições mais baratas do meu portfólio, 39€ por posição. É como se tivesse viajado no tempo para 2016, quando o IWDA alcançou esses valores pela primeira vez. Para comparação, hoje o IWDA está nos 72€.
 
-![Evolução IWDA 2017/2020](/assets/captura-de-pantalla-2022-05-14-a-la-s-19.38.17.png "Evolução IWDA 2017/2020")
+![Evolução IWDA 2017/2022](/assets/captura-de-pantalla-2022-05-14-a-la-s-20.35.25.png "Evolução IWDA 2017/2022")
 
-Evolução IWDA 2017/2020
 
 Como não faço ideia se o mercado irá subir ou descer amanhã, limito-me a investir dinheiro sempre que o tenho disponível, isto geralmente acontece logo após receber o salário. Umas vezes compro mais barato, outras vezes compro mais caro, o importante é que todos os meses estou a aumentar o meu investimento.
 
