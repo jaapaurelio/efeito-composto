@@ -6,7 +6,7 @@ author: aureliopita
 description: "Existem apenas três coisas que podemos fazer com o dinheiro:
   gastar, guardar e dar."
 ---
-Dave Ramsey é uma das minhas personalidades favoritas no mundo das finanças pessoais. A sua filosofia é simples, devemos viver abaixo do nosso salário, evitar créditos e investir para o futuro.
+Dave
 
 Dave Ramsey é uma das minhas personalidades favoritas no mundo das finanças pessoais. A sua filosofia é simples, devemos viver abaixo do nosso salário, evitar créditos e investir para o futuro.
 
