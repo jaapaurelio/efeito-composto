@@ -34,7 +34,7 @@ No total, os subsídios foram os seguintes.
 
 Lembro-me de em miúdo ver o “Pinky e o Brain” onde todos os episódios começavam com a pergunta: “O que vamos fazer hoje Brain?” e a resposta: "O mesmo de sempre Pinky, tentar conquistar o mundo!”
 
-É mais ou menos assim que me sinto ao escrever estes artigos. Quando me pergunto o que fazer com o dinheiro extra, a minha cabeça responde: “O mesmo de sempre Pinky, investir!”
+É mais ou menos assim que me sinto mensalmente. Quando me pergunto o que fazer com o dinheiro extra, a minha cabeça responde: “O mesmo de sempre Pinky, investir!”
 
 ## Investir nos mercados em queda
 
