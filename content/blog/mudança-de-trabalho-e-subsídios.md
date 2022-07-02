@@ -17,7 +17,7 @@ O valor dos subsídios vai depender essencialmente do nosso salário, da nossa a
 
 ## Subsídios recebidos
 
-Nestas questões, a Blip nunca me falhou, o que recebi no salário bateu exatamente com a simulação que fiz.
+O que recebi no salário bateu exatamente com a simulação que fiz.
 
 Devido ao facto de ainda não ter recebido o subsídio de férias deste ano, tive direito a receber esse subsídio por inteiro. Também, como trabalhei 6 meses este ano, tive direito a ser compensado proporcionalmente no subsídio de férias, subsídio de Natal e ainda férias não usufruídas.
 
