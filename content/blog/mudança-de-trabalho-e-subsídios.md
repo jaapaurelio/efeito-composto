@@ -5,13 +5,13 @@ title: Mudança de trabalho e subsídios
 author: aureliopita
 description: Junho foi o meu último mês como funcionário da Blip, no Porto.
 ---
-Foi uma decisão difícil mas decidi trocar de trabalho. Assim, Junho foi o meu último mês como funcionário da Blip, no Porto. Foram 5 anos incríveis e só posso concordar quando dizem que é uma das melhores empresas para trabalhar em Portugal.
+Foi uma decisão difícil mas decidi trocar de trabalho. Assim, Junho foi o meu último mês como funcionário da [Blip](https://blip.pt/), no Porto. Foram 5 anos incríveis e só posso concordar quando dizem que é uma das melhores empresas para trabalhar em Portugal.
 
 Devido ao meu nível de senioridade na empresa, tive que apresentar a minha carta de demissão com 90 dias de antecedência. Durante esses 3 meses, dois trabalhei e no último, decidi usufruir de todos os dias de férias que ainda tinha livres.
 
 Com isto, Junho foi também o mês do meu último salário, o que levou-me a ter direito a alguns subsídios.
 
-No site da Autoridade para as Condições do Trabalho (ACT) é possível simular a compensação por cessação de contrato de trabalho. Após introduzirmos alguns dados, o site apresenta exatamente quanto devemos receber em subsídios no nosso último mês.
+No site da [Autoridade para as Condições do Trabalho](https://www.act.gov.pt/(pt-pt)/centroinformacao/simulador/paginas/default.aspx) (ACT) é possível simular a compensação por cessação de contrato de trabalho. Após introduzirmos alguns dados, o site apresenta exatamente quanto devemos receber em subsídios no nosso último mês.
 
 O valor dos subsídios vai depender essencialmente do nosso salário, da nossa antiguidade na empresa, dos meses trabalhados no ano corrente, da quantidade de férias por gozar e dos subsídios que já recebemos até à data.
 
