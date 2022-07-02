@@ -29,7 +29,7 @@ No total, o recibo de vencimento mostrava o seguinte:
 * Compensação proporcional subsídio de Natal: meio salário
 * Compensação proporcional férias não usufruídas: meio salário
 
-Isto dá um total de 3 salários e meio.
+Isto deu um total de aproximadamente 3 salários e meio.
 
 É importante ter noção que todos esses subsídios foram ganhos com dias de trabalho e iria recebê-los eventualmente no futuro. Não estou a ganhar mais por ter simplesmente saído da empresa.
 
