@@ -48,7 +48,7 @@ Por esse motivo, livros como “Os Segredos da Mente Milionária” são importa
 
 Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios.
 
-Atualmente estou a caminho de duplicar os 3.200€. Se a história se repetir, provavelmente ainda troco para um trabalho para receber menos. 
+Atualmente estou a caminho de duplicar os 3.200€. Se a história se repetir, provavelmente ainda troco para um trabalho que receba menos. 
 
 Na verdade, nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
 
