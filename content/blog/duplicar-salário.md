@@ -42,12 +42,12 @@ Durante os 5 anos nessa empresa, tive aumentos e bónus constantes, eventualment
 
 Entretanto chegamos ao presente. Olhando para trás, tudo passou tão rápido. A época em que trabalhava no restaurante parece que foi ontem, mas já passaram 15 anos.
 
-Recentemente mudei de empresa e quando olho para o meu salário atual parece-me um valor absurdo. Por vezes sinto a síndrome do impostor, levando-me a pensar que não mereço o que recebo.
+Recentemente mudei de empresa e quando olho para o meu salário atual parece-me um valor absurdo. Por vezes sinto o síndrome do impostor, levando-me a pensar que não mereço o que recebo.
 
-Por esse motivo, livros como “Os Segredos da Mente Milionária” são importantes. Esses livros ajudam-nos a perceber que tudo é resultado das nossas escolhas e ajudam-nos a formatar a nossa mente para saber gerir o novo salário e conseguir ainda mais.
+Por esse motivo, livros como “Os Segredos da Mente Milionária” são importantes. Estes livros ajudam-nos a perceber que tudo é resultado das nossas escolhas e formatam a nossa mente para saber gerir e ter cada vez mais sucesso, seja financeiro ou pessoal.
 
 Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios. 
 
-Nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
+Também nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
 
 No futuro, e seguindo a história, é mais provável que a próxima troca seja para receber menos do que simplesmente tentar duplicar o salário.
