@@ -50,4 +50,4 @@ Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinhe
 
 Nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
 
-No futuro, e seguindo a história, é mais provável que a próxima troca seja para receber menos do que simplesmente duplicar o salário.
+No futuro, e seguindo a história, é mais provável que a próxima troca seja para receber menos do que simplesmente tentar duplicar o salário.
