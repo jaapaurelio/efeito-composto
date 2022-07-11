@@ -1,7 +1,7 @@
 ---
 path: duplicar-salario
 date: 2022-07-11T08:22:44.688Z
-title: Duplicar salário
+title: Duplicar o salário
 author: aureliopita
 description: Comecei a trabalhar aos 18 porque não consegui entrar na
   universidade. Seis meses depois arrependi-me e isso fez-me mudar o meu futuro.
