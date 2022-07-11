@@ -26,7 +26,7 @@ No final do meu segundo ano de Engenharia Informática decidi concorrer a uma em
 
 Três anos antes tinha deixado um trabalho onde ganhava 800€ por mês, para dedicar tempo à formação numa área que gostava, mas continuava a receber o salário mínimo. E não era apenas eu, colegas com mestrado também estavam a receber 650€.
 
-Finalmente, meio ano depois começaram a aparecer os primeiros resultados. Lembro de começar a receber 800€ brutos quase 4 anos depois de ter deixado o trabalho no restaurante.
+Finalmente, meio ano depois começaram a aparecer os primeiros resultados. Lembro-me de voltar a receber 800€ brutos quase 4 anos depois de ter deixado o trabalho no restaurante.
 
 O próximo aumento levou-me para os 950€, depois para os 1.200€. Cinco anos depois ainda não tinha conseguido dobrar o meu salário do restaurante.
 
