@@ -44,7 +44,7 @@ Entretanto chegamos ao presente. Olhando para trás, tudo passou tão rápido. A
 
 Recentemente mudei de empresa e quando olho para o meu salário atual parece-me um valor absurdo. Por vezes sinto a síndrome do impostor, levando-me a pensar que não mereço o que recebo.
 
-Por esse motivo, livros como “ Os Segredos da Mente Milionária” são importantes. Esses livros ajudam-nos a perceber que tudo é resultado das nossas escolhas e ajudam-nos a formatar a nossa mente para saber gerir o novo salário e conseguir ainda mais.
+Por esse motivo, livros como “Os Segredos da Mente Milionária” são importantes. Esses livros ajudam-nos a perceber que tudo é resultado das nossas escolhas e ajudam-nos a formatar a nossa mente para saber gerir o novo salário e conseguir ainda mais.
 
 Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios.
 
