@@ -46,10 +46,10 @@ Recentemente mudei de empresa e quando olho para o meu salário atual parece-me 
 
 Por esse motivo, livros como “Os Segredos da Mente Milionária” são importantes. Esses livros ajudam-nos a perceber que tudo é resultado das nossas escolhas e ajudam-nos a formatar a nossa mente para saber gerir o novo salário e conseguir ainda mais.
 
-Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios.
-
-Atualmente estou a caminho de duplicar os 3.200€. Se a história se repetir, provavelmente ainda troco para um trabalho que receba menos. 
+Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios. 
 
 Na verdade, nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
 
-Algumas pessoas chamam-lhe de sorte, e é claro que tive sorte ao longo do caminho, mas eu acredito que o resultado é reflexo da consistência das nossas ações. A sorte ajuda, mas acredito fielmente que a consistência é quem dita o caminho.
+Algumas pessoas chamam-lhe de sorte, e é claro que tive sorte ao longo do caminho, mas eu acredito que os resultados são reflexo da consistência das nossas ações. A sorte ajuda, mas acredito fielmente que a consistência é quem dita o caminho.
+
+Atualmente estou a caminho de duplicar os 3.200€. Se a história se repetir demorará ainda uns anos e há grande probabilidade de pelo caminho trocar para um trabalho que receba menos.
