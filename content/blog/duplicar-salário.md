@@ -52,4 +52,4 @@ Atualmente estou a caminho de duplicar os 3.200€. Se a história se repetir, p
 
 Na verdade, nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
 
-Algumas pessoas chamam-lhe de sorte, e é claro que tive sorte ao longo do caminho, mas eu acredito que o salário é reflexo da consistência das nossas ações. A sorte ajuda, mas acredito fielmente que a consistência é quem dita o caminho.
+Algumas pessoas chamam-lhe de sorte, e é claro que tive sorte ao longo do caminho, mas eu acredito que o resultado é reflexo da consistência das nossas ações. A sorte ajuda, mas acredito fielmente que a consistência é quem dita o caminho.
