@@ -46,7 +46,7 @@ Recentemente mudei de empresa e quando olho para o meu salário atual parece-me 
 
 Por esse motivo, livros como “Os Segredos da Mente Milionária” são importantes. Estes livros ajudam-nos a perceber que tudo é resultado das nossas escolhas e formatam a nossa mente para saber gerir e ter cada vez mais sucesso, seja financeiro ou pessoal.
 
-Durante estes 15 anos, nunca tive a necessidade de trocar simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios. 
+Durante estes 15 anos, nunca tive a necessidade de trocar de trabalho simplesmente por dinheiro. Tive sempre o foco na aprendizagem, na flexibilidade e nos desafios. 
 
 Também nunca tive o objetivo de duplicar o salário, todos os meus aumentos aconteceram naturalmente fruto de boas avaliações. Não me lembro de alguma vez ter pedido um aumento, e sempre que troquei de empresa, disse o meu salário anterior como base.
 
