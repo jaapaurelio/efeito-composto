@@ -18,13 +18,13 @@ Comecei a trabalhar aos 18 porque não consegui entrar na universidade. Seis mes
 
 Meio ano depois de começar no restaurante decidi passar por uma loja de informática que havia na zona e perguntar se precisavam de um trabalhador. O meu patrão, uns anos mais tarde, confidenciou-me que nem estavam à procura de um trabalhador mas que a minha iniciativa e motivação pela área de informática fez-lhe abrir a vaga.
 
-O salário, uns estrondosos 650€ por mês. O título do artigo é “duplicar o salário” e estou eu aqui a receber ainda menos. Estas coisas não acontecem do dia para a noite.
+O salário, uns estrondosos 650€ por mês. O título do artigo é “duplicar o salário” e estou eu aqui a receber ainda menos, mas estas coisas não acontecem do dia para a noite.
 
-Uns meses depois, tive novamente a oportunidade de entrar na universidade e desta vez não facilitei. Trabalhei mais uns meses na loja de informática e eventualmente dediquei-me à universidade.
+Uns meses depois, tive novamente a oportunidade de entrar na universidade e desta vez não facilitei. Trabalhei mais uns meses na loja de informática e eventualmente dediquei-me aos estudos.
 
 No final do meu segundo ano de Engenharia Informática decidi concorrer a uma empresa de programação. Consegui o trabalho e o novo salário eram os mesmos 650€ por mês. Entretanto estava a acabar o curso como trabalhador estudante.
 
-Três anos antes tinha deixado um trabalho onde ganhava 800€ por mês, para dedicar tempo à formação numa área que gostava, mas continuava a receber o salário mínimo. E não era apenas eu, colegas com mestrado também estavam a receber 650€.
+Três anos antes tinha deixado um trabalho onde ganhava 800€ por mês, para dedicar tempo à formação numa área que gostava, mas continuava a receber o salário mínimo. E não era apenas eu, colegas com mestrado também estavam a receber o mesmo.
 
 Finalmente, meio ano depois começaram a aparecer os primeiros resultados. Lembro-me de voltar a receber 800€ brutos quase 4 anos depois de ter deixado o trabalho no restaurante.
 
