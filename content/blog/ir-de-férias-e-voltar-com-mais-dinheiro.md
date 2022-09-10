@@ -7,7 +7,7 @@ description: Foi um mês revelador, um mês que mostrou-me o que pode ser a minh
   vida financeira no futuro, onde o dinheiro gerado supera o dinheiro gasto e
   onde não tenho que trocar tempo por dinheiro.
 ---
-Como habitualmente, no final do mês faço o meu registo de património para perceber a direção do meu dinheiro. Estava curioso para ver o resultado de Agosto pois estive de férias a viajar pelo sul de França durante três semanas e a gastar mais do que o normal.
+Como habitualmente, no final do mês faço o meu registo de património para perceber a direção do meu dinheiro. Estava curioso para ver o resultado de Agosto pois estive de férias a viajar pelo sul de França durante duas semanas e a gastar mais do que o normal.
 
 Embora o dinheiro das férias já estivesse programado, era este mês que esse gasto ia refletir-se no meu património. O orçamento programado era à volta dos 1.000€.
 
