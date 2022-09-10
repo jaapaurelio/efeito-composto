@@ -9,7 +9,7 @@ description: Foi um mês revelador, um mês que mostrou-me o que pode ser a minh
 ---
 Como habitualmente, no final do mês faço o meu registo de património para perceber a direção do meu dinheiro. Estava curioso para ver o resultado de Agosto pois estive de férias a viajar pelo sul de França durante três semanas e a gastar mais do que o normal.
 
-Embora o dinheiro das férias já estivesse programado, estava à espera de ver esse dinheiro sair do meu património este mês. O orçamento programado era à volta dos 1.000€.
+Embora o dinheiro das férias já estivesse programado, era este mês que esse gasto ia refletir-se no meu património. O orçamento programado era à volta dos 1.000€.
 
 Para minha surpresa, no dia em que fui atualizar a minha folha de cálculo no Google Sheets, o meu saldo mensal era positivo, isto é, tinha ainda mais dinheiro do que no início do mês.
 
