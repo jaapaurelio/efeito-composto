@@ -19,7 +19,7 @@ Como é que era possível? Tinha estado de férias, a viver à grande e à franc
 
 Ao analisar com mais atenção, uma coluna do meu excel tinha um valor anormal. Estamos em tempos incertos no mercado, mas durante as minhas férias o IWDA, o ETF onde invisto, tinha aumentado cerca de 10%. É um valor anormal e não espero este rendimento nos próximos meses, mas a verdade é que isto gerou bem mais dinheiro do que eu gastei em todo o mês.
 
-Ver isto acontecer deu-me confiança e mostrou-me que estou no caminho certo para a minha independência financeira. O sentimento foi incrível, ir de férias e saber que o meu dinheiro continuou a trabalhar por mim.
+Ver isto acontecer deu-me confiança e mostrou-me que estou no caminho certo para a minha independência financeira. Foi uma boa sensação, ir de férias e saber que o meu dinheiro continuou a trabalhar por mim.
 
 ## Tempos incertos
 
