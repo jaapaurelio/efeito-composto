@@ -13,7 +13,7 @@ Embora o dinheiro das férias já estivesse programado, era este mês que esse g
 
 Para minha surpresa, no dia em que fui atualizar a minha folha de cálculo no Google Sheets, o meu saldo mensal era positivo, isto é, tinha ainda mais dinheiro do que no início do mês.
 
-Como é que era possível? Tinha estado de férias, a viver à grande e à francesa (literalmente), a gastar mais do que o habitual e mesmo assim não notava isso nas contas, antes pelo contrário, tinha ainda mais dinheiro.
+Como é que era possível? Tinha estado de férias, a "viver à grande e à francesa" (quase literalmente), a gastar mais do que o habitual e mesmo assim não notava isso nas contas, antes pelo contrário, tinha ainda mais dinheiro.
 
 ## Rendimento passivo
 
