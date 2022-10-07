@@ -29,7 +29,7 @@ Atualmente os mercados estão em queda, com os índices mais importantes a perde
 
 # Investir é o remédio
 
-A minha estratégia continua a mesma, com inflação ou sem inflação: ter pouco dinheiro no banco e investir o restante.
+A minha estratégia continua a mesma: deixar pouco dinheiro no banco e investir o restante.
 
 Com o mercado em baixo estou a aproveitar para comprar posições no IWDA mais baratas do que o habitual. O que comprava por 79€ há um ano estou a comprar hoje por 69€. 
 
