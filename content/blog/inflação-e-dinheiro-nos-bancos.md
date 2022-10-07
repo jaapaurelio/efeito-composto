@@ -31,5 +31,5 @@ Atualmente os mercados estão em queda, com os índices mais importantes a perde
 
 A minha estratégia continua a mesma, com inflação ou sem inflação: ter pouco dinheiro no banco e investir o restante.
 
-Com o mercado em baixo, estou a aproveitar para comprar posições no IWDA mais baratas do que o habitual. O que comprava por 79€ há um ano estou a comprar hoje por 69€. 
+Com o mercado em baixo estou a aproveitar para comprar posições no IWDA mais baratas do que o habitual. O que comprava por 79€ há um ano estou a comprar hoje por 69€. 
 Não sei quanto tempo durará esta queda, mas acredito que mais tarde ou mais cedo vamos ultrapassar esta fase difícil e a economia voltará a brilhar. Nessa altura as posições que estou a comprar hoje serão ainda mais valiosas pois foram compradas com 12% de desconto.
