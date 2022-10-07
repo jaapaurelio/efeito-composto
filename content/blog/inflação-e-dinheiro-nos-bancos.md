@@ -7,8 +7,6 @@ description: Atualmente Portugal está com uma taxa de inflação de
   aproximadamente 9%, isto significa que por cada 100€ que temos guardados
   estamos a perder 9€ ao ano.
 ---
-
-
 Atualmente Portugal está com uma taxa de inflação de aproximadamente 9%, isto significa que por cada 100€ que temos guardados estamos a perder 9€ ao ano.
 
 O conceito parece abstrato pois na nossa conta bancária continuamos a ver os mesmos 100€. O problema é que tudo está a ficar mais caro e efetivamente estamos a perder poder de compra.
@@ -19,7 +17,7 @@ Os bancos continuam com taxas de juros a rondar os 0%, o que os torna um péssim
 
 ## Onde colocar o dinheiro
 
-Um pensamento recorrente é aproveitar a inflação para justificar gastar dinheiro, visto as coisas estarem mais baratas agora do que estarão no futuro. O problema é que normalmente as pessoas gastam dinheiro em coisas que perdem valor, como carros, telemóveis ou roupa, fazendo ainda mais estragos na conta do que a própria inflação.
+Um pensamento recorrente é aproveitar a inflação para justificar gastos, visto as coisas estarem mais baratas agora do que estarão no futuro. O problema é que normalmente as pessoas gastam dinheiro em coisas que perdem valor, como carros, telemóveis ou roupa, fazendo ainda mais estragos na conta do que a própria inflação.
 
 Uma abordagem mais vantajosa é combater a inflação com investimentos. Existem muitos tipos de investimento, uns com mais garantias que outros, mas o importante é colocarmos o nosso dinheiro a gerar dinheiro.
 
@@ -35,4 +33,3 @@ A minha estratégia continua a mesma, com inflação ou sem inflação: ter pouc
 
 Com o mercado em baixo, estou a aproveitar para comprar posições no IWDA mais baratas do que o habitual. O que comprava por 79€ há um ano estou a comprar hoje por 69€. 
 Não sei quanto tempo durará esta queda, mas acredito que mais tarde ou mais cedo vamos ultrapassar esta fase difícil e a economia voltará a brilhar. Nessa altura as posições que estou a comprar hoje serão ainda mais valiosas pois foram compradas com 12% de desconto.
-
