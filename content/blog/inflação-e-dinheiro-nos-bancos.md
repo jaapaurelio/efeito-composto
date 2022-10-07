@@ -13,7 +13,7 @@ Atualmente Portugal está com uma taxa de inflação de aproximadamente 9%, isto
 
 O conceito parece abstrato pois na nossa conta bancária continuamos a ver os mesmos 100€. O problema é que tudo está a ficar mais caro e efetivamente estamos a perder poder de compra.
 
-Os bancos continuam com taxas de juros a rondar os 0%, o que os torna um péssimo sítio para guardar dinheiro. Isto é praticamente o mesmo que deixar o dinheiro debaixo do colchão. Como exemplo, alguém com 10.000€ no banco está a perder 900€ por ano e alguém com 100.000€ está a perder 9.000€. Isto significa que temos que arranjar alternativas para o nosso dinheiro. 
+Os bancos continuam com taxas de juros a rondar os 0%, o que os torna um péssimo sítio para guardar dinheiro. Isto é praticamente o mesmo que deixar o dinheiro debaixo do colchão. Como exemplo, alguém com 10.000€ no banco está a perder 900€ por ano e alguém com 100.000€ está a perder 9.000€. Isto significa que temos que arranjar alternativas.
 
 É normal mantermos algum dinheiro no banco, mas este valor deve ser limitado. Deve ser o suficiente para viver o dia a dia, pagar algum imprevisto e pouco mais que isso.
 
