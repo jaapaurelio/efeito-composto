@@ -15,7 +15,9 @@ Eu valorizo o facto de conseguir fazer grande parte da minha vida sem carro, mas
 
 O primeiro ponto que analisamos antes da compra foi o facto de querermos manter apenas um carro em Espanha. A maioria dos casais que conheço necessita de dois carros para o seu dia a dia, pois têm rotinas diferentes, mas eu acredito que existem alternativas.
 
-Trabalhar desde casa ou perto do trabalho e viver numa pequena cidade é dos fatores mais importantes para deixar de depender do carro. A localização da cidade é outro ponto importante, por exemplo, se vivermos à beira mar com uma montanha de fundo deixa de ser necessário utilizar o carro para visitar a natureza.
+Trabalhar desde casa ou perto do trabalho e viver numa pequena cidade é dos fatores mais importantes para deixar de depender do carro.
+
+A localização da cidade é outro ponto importante. Por exemplo, se vivermos à beira mar com uma montanha de fundo deixa de ser necessário utilizar o carro para visitar a natureza.
 
 ## Ser funcional
 
