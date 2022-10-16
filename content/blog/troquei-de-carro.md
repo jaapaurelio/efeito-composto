@@ -21,7 +21,7 @@ A localização da cidade é outro ponto importante. Por exemplo, se vivermos à
 
 ## Ser funcional
 
-Em segundo lugar, queríamos um carro simples e funcional. Muitas pessoas apaixonam-se pelas publicidades, pelo lifestyle que certo carro irá produzir e esquecem-se que o único objetivo do carro é levarmos de um sítio para o outro.
+Em segundo lugar, queríamos um carro simples e funcional. Muitas pessoas apaixonam-se pelas publicidades, pelo lifestyle que certo carro irá produzir e esquecem-se que o único objetivo do carro é levar-nos de um sítio para o outro.
 
 O carro escolhido deveria ser seguro, económico e adequado ao nosso estilo de vida. Com a evolução da tecnologia, hoje em dia é relativamente fácil encontrar isso nos carros.
 
