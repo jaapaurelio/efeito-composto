@@ -12,8 +12,8 @@ Em primeiro lugar, é importante entender o que são fundos indexados. Basicamen
 
 E é precisamente este conceito de "não interferir" que os relaciona com a frugalidade. Quando se trata de investir, muitas vezes as pessoas têm a tentação de seguir tendências ou escutar dicas de outras pessoas, o que pode ser muito perigoso. Com os fundos indexados, não há necessidade de se preocupar com isso, pois o investimento é automatizado e segue o desempenho do mercado como um todo.
 
-Outro ponto importante é que os fundos indexados tendem a ter taxas de administração mais baixas do que os fundos geridos ativamente. Isso significa que podes manter mais do teu dinheiro trabalhando para ti, em vez de pagá-lo a um gestor. E essa economia acaba por refletir-se no seu rendimento final.
+Outro ponto importante é que os fundos indexados tendem a ter taxas de administração mais baixas do que os fundos geridos ativamente. Isso significa que podes manter mais do teu dinheiro a trabalhar para ti, em vez de pagá-lo a um gestor. E essa economia acaba por refletir-se no seu rendimento final.
 
 Além disso, os fundos indexados são uma opção de investimento a longo prazo, pois sua rentabilidade tende a seguir a tendência do mercado, que ao longo do tempo tem crescido. Isso significa que é uma opção adequada para quem está a pensar construir riqueza para o futuro e não quer preocupar-se em escolher as ações certas para investir hoje.
 
-Em resumo, os fundos indexados são uma ótima opção para quem quer seguir uma estratégia de frugalidade e investir a longo prazo. Eles são automatizados, têm taxas de administração baixas e acompanham o desempenho do mercado como um todo. Se estás procurando uma opção de investimento segura e sem complicações, os fundos indexados podem ser uma excelente escolha.
+Em resumo, os fundos indexados são uma ótima opção para quem quer seguir uma estratégia de frugalidade e investir a longo prazo. Eles são automatizados, têm taxas de administração baixas e acompanham o desempenho do mercado como um todo. Se estás a procurar uma opção de investimento segura e sem complicações, os fundos indexados podem ser uma excelente escolha.
