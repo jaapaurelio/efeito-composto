@@ -2,7 +2,7 @@
 path: Fundos-indexados-frugalidade-e-o-investimento-a-longo-prazo
 date: 2023-01-11T19:38:10.595Z
 title: Fundos indexados, frugalidade e o investimento a longo prazo
-author: openai
+author: aureliopita
 description: O que são fundos indexados, como funcionam e como podem ajudar-te a
   construir riqueza ao longo do tempo com o mínimo de esforço.
 ---
