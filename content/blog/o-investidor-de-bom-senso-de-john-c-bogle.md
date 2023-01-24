@@ -2,7 +2,7 @@
 path: O-Investidor-de-Bom-Senso-de-John-C.-Bogle
 date: 2023-01-12T10:30:26.471Z
 title: O Investidor de Bom Senso de John C. Bogle
-author: openai
+author: aureliopita
 description: Um livro que oferece conselhos valiosos sobre como investir de
   forma sensata e inteligente.
 ---
