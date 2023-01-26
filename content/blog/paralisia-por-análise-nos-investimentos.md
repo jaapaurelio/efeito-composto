@@ -14,6 +14,6 @@ A paralisia por análise também pode levar a erros de julgamento, como a tendê
 
 Uma maneira de evitar a paralisia por análise é investir de forma passiva, ou seja, investir em índices de mercado em vez de tentar escolher as ações certas. Investir de forma passiva permite-nos beneficiar do desempenho geral do mercado, sem a necessidade de constantemente obter novas informações. 
 
-Além disso, investir de forma passiva também pode ajudar a controlar as emoções, uma vez que não nos preocupamos com as flutuações diárias do mercado e fazendo com que seja possível concentrar-nos na estratégia de investimento a longo prazo.
+Além disso, investir de forma passiva também pode ajudar a controlar as emoções, uma vez que não nos preocupamos com as flutuações diárias do mercado, fazendo com que seja possível concentrar-nos na estratégia de investimento a longo prazo.
 
 Em resumo, a paralisia por análise é um problema comum entre os investidores e pode ter um impacto negativo significativo nos nossos investimentos. Investir de forma passiva é uma forma eficaz de evitar este comportamento e alcançar melhores resultados.
