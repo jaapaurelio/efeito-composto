@@ -8,7 +8,7 @@ description: A sobrecarga de informação e a incerteza levam a uma indecisão
 ---
 A paralisia por análise é um fenómeno comum nos investidores, onde a sobrecarga de informação e a incerteza levam a uma indecisão paralisante em relação ao investimento. Em vez de tomar uma decisão informada, o investidor fica preso em uma rotina de pesquisa e análise constante, sem nunca chegar a uma conclusão e avançar.
 
-O art "Information Overload and Trading Performance" publicado em 2009 na revista The Journal of Financial Markets, descobriu que os investidores que têm acesso a mais informações tendem a obter retornos inferiores. Os autores deste estudo argumentam que isso é devido ao facto de que a informação adicional pode tornar mais difícil identificar as informações relevantes e tomar as decisões certas.
+O estudo "Information Overload and Trading Performance" publicado em 2009 na revista The Journal of Financial Markets, descobriu que os investidores que têm acesso a mais informações tendem a obter retornos inferiores. Os autores deste estudo argumentam que isso é devido ao facto de que a informação adicional pode tornar mais difícil identificar as informações relevantes e tomar as decisões certas.
 
 A paralisia por análise também pode levar a erros de julgamento, como a tendência para evitar o mercado quando está em baixo por medo de perda, em vez de aproveitar a oportunidade de ganhos potenciais.
 
