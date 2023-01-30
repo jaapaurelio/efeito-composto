@@ -11,7 +11,7 @@ O VWCE foi criado em 2019 pela Vanguard como uma réplica europeia do VT dos Est
 
 ## Total Expense Ratio (TER)
 
-O TER, em português Taxa de Despesa Total, do VWCE é de apenas 0,22%. O TER é a comissão de gestão do ETF e o VWCE é um dos fundos com um menor TER, especialmente se comparamos com fundos ativos que andam perto dos 2% ao ano, isto é, dez vezes mais caros. Vários estudos mostram que há uma relação muito forte entre o TER e a performance do fundo. Por exemplo, o "The Cost Matters Hypothesis" diz que, em média, fundos de baixo custo superam fundos de alto custo em todas as categorias de ativos ao longo do tempo.
+O TER, em português Taxa de Despesa Total, do VWCE é de apenas 0,22% por ano. O VWCE é um dos fundos com menor TER, especialmente se comparamos com fundos ativos que andam perto dos 2% ao ano, isto é, dez vezes mais caros. Vários estudos mostram que há uma relação muito forte entre o TER e a performance do fundo. Por exemplo, o "The Cost Matters Hypothesis" diz que, em média, fundos de baixo custo superam fundos de alto custo em todas as categorias de ativos ao longo do tempo.
 
 ## NAV (Net Asset Value)
 
