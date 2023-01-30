@@ -5,7 +5,7 @@ title: "Como analisar um ETF: VWCE"
 author: aureliopita
 description: Um ETF que tem sido cada vez mais popular entre os investidores europeus.
 ---
-O VWCE é um ETF registado na Europa que tem sido cada vez mais popular entre os investidores devido  sua diversificação global e baixo custo. Ele segue o índice FTSE All World, que inclui mais de 3.500 empresas de média e grande capitalização em cerca de 50 países, tanto desenvolvidos como emergentes. 
+O VWCE é um ETF registado na Europa que tem sido cada vez mais popular entre os investidores devido à sua diversificação global e baixo custo. Ele segue o índice FTSE All World, que inclui mais de 3.500 empresas de média e grande capitalização em cerca de 50 países, tanto desenvolvidos como emergentes.
 
 O VWCE foi criado em 2019 pela Vanguard como uma réplica europeia do VT dos Estados Unidos. Ao contrário do VT, o VWCE é um ETF acumulador, o que significa que os dividendos são automaticamente reinvestidos. Isto é muito vantajoso em países como Portugal, uma vez que permite não pagar impostos sobre os nossos dividendos, maximizando assim os juros compostos.
 
