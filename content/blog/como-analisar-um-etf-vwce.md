@@ -9,11 +9,19 @@ O VWCE é um ETF registado na Europa que tem sido cada vez mais popular entre os
 
 O VWCE foi criado em 2019 pela Vanguard como uma réplica europeia do VT dos Estados Unidos. Ao contrário do VT, o VWCE é um ETF acumulador, o que significa que os dividendos são automaticamente reinvestidos. Isto é muito vantajoso em países como Portugal, uma vez que permite não pagar impostos sobre os nossos dividendos, maximizando assim os juros compostos.
 
-O Total Expense Ratio (TER) do VWCE é de apenas 0,22%. O TER é a comissão de gestão do ETF e o VWCE é um dos fundos com um menor TER, especialmente se comparamos com fundos ativos que andam perto dos 2% ao ano, isto é, 10 vezes mais caros. Vários estudos mostram que há uma relação muito forte entre o TER e a performance do fundo. Por exemplo, o "The Cost Matters Hypothesis" diz que, em média, fundos de baixo custo superam fundos de alto custo em todas as categorias de ativos ao longo do tempo.
+## Total Expense Ratio (TER)
 
-O NAV (Net Asset Value) do VWCE é atualmente 96.11€. O NAV é o valor de cada unidade do ETF e representa uma fração do valor total da carteira de ativos. Ele é calculado pelo valor total dos ativos do fundo menos os seus passivos, dividido pelo número de cotas em circulação. Resumidamente, o NAV é o valor que temos que pagar para adquirir uma unidade de participação no ETF.
+O TER, em português Taxa de Despesa Total, do VWCE é de apenas 0,22%. O TER é a comissão de gestão do ETF e o VWCE é um dos fundos com um menor TER, especialmente se comparamos com fundos ativos que andam perto dos 2% ao ano, isto é, 10 vezes mais caros. Vários estudos mostram que há uma relação muito forte entre o TER e a performance do fundo. Por exemplo, o "The Cost Matters Hypothesis" diz que, em média, fundos de baixo custo superam fundos de alto custo em todas as categorias de ativos ao longo do tempo.
 
-O AUM (Assets Under Management) do VWCE é de 2,2 mil milhões de euros. O AUM é o termo usado para referir-se ao tamanho total do património do fundo e é geralmente usado como uma medida de popularidade e sucesso. Fundos com AUM maiores tendem a ter maior liquidez e uma maior capacidade de investimento, o que é vantajoso para os investidores pois podem movimentar o seu dinheiro sem preocupações. 
+## NAV (Net Asset Value)
+
+O NAV, em português Valor Patrimonial Líquido, do VWCE é atualmente 96.11€. O NAV é o valor de cada unidade do ETF e representa uma fração do valor total da carteira de ativos. Ele é calculado pelo valor total dos ativos do fundo menos os seus passivos, dividido pelo número de cotas em circulação. Resumidamente, o NAV é o valor que temos que pagar para adquirir uma unidade de participação no ETF.
+
+## AUM (Assets Under Management)
+
+O AUM, em português Ativos Sob Gestão, do VWCE é de 2,2 mil milhões de euros. O AUM é o termo usado para referir-se ao tamanho total do património do fundo e é geralmente usado como uma medida de popularidade e sucesso. Fundos com AUM maiores tendem a ter maior liquidez e uma maior capacidade de investimento, o que é vantajoso para os investidores pois podem movimentar o seu dinheiro sem preocupações.
+
+## **Uma** ótima **opção**
 
 Há muitas estatísticas e estudos que suportam a ideia de que investir em ETFs como o VWCE é vantajoso. O estudo “Dalbar Quantitative Analysis of Investor Behavior”, por exemplo, mostrou que investir de forma passiva em fundos globais pode ser vantajoso para os investidores, pois ajuda a evitar decisões de investimento emocionais e inadequadas e permite aproveitar o desempenho do mercado ao longo do tempo.
 
