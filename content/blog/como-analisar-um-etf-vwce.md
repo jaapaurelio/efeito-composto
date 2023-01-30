@@ -5,15 +5,13 @@ title: "Como analisar um ETF: VWCE"
 author: aureliopita
 description: Um ETF que tem sido cada vez mais popular entre os investidores europeus.
 ---
-
-
 O VWCE é um ETF registado na Europa que tem sido cada vez mais popular entre os investidores devido à sua diversificação global e baixo custo. Ele segue o índice FTSE All World, que inclui mais de 3.500 empresas de média e grande capitalização em cerca de 50 países, tanto desenvolvidos como emergentes.
 
 O VWCE foi criado em 2019 pela Vanguard como uma réplica europeia do VT dos Estados Unidos. Ao contrário do VT, o VWCE é um ETF acumulador, o que significa que os dividendos são automaticamente reinvestidos. Isto é muito vantajoso em países como Portugal, uma vez que permite não pagar impostos sobre os nossos dividendos, maximizando assim os juros compostos.
 
 \## Total Expense Ratio (TER)
 
-O TER, em português Taxa de Encargos Correntes, do VWCE é de apenas 0,22% por ano. O VWCE é um dos fundos com menor TER, especialmente se comparamos com fundos ativos que andam perto dos 2% ao ano, isto é, dez vezes mais caros. Vários estudos mostram que há uma relação muito forte entre o TER e a performance do fundo. Por exemplo, o "The Cost Matters Hypothesis" diz que, em média, fundos de baixo custo superam fundos de alto custo em todas as categorias de ativos ao longo do tempo.
+A TER, em português Taxa de Encargos Correntes, do VWCE é de apenas 0,22% por ano. O VWCE é um dos fundos com menor TER, especialmente se comparamos com fundos ativos que andam perto dos 2% ao ano, isto é, dez vezes mais caros. Vários estudos mostram que há uma relação muito forte entre a TER e a performance do fundo. Por exemplo, o "The Cost Matters Hypothesis" diz que, em média, fundos de baixo custo superam fundos de alto custo em todas as categorias de ativos ao longo do tempo.
 
 \## NAV (Net Asset Value)
 
@@ -23,11 +21,7 @@ O NAV, em português Valor Patrimonial Líquido, do VWCE é atualmente 96.11€.
 
 O AUM, em português Ativos Sob Gestão, do VWCE é atualmente de 2,2 mil milhões de euros. O AUM é o termo usado para referir-se ao tamanho total do património do fundo e é geralmente usado como uma medida de popularidade e sucesso. Fundos com AUM maiores tendem a ter maior liquidez e uma maior capacidade de investimento, o que é vantajoso para os investidores pois podem movimentar o seu dinheiro sem preocupações.
 
-
-
 \## Replicação
-
-
 
 O VWCE é um ETF que utiliza o método de replicação física para seguir o índice FTSE All World. A replicação é o processo pelo qual um ETF tenta igualar o desempenho de um determinado índice. A replicação física significa que o ETF compra e mantém as mesmas ações que compõem o índice, ao passo que a replicação sintética utiliza derivados, como contratos futuros, para replicar o desempenho, adicionando mais risco à equação.
 
