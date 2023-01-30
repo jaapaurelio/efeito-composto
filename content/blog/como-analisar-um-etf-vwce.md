@@ -15,7 +15,7 @@ O TER, em português Taxa de Despesa Total, do VWCE é de apenas 0,22%. O TER é
 
 ## NAV (Net Asset Value)
 
-O NAV, em português Valor Patrimonial Líquido, do VWCE é atualmente 96.11€. O NAV é o valor de cada unidade do ETF e representa uma fração do valor total da carteira de ativos. Ele é calculado pelo valor total dos ativos do fundo menos os seus passivos, dividido pelo número de cotas em circulação. Resumidamente, o NAV é o valor que temos que pagar para adquirir uma unidade de participação no ETF.
+O NAV, em português Valor Patrimonial Líquido, do VWCE é atualmente 96.11€. O NAV representa uma fração do valor total da carteira de ativos. Ele é calculado pelo valor total dos ativos do fundo menos os seus passivos, dividido pelo número de cotas em circulação. Resumidamente, o NAV pode ser visto como o valor que temos que pagar para adquirir uma unidade de participação no ETF, embora o valor de compra e venda possa ser ligeiramente diferente do NAV devido às movimentações do mercado.
 
 ## AUM (Assets Under Management)
 
