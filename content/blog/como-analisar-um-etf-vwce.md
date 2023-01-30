@@ -19,7 +19,7 @@ O NAV, em português Valor Patrimonial Líquido, do VWCE é atualmente 96.11€.
 
 ## AUM (Assets Under Management)
 
-O AUM, em português Ativos Sob Gestão, do VWCE é de 2,2 mil milhões de euros. O AUM é o termo usado para referir-se ao tamanho total do património do fundo e é geralmente usado como uma medida de popularidade e sucesso. Fundos com AUM maiores tendem a ter maior liquidez e uma maior capacidade de investimento, o que é vantajoso para os investidores pois podem movimentar o seu dinheiro sem preocupações.
+O AUM, em português Ativos Sob Gestão, do VWCE é atualmente de 2,2 mil milhões de euros. O AUM é o termo usado para referir-se ao tamanho total do património do fundo e é geralmente usado como uma medida de popularidade e sucesso. Fundos com AUM maiores tendem a ter maior liquidez e uma maior capacidade de investimento, o que é vantajoso para os investidores pois podem movimentar o seu dinheiro sem preocupações.
 
 ## **Uma** ótima **opção**
 
