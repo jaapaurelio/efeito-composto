@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { Helmet } from "react-helmet"
 
 import Headline from "../components/headline"
 import Layout from "../components/layout"
@@ -23,6 +24,9 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="Todos os artigos" />
+      <Helmet>
+        <script src="//code.tidio.co/qndd62fwbeoiqrs1uaexee4nhb2pqeze.js" async></script>
+      </Helmet>
       <Headline></Headline>
       <h2>Artigos</h2>
 

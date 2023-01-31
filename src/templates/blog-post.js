@@ -18,6 +18,7 @@ import EarlyRetirementYears from "../../src/components/blog/early-retirement-yea
 import MailForm from "../components/mail-form"
 
 import "rc-slider/assets/index.css"
+import { Helmet } from "react-helmet"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -42,6 +43,9 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Helmet>
+        <script src="//code.tidio.co/qndd62fwbeoiqrs1uaexee4nhb2pqeze.js" async></script>
+      </Helmet>
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
