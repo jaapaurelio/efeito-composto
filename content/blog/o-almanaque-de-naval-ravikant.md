@@ -14,7 +14,7 @@ O livro é conhecido pela sua abordagem simples e direta visto que de acordo com
 
 ## Mentalidade de abundância
 
-Uma das lições mais valiosas do livro é a importância da nossa mentalidade e atitude para alcançar sucesso na vida. Ravikant enfatiza que a forma como nós pensamos sobre a vida e o dinheiro é uma componente crucial para alcançar metas pessoais e financeiras. A ideia é que devemos ter mentalidade de abundância e assim atrair mais oportunidades e riqueza. Se estivermos realmente atentos e despertos existem muitas mais oportunidades do que aquelas que vemos no nosso dia a dia ocupado e sem tempo.
+Uma das lições mais valiosas do livro é a importância da nossa mentalidade e atitude para alcançar sucesso na vida. Ravikant enfatiza que a forma como pensamos sobre a vida e o dinheiro é uma componente crucial para alcançar metas pessoais e financeiras. A ideia é que devemos ter uma mentalidade de abundância e assim atrair mais oportunidades e riqueza. Se estivermos realmente atentos existem muitas mais oportunidades do que aquelas que vemos no nosso dia a dia ocupado e sem tempo para nada.
 
 ## Seguir a nossa verdadeira paixão
 
