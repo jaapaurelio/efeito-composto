@@ -18,7 +18,7 @@ Uma das lições mais valiosas do livro é a importância da nossa mentalidade e
 
 ## Seguir a nossa verdadeira paixão
 
-Outra lição do livro é a importância de encontrar a nossa verdadeira paixão e propósito. De acordo com Ravikant, seguir a nossa paixão e fazer o que amamos vai levar-nos a alcançar a verdadeira felicidade e realização. Após concentrarmo-nos na nossa paixão vamos encontrar formas de gerar dinheiro e criar fontes de renda passiva. Tudo provém de muito trabalho e ao fazermos o que gostamos estamos em vantagem contra a nossa concorrência.   
+Outra lição do livro é a importância de encontrar a nossa verdadeira paixão e propósito. De acordo com Ravikant, seguir a nossa paixão e fazer o que amamos vai levar-nos a alcançar a verdadeira felicidade e realização. Após concentrarmo-nos na nossa paixão vamos encontrar formas de gerar dinheiro e criar fontes de renda passiva. Tudo provém de muito trabalho e ao fazer o que gostamos criamos vantagem sobre a nossa concorrência. 
 
 ## Mentalidade de gratidão
 
