@@ -1,7 +1,7 @@
 ---
-path: O dilema do bónus e que vieses nos atacam
+path: O dilema do bónus e os seus vieses
 date: 2023-09-03T02:47:00.837Z
-title: O dilema do bónus e que vieses nos atacam
+title: O dilema do bónus e os seus vieses
 author: aureliopita
 description: O que fazer quando recebemos bónus em ações.
 ---
