@@ -15,7 +15,7 @@ O meu amigo argumentou que, se tivesse 10.000 euros extra em dinheiro, usaria-o 
 
 O viés do lucro inesperado sugere que tendemos a tratar o dinheiro inesperado, como bónus, presentes ou sorte, de forma menos cautelosa do que o dinheiro que ganhamos através do nosso trabalho árduo. Parece que, inconscientemente, estamos mais dispostos a arriscar ou gastar esse dinheiro extra de maneira menos responsável.
 
-No entanto, é importante lembrar que, seja um bónus em ações ou dinheiro poupado do salário, ambos têm o mesmo valor intrínseco. Ignorar esse facto pode levar a decisões financeiras menos racionais.
+No entanto, é importante lembrar que, seja um bónus em ações ou dinheiro poupado do salário, ambos têm o mesmo valor intrínseco, isto é, valem o mesmo. Ignorar esse facto pode levar a decisões financeiras menos racionais.
 
 Outro ponto importante desenvolvido por Richard Thaler é o viés da contabilidade mental. Ele diz-nos que tendemos a categorizar o dinheiro pela forma como o recebemos, esquecendo mais uma vez o seu valor intrínseco. Isto é, se recebemos ações, estamos mais inclinados a deixar o dinheiro nas ações porque pertence a essa categoria, esquecendo o seu valor real e os nossos planos.
 
