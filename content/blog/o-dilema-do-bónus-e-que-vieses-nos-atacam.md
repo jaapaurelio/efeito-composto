@@ -21,7 +21,7 @@ Outro ponto importante desenvolvido por Richard Thaler é o viés da contabilida
 
 # Pensar a Longo Prazo
 
-A chave para tomar uma decisão financeira informada é pensar a longo prazo. O meu amigo revelou que, se recebesse 10.000 euros em dinheiro, usaria essa quantia para pagar sua casa. Portanto, faz sentido aplicar a mesma lógica ao bónus em ações.
+A chave para tomar uma decisão financeira informada é pensar a longo prazo. O meu amigo revelou que, se recebesse 10.000 euros em dinheiro, usaria essa quantia para pagar a casa. Portanto, faz sentido aplicar a mesma lógica ao bónus em ações.
 
 Investir em ações pode ser uma ótima estratégia a longo prazo, mas isso também implica riscos. O mercado de ações é volátil e os retornos nem sempre são garantidos, especialmente em ações individuais. Pagar a casa mais rapidamente, por outro lado, pode proporcionar uma segurança financeira substancial a curto prazo, reduzindo os encargos com juros e proporcionando paz de espírito.
 
