@@ -27,6 +27,8 @@ Investir em ações pode ser uma ótima estratégia a longo prazo, mas isso tamb
 
 ## A decisão sensata
 
-A minha recomendação é que nestas situações adotemos uma abordagem consistente e pensemos no bónus em ações da mesma forma que pensaríamos nos 10.000 euros poupados. Se a nossa prioridade é pagar a casa o mais rapidamente possível e sentimo-nos mais confortáveis com essa decisão, então usar o bónus em ações para acelerar o pagamento da casa deve ser a escolha mais sensata. Por outro lado, se ao poupar 10.000 em dinheiro a nossa ideia é comprar ações da nossa empresa, então manter as ações neste caso é uma escolha igualmente válida.
+A minha recomendação é que nestas situações adotemos uma abordagem consistente e pensemos no bónus em ações da mesma forma que pensaríamos nos 10.000 euros poupados. 
+
+Se a nossa prioridade é pagar a casa o mais rapidamente possível e sentimo-nos mais confortáveis com essa decisão, então usar o bónus em ações para acelerar o pagamento da casa deve ser a escolha mais sensata. Por outro lado, se ao poupar 10.000 em dinheiro a nossa ideia é comprar ações da nossa empresa, então manter as ações neste caso é uma escolha igualmente válida.
 
 Em última análise, o importante é que tomemos uma decisão alinhada com os nossos objetivos pessoais e nos sintamos confiantes nas nossas escolhas. O dinheiro, independentemente de como é recebido, deve ser utilizado para impulsionar nossos objetivos e construir um futuro sólido. Portanto, é fundamental ver o bónus em ações como dinheiro real e tomar uma decisão que leve-nos para mais perto dos nossos objetivos financeiros a longo prazo.
